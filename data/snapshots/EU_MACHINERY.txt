@@ -1,0 +1,100 @@
+Title: Machinery
+
+URL Source: https://single-market-economy.ec.europa.eu/sectors/mechanical-engineering/machinery_en
+
+Markdown Content:
+**The machinery sector is an important part of the engineering industry. Machinery and related products consist of an assembly of components, at least one of which moves, joined together for a specific application. The drive system of machinery is, in principle, powered by energy other than human or animal effort. Notable exceptions apply to manual operation of machinery for lifting loads or cases where repeated manual operation results in energy accumulation before release.**
+
+## EU machinery legislation
+
+One of the main legislations governing the harmonisation of essential health and safety requirements for machinery at EU level is the current[Machinery Directive 2006/42/EC](http://data.europa.eu/eli/dir/2006/42/oj).
+
+### The Machinery Directive
+
+The**Directive**
+
+*   promotes the**free movement of machinery within the single market**
+*   guarantees a**high level of protection for EU workers and citizens**
+
+As it is a 'new approach' directive, it promotes harmonisation through a combination of mandatory essential health and safety requirements and voluntary[harmonised standards](https://single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards/machinery-md_en)reflecting the state-of-the-art. The Directive**applies to products that are placed on the EU market for the first time**or when existing machinery is modified to such extent that it becomes de facto new machinery.
+
+The Machinery Directive was amended a few times to take account of technical progress. See the latest[consolidated version of the Machinery Directive](https://eur-lex.europa.eu/eli/dir/2006/42/2019-07-26).
+
+### The Machinery Regulation
+
+The**new**[Machinery Regulation (EU) 2023/1230](https://eur-lex.europa.eu/eli/reg/2023/1230/oj)was adopted on 14 June 2023. A corrigendum has been issued to address a clerical error as regards the application dates in the original version. See the latest[consolidated version of the Machinery Regulation](http://data.europa.eu/eli/reg/2023/1230/2023-06-29).
+
+The regulation aligns with the[New Legislative Framework](https://single-market-economy.ec.europa.eu/single-market/goods/new-legislative-framework_en). It continues to promote harmonisation through a combination of mandatory essential health and safety requirements and voluntary harmonised standards, as with the current Machinery Directive.
+
+The**Regulation**
+
+*   increases legal certainty, through uniform application
+*   integrates provisions for machinery with safety functions that are AI-powered
+*   integrates provisions for cyber-safety for compliance-relevant software data and safety control systems
+*   addresses the conformity assessment of machinery presenting a higher risk factor
+*   updates certain product category-specific provisions
+*   clarifies conditions under which the instructions for use and the declaration of conformity can be provided in a digital format
+*   applies on a mandatory basis as of 20 January 2027
+
+Article 6(9) of the new Machinery Regulation requires EU countries to periodically provide data and information on accidents or damage to health caused by machinery or related products. The Commission has provided [guidance and a standardised template](https://ec.europa.eu/docsroom/documents/62294) for collecting that data and information.
+
+### Compliance and conformity
+
+All machinery placed on the EU market before 20 January 2027 must comply with the current Machinery Directive 2006/42/EC. Manufacturers are allowed to state on an EU Declaration of Conformity that such machinery also conforms with Machinery Regulation (EU) 2023/1230 if applicable.
+
+## Guidance documents
+
+The Guide to the application of the Machinery Directive 2006/42/EC is available in English. It consists of useful examples and explanations covering virtually the entire scope of applying the Directive. The guide includes a thematic index to make it easier to navigate.
+
+*   [Machinery Directive application guide edition 2.3](https://ec.europa.eu/docsroom/documents/60145) (published April 2024)
+    *   For the German translated version, kindly prepared by the Austrian, Swiss, and German authorities, click or tap the "de" square next to the title in the link above
+
+*   [Application guide: ergonomic health and safety requirements](https://ec.europa.eu/docsroom/documents/9484/attachments/1/translations)
+
+This document above guides you through applying ergonomic essential health and safety requirements mentioned in section 1.1.6 of Annexe I to the Machinery Directive and the corresponding harmonised standards.
+
+## Market surveillance
+
+Market surveillance ensures that products on the EU market do not endanger EU workers and citizens. It also ensures the protection of other public interests, such as the environment, security and fairness in trade.
+
+See the lists of national market surveillance authorities linked below.
+
+*   [contact points by sector (09. Machinery)](https://ec.europa.eu/docsroom/documents/59677)
+*   [contacts by EU country](https://ec.europa.eu/docsroom/documents/59679)
+
+European cooperation on market surveillance takes place through informal groups of market surveillance authorities, called Administrative Cooperation groups (AdCos). The Commission supports these groups. The AdCo on machinery generally meets twice per year, either in Brussels or in another European location. The group works autonomously to a great extent.
+
+[Administrative Cooperation group on machinery market surveillance](https://circabc.europa.eu/ui/group/27c76fd2-cb47-4885-9d87-d28486d2eb8c)(access is limited to representatives of national market surveillance authorities and other authorised stakeholders)
+
+## Notified bodies
+
+EU countries inform the Commission and the other EU countries about which notified bodies are designated to carry out conformity assessment according to the machinery legislation. Notification of notified bodies and their withdrawal are the responsibility of the notifying EU country.
+
+*   Find bodies notified under Machinery Directive 2006/42/EC as well as Machinery Regulation (EU) 2023/1230 through the[NANDO information system](https://webgate.ec.europa.eu/single-market-compliance-space/#/notified-bodies)
+*   [European coordination of notified bodies](https://circabc.europa.eu/ui/group/9d136609-ab51-4c0e-8997-01a55255fa31)(access is limited to representatives of notified bodies and other authorised stakeholders)
+
+### 'Recommendation for use' (RfU) sheets
+
+The following 'recommendation for use' sheets reflect the common position of the notified bodies in the machinery sector. They assist notified bodies in their tasks with the conformity assessment of machinery, as linked to the EU type-examination procedure, and in accordance with the terms of the machinery legislation. All stakeholders involved in implementing this legislation are encouraged to use this helpful information.
+
+**Horizontal RfU**sheets are prefixed by 00 and apply to all types of machinery listed in Annex IV of the Machinery Directive and Annex I of the Machinery Regulation.
+
+*   [Horizontal RfUs](https://single-market-economy.ec.europa.eu/document/download/e9c3e289-068a-401e-b318-222d3cc8d755_en?filename=Horizontal%20RfUs%20in%20force%20MD%20-%20May%202026%281%29.pdf) concerning Machinery Directive 2006/42/EC
+*   [Horizontal RfUs](https://single-market-economy.ec.europa.eu/document/download/a4945277-0f77-44a1-9d3d-fd606f58ccf4_en?filename=Horizontal%20RfUs%20in%20force%20MR%20-%20Status%20May%202026.pdf) concerning Machinery Regulation (EU) 2023/1230
+
+**Vertical RfU**sheets apply more specifically to a particular category of machinery listed in Annex IV of the Machinery Directive and Annex I of the Machinery Regulation. For example, sheets prefixed by 01 deal with woodworking machinery, and sheets prefixed by 04 deal with injection or compression moulding machines.
+
+*   [Vertical RfUs](https://single-market-economy.ec.europa.eu/document/download/42a0351d-bb09-4606-bb9f-800ae754143f_en?filename=Vertical%20RfUs%20in%20force%20MD%20-%20Status%20May%202026.pdf) concerning Machinery Directive 2006/42/EC
+*   [Vertical RfUs](https://single-market-economy.ec.europa.eu/document/download/19efea4d-d29a-44c7-ba2e-5ca424167838_en?filename=Vertical%20RfUs%20list%20in%20force%20MR%20-%20Status%20May%202026.pdf) concerning Machinery Regulation (EU) 2023/1230
+
+## In the making
+
+[Proposal for a Regulation on the approval and market surveillance of non-road mobile machinery circulating on public roads](https://circabc.europa.eu/ui/group/126cd31c-cf60-47b6-8f9c-5ab34b6d4b2f/library/c1b19d9a-8daa-49bd-bfad-ec874abc291b/details?download=true)
+
+## Other relevant information
+
+*   Publicly available meeting minutes of the
+    *   [Machinery Working Group (from 1997 to 2020 – no longer an active group)](https://ec.europa.eu/docsroom/documents/44773)
+    *   Commission Expert Group on[Machinery (from 2021)](https://circabc.europa.eu/ui/group/126cd31c-cf60-47b6-8f9c-5ab34b6d4b2f/library/94791da7-0aa3-4734-a8cb-e32cf4a91cf1)
+
+*   [Machinery standardisation](https://single-market-economy.ec.europa.eu/single-market/goods/european-standards/harmonised-standards/machinery-md_en): European harmonised standards under Directive 2006/42/EC

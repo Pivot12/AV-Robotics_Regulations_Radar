@@ -1,0 +1,460 @@
+Title: Safety and functional safety
+
+URL Source: https://www.iec.ch/functionalsafety
+
+Published Time: Wed, 17 Jun 2026 12:06:31 GMT
+
+Markdown Content:
+# Safety and functional safety
+[Skip to main content](https://www.iec.ch/functionalsafety#main-content)[Technical Committee 150](https://www.iec.ch/tc150)
+
+## Top Menu
+
+*   [Advanced search](https://advsearch.iec.ch/)
+*   [Webstore](https://webstore.iec.ch/)
+*   [IEC PSP](https://products.iec.ch/)
+*   [e-tech](https://etech.iec.ch/)
+*   [Online learning](https://www.iec.ch/academy/online-learning-platform "Capacity building")
+*   [Contact us](https://www.iec.ch/contact "Contact")
+
+*   My IEC [Login](https://www.iec.ch/iec/openid/authenticate?url_from=https%3A%2F%2Fwww.iec.ch%2Ffunctional-safety)[Forgot password ?](https://www.iec.ch/iec/passwordrecovery)  
+
+[](https://www.iec.ch/functionalsafety)[](https://webstore.iec.ch/)
+
+My IEC 
+
+[Login](https://www.iec.ch/iec/openid/authenticate?url_from=https%3A%2F%2Fwww.iec.ch%2Ffunctional-safety)[Forgot password ?](https://login.iec.ch/auth/realms/iecsso/login-actions/reset-credentials?client_id=myiec)
+
+[![Image 3: Home](https://www.iec.ch/themes/custom/iec/images/iec-logo-mobile.svg)](https://www.iec.ch/ "Home")[![Image 4: Home](https://www.iec.ch/themes/custom/iec/images/IEC_logo.jpg)](https://www.iec.ch/ "Home")
+
+*   [Standards development](https://www.iec.ch/standards-development)[Standards development](https://www.iec.ch/standards-development) 
+    *   [About standards](https://www.iec.ch/about-standards)
+    *   [List of TC/SCs](https://www.iec.ch/technical-committees-and-subcommittees#tclist)
+    *   [TC/SCs facts and figures](https://www.iec.ch/technical-committees-and-subcommittees#tcfacts)
+    *   [TC tools](https://www.iec.ch/standards-development/technical-committees-tools)
+        *   [New projects](https://www.iec.ch/standards-development/new-projects)
+        *   [Patents](https://www.iec.ch/standards-development/iec-patent-declarations)
+
+        *   [New projects](https://www.iec.ch/standards-development/new-projects)
+        *   [Patents](https://www.iec.ch/standards-development/iec-patent-declarations)
+
+    *   [TC/SCs resource area](https://www.iec.ch/standards-development/resource-area)
+
+    *   [About standards](https://www.iec.ch/about-standards)
+    *   [List of TC/SCs](https://www.iec.ch/technical-committees-and-subcommittees#tclist)
+    *   [TC/SCs facts and figures](https://www.iec.ch/technical-committees-and-subcommittees#tcfacts)
+    *   [TC tools](https://www.iec.ch/standards-development/technical-committees-tools)
+        *   [New projects](https://www.iec.ch/standards-development/new-projects)
+        *   [Patents](https://www.iec.ch/standards-development/iec-patent-declarations)
+
+        *   [New projects](https://www.iec.ch/standards-development/new-projects)
+        *   [Patents](https://www.iec.ch/standards-development/iec-patent-declarations)
+
+    *   [TC/SCs resource area](https://www.iec.ch/standards-development/resource-area)
+
+*   [Conformity assessment](https://www.iec.ch/conformity-assessment)[Conformity assessment](https://www.iec.ch/conformity-assessment) 
+    *   [What is conformity assessment](https://www.iec.ch/conformity-assessment/what-conformity-assessment)
+    *   [Types of conformity assessment](https://www.iec.ch/conformity-assessment/types-conformity-assessment)
+    *   [How the global IEC CA Systems operate](https://www.iec.ch/conformity-assessment/how-global-iec-ca-systems-operate)
+    *   [IEC CA Systems](https://www.iec.ch/conformity-assessment/ca-systems)
+    *   [CA tools](https://www.iec.ch/conformity-assessment/ca-tools)
+
+    *   [What is conformity assessment](https://www.iec.ch/conformity-assessment/what-conformity-assessment)
+    *   [Types of conformity assessment](https://www.iec.ch/conformity-assessment/types-conformity-assessment)
+    *   [How the global IEC CA Systems operate](https://www.iec.ch/conformity-assessment/how-global-iec-ca-systems-operate)
+    *   [IEC CA Systems](https://www.iec.ch/conformity-assessment/ca-systems)
+    *   [CA tools](https://www.iec.ch/conformity-assessment/ca-tools)
+
+*   [Where we make a difference](https://www.iec.ch/where-we-make-difference)[Where we make a difference](https://www.iec.ch/where-we-make-difference) 
+    *   [All-electric and connected society](https://www.iec.ch/aecs)
+    *   [Energy](https://www.iec.ch/energies)
+    *   [SDGs](https://www.iec.ch/sdgs)
+    *   [Climate action](https://www.iec.ch/climate-action)
+    *   [Smart manufacturing](https://www.iec.ch/smart-manufacturing)
+    *   [Healthcare](https://www.iec.ch/healthcare)
+    *   [Cities and communities](https://www.iec.ch/cities-communities)
+    *   [Transportation](https://www.iec.ch/transportation)
+    *   [Cyber security](https://www.iec.ch/cyber-security "international standards and conformity assessment for cyber security")
+    *   [Digitalization](https://www.iec.ch/digitalization)
+    *   [AI](https://www.iec.ch/ai)
+    *   [Bio-digital convergence](https://www.iec.ch/biodigital-convergence)
+    *   [Quantum technology](https://www.iec.ch/quantum-technology)
+    *   [IoT](https://www.iec.ch/iot)
+    *   [Fundamentals](https://www.iec.ch/fundamentals)
+        *   [EMC](https://www.iec.ch/emc)
+        *   [Electropedia](https://www.iec.ch/electropedia)
+        *   [IP ratings](https://www.iec.ch/ip-ratings)
+        *   [SI - International system of units](https://www.iec.ch/si)
+        *   [Safety](https://www.iec.ch/functional-safety)
+            *   [Functional Safety FAQ](https://www.iec.ch/functional-safety/faq)
+
+            *   [Functional Safety FAQ](https://www.iec.ch/functional-safety/faq)
+
+        *   [Terminology & symbols](https://www.iec.ch/terminology-symbols)
+        *   [World plugs](https://www.iec.ch/world-plugs)
+
+        *   [EMC](https://www.iec.ch/emc)
+        *   [Electropedia](https://www.iec.ch/electropedia)
+        *   [IP ratings](https://www.iec.ch/ip-ratings)
+        *   [SI - International system of units](https://www.iec.ch/si)
+        *   [Safety](https://www.iec.ch/functional-safety)
+            *   [Functional Safety FAQ](https://www.iec.ch/functional-safety/faq)
+
+            *   [Functional Safety FAQ](https://www.iec.ch/functional-safety/faq)
+
+        *   [Terminology & symbols](https://www.iec.ch/terminology-symbols)
+        *   [World plugs](https://www.iec.ch/world-plugs)
+
+    *   [All-electric and connected society](https://www.iec.ch/aecs)
+    *   [Energy](https://www.iec.ch/energies)
+    *   [SDGs](https://www.iec.ch/sdgs)
+    *   [Climate action](https://www.iec.ch/climate-action)
+    *   [Smart manufacturing](https://www.iec.ch/smart-manufacturing)
+    *   [Healthcare](https://www.iec.ch/healthcare)
+    *   [Cities and communities](https://www.iec.ch/cities-communities)
+    *   [Transportation](https://www.iec.ch/transportation)
+    *   [Cyber security](https://www.iec.ch/cyber-security "international standards and conformity assessment for cyber security")
+    *   [Digitalization](https://www.iec.ch/digitalization)
+    *   [AI](https://www.iec.ch/ai)
+    *   [Bio-digital convergence](https://www.iec.ch/biodigital-convergence)
+    *   [Quantum technology](https://www.iec.ch/quantum-technology)
+    *   [IoT](https://www.iec.ch/iot)
+    *   [Fundamentals](https://www.iec.ch/fundamentals)
+        *   [EMC](https://www.iec.ch/emc)
+        *   [Electropedia](https://www.iec.ch/electropedia)
+        *   [IP ratings](https://www.iec.ch/ip-ratings)
+        *   [SI - International system of units](https://www.iec.ch/si)
+        *   [Safety](https://www.iec.ch/functional-safety)
+            *   [Functional Safety FAQ](https://www.iec.ch/functional-safety/faq)
+
+            *   [Functional Safety FAQ](https://www.iec.ch/functional-safety/faq)
+
+        *   [Terminology & symbols](https://www.iec.ch/terminology-symbols)
+        *   [World plugs](https://www.iec.ch/world-plugs)
+
+        *   [EMC](https://www.iec.ch/emc)
+        *   [Electropedia](https://www.iec.ch/electropedia)
+        *   [IP ratings](https://www.iec.ch/ip-ratings)
+        *   [SI - International system of units](https://www.iec.ch/si)
+        *   [Safety](https://www.iec.ch/functional-safety)
+            *   [Functional Safety FAQ](https://www.iec.ch/functional-safety/faq)
+
+            *   [Functional Safety FAQ](https://www.iec.ch/functional-safety/faq)
+
+        *   [Terminology & symbols](https://www.iec.ch/terminology-symbols)
+        *   [World plugs](https://www.iec.ch/world-plugs)
+
+*   [Who benefits](https://www.iec.ch/who-benefits)[Who benefits](https://www.iec.ch/who-benefits) 
+    *   [Industry](https://www.iec.ch/industry)
+    *   [Government & regulators](https://www.iec.ch/government-regulators)
+    *   [International organizations](https://www.iec.ch/international-organizations)
+    *   [Developing countries](https://www.iec.ch/developing-countries)
+    *   [Academia](https://www.iec.ch/academia)
+    *   [Consortia](https://www.iec.ch/consortia)
+    *   [How to get involved](https://www.iec.ch/how-get-involved)
+
+    *   [Industry](https://www.iec.ch/industry)
+    *   [Government & regulators](https://www.iec.ch/government-regulators)
+    *   [International organizations](https://www.iec.ch/international-organizations)
+    *   [Developing countries](https://www.iec.ch/developing-countries)
+    *   [Academia](https://www.iec.ch/academia)
+    *   [Consortia](https://www.iec.ch/consortia)
+    *   [How to get involved](https://www.iec.ch/how-get-involved)
+
+*   [News & resources](https://www.iec.ch/news-resources)[News & resources](https://www.iec.ch/news-resources) 
+    *   [News and opinion](https://www.iec.ch/news-opinion)
+    *   [Press releases](https://www.iec.ch/press-releases)
+    *   [Newsletters](https://www.iec.ch/subscribe)
+    *   [Events](https://www.iec.ch/events)
+    *   [Committee meetings](https://www.iec.ch/committee-meetings)
+    *   [Reference material](https://www.iec.ch/news-resources/reference-material)
+    *   [Facts & figures](https://www.iec.ch/what-we-do/facts-figures)
+    *   [Resource area](https://www.iec.ch/resource-area)
+    *   [Basecamp](https://www.iec.ch/basecamp)
+
+    *   [News and opinion](https://www.iec.ch/news-opinion)
+    *   [Press releases](https://www.iec.ch/press-releases)
+    *   [Newsletters](https://www.iec.ch/subscribe)
+    *   [Events](https://www.iec.ch/events)
+    *   [Committee meetings](https://www.iec.ch/committee-meetings)
+    *   [Reference material](https://www.iec.ch/news-resources/reference-material)
+    *   [Facts & figures](https://www.iec.ch/what-we-do/facts-figures)
+    *   [Resource area](https://www.iec.ch/resource-area)
+    *   [Basecamp](https://www.iec.ch/basecamp)
+
+*   [Programmes & initiatives](https://www.iec.ch/programmes-initiatives)[Programmes & initiatives](https://www.iec.ch/programmes-initiatives) 
+    *   [Academy & Capacity Building](https://www.iec.ch/academy)
+    *   [Affiliate Country Programme](https://www.iec.ch/acp)
+    *   [Young Professionals](https://www.iec.ch/young-professionals)
+    *   [IEC Global Impact Fund](https://www.iec.ch/global-impact-fund)
+    *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
+    *   [Global partnerships](https://www.iec.ch/global-partnerships)
+    *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
+    *   [Online standards development (OSD)](https://www.iec.ch/online-standards-development)
+    *   [Digital transformation](https://www.iec.ch/digital-transformation-hub)
+
+    *   [Academy & Capacity Building](https://www.iec.ch/academy)
+    *   [Affiliate Country Programme](https://www.iec.ch/acp)
+    *   [Young Professionals](https://www.iec.ch/young-professionals)
+    *   [IEC Global Impact Fund](https://www.iec.ch/global-impact-fund)
+    *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
+    *   [Global partnerships](https://www.iec.ch/global-partnerships)
+    *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
+    *   [Online standards development (OSD)](https://www.iec.ch/online-standards-development)
+    *   [Digital transformation](https://www.iec.ch/digital-transformation-hub)
+
+*   [Who we are](https://www.iec.ch/who-we-are)[Who we are](https://www.iec.ch/who-we-are) 
+    *   [What we do](https://www.iec.ch/what-we-do)
+    *   [About us](https://www.iec.ch/about-us)
+    *   [Vision and Mission](https://www.iec.ch/what-we-do/vision-mission)
+    *   [Our members](https://www.iec.ch/national-committees)
+    *   [Our affiliates](https://www.iec.ch/acp)
+    *   [IEC leadership](https://www.iec.ch/leadership)
+    *   [Management structure](https://www.iec.ch/management-structure)
+
+    *   [What we do](https://www.iec.ch/what-we-do)
+    *   [About us](https://www.iec.ch/about-us)
+    *   [Vision and Mission](https://www.iec.ch/what-we-do/vision-mission)
+    *   [Our members](https://www.iec.ch/national-committees)
+    *   [Our affiliates](https://www.iec.ch/acp)
+    *   [IEC leadership](https://www.iec.ch/leadership)
+    *   [Management structure](https://www.iec.ch/management-structure)
+
+*   [Advanced search](https://advsearch.iec.ch/)
+*   [Webstore](https://webstore.iec.ch/)
+*   [IEC PSP](https://products.iec.ch/)
+*   [e-tech](https://etech.iec.ch/)
+*   [Online learning](https://www.iec.ch/academy/online-learning-platform "Capacity building")
+*   [Contact us](https://www.iec.ch/contact "Contact")
+
+Toggle navigation
+
+[![Image 5: Home](https://www.iec.ch/themes/custom/iec/images/iec-logo-mobile.svg)](https://www.iec.ch/ "Home")[![Image 6: Home](https://www.iec.ch/themes/custom/iec/images/IEC_logo.jpg)](https://www.iec.ch/ "Home")
+## Main navigation
+
+*   [Standards development](https://www.iec.ch/standards-development)[Standards development](https://www.iec.ch/standards-development) 
+    *   [About standards](https://www.iec.ch/about-standards)
+    *   [List of TC/SCs](https://www.iec.ch/technical-committees-and-subcommittees#tclist)
+    *   [TC/SCs facts and figures](https://www.iec.ch/technical-committees-and-subcommittees#tcfacts)
+    *   [TC tools](https://www.iec.ch/standards-development/technical-committees-tools)
+    *   [TC/SCs resource area](https://www.iec.ch/standards-development/resource-area)
+
+    *   [About standards](https://www.iec.ch/about-standards)
+    *   [List of TC/SCs](https://www.iec.ch/technical-committees-and-subcommittees#tclist)
+    *   [TC/SCs facts and figures](https://www.iec.ch/technical-committees-and-subcommittees#tcfacts)
+    *   [TC tools](https://www.iec.ch/standards-development/technical-committees-tools)
+    *   [TC/SCs resource area](https://www.iec.ch/standards-development/resource-area)
+
+*   [Conformity assessment](https://www.iec.ch/conformity-assessment)[Conformity assessment](https://www.iec.ch/conformity-assessment) 
+    *   [What is conformity assessment](https://www.iec.ch/conformity-assessment/what-conformity-assessment)
+    *   [Types of conformity assessment](https://www.iec.ch/conformity-assessment/types-conformity-assessment)
+    *   [How the global IEC CA Systems operate](https://www.iec.ch/conformity-assessment/how-global-iec-ca-systems-operate)
+    *   [IEC CA Systems](https://www.iec.ch/conformity-assessment/ca-systems)
+    *   [CA tools](https://www.iec.ch/conformity-assessment/ca-tools)
+
+    *   [What is conformity assessment](https://www.iec.ch/conformity-assessment/what-conformity-assessment)
+    *   [Types of conformity assessment](https://www.iec.ch/conformity-assessment/types-conformity-assessment)
+    *   [How the global IEC CA Systems operate](https://www.iec.ch/conformity-assessment/how-global-iec-ca-systems-operate)
+    *   [IEC CA Systems](https://www.iec.ch/conformity-assessment/ca-systems)
+    *   [CA tools](https://www.iec.ch/conformity-assessment/ca-tools)
+
+*   [Where we make a difference](https://www.iec.ch/where-we-make-difference)[Where we make a difference](https://www.iec.ch/where-we-make-difference) 
+    *   [All-electric and connected society](https://www.iec.ch/aecs)
+    *   [Energy](https://www.iec.ch/energies)
+    *   [SDGs](https://www.iec.ch/sdgs)
+    *   [Climate action](https://www.iec.ch/climate-action)
+    *   [Smart manufacturing](https://www.iec.ch/smart-manufacturing)
+    *   [Healthcare](https://www.iec.ch/healthcare)
+    *   [Cities and communities](https://www.iec.ch/cities-communities)
+    *   [Transportation](https://www.iec.ch/transportation)
+    *   [Cyber security](https://www.iec.ch/cyber-security "international standards and conformity assessment for cyber security")
+    *   [Digitalization](https://www.iec.ch/digitalization)
+    *   [AI](https://www.iec.ch/ai)
+    *   [Bio-digital convergence](https://www.iec.ch/biodigital-convergence)
+    *   [Quantum technology](https://www.iec.ch/quantum-technology)
+    *   [IoT](https://www.iec.ch/iot)
+    *   [Fundamentals](https://www.iec.ch/fundamentals)
+
+    *   [All-electric and connected society](https://www.iec.ch/aecs)
+    *   [Energy](https://www.iec.ch/energies)
+    *   [SDGs](https://www.iec.ch/sdgs)
+    *   [Climate action](https://www.iec.ch/climate-action)
+    *   [Smart manufacturing](https://www.iec.ch/smart-manufacturing)
+    *   [Healthcare](https://www.iec.ch/healthcare)
+    *   [Cities and communities](https://www.iec.ch/cities-communities)
+    *   [Transportation](https://www.iec.ch/transportation)
+    *   [Cyber security](https://www.iec.ch/cyber-security "international standards and conformity assessment for cyber security")
+    *   [Digitalization](https://www.iec.ch/digitalization)
+    *   [AI](https://www.iec.ch/ai)
+    *   [Bio-digital convergence](https://www.iec.ch/biodigital-convergence)
+    *   [Quantum technology](https://www.iec.ch/quantum-technology)
+    *   [IoT](https://www.iec.ch/iot)
+    *   [Fundamentals](https://www.iec.ch/fundamentals)
+
+*   [Who benefits](https://www.iec.ch/who-benefits)[Who benefits](https://www.iec.ch/who-benefits) 
+    *   [Industry](https://www.iec.ch/industry)
+    *   [Government & regulators](https://www.iec.ch/government-regulators)
+    *   [International organizations](https://www.iec.ch/international-organizations)
+    *   [Developing countries](https://www.iec.ch/developing-countries)
+    *   [Academia](https://www.iec.ch/academia)
+    *   [Consortia](https://www.iec.ch/consortia)
+    *   [How to get involved](https://www.iec.ch/how-get-involved)
+
+    *   [Industry](https://www.iec.ch/industry)
+    *   [Government & regulators](https://www.iec.ch/government-regulators)
+    *   [International organizations](https://www.iec.ch/international-organizations)
+    *   [Developing countries](https://www.iec.ch/developing-countries)
+    *   [Academia](https://www.iec.ch/academia)
+    *   [Consortia](https://www.iec.ch/consortia)
+    *   [How to get involved](https://www.iec.ch/how-get-involved)
+
+*   [News & resources](https://www.iec.ch/news-resources)[News & resources](https://www.iec.ch/news-resources) 
+    *   [News and opinion](https://www.iec.ch/news-opinion)
+    *   [Press releases](https://www.iec.ch/press-releases)
+    *   [Newsletters](https://www.iec.ch/subscribe)
+    *   [Events](https://www.iec.ch/events)
+    *   [Committee meetings](https://www.iec.ch/committee-meetings)
+    *   [Reference material](https://www.iec.ch/news-resources/reference-material)
+    *   [Facts & figures](https://www.iec.ch/what-we-do/facts-figures)
+    *   [Resource area](https://www.iec.ch/resource-area)
+    *   [Basecamp](https://www.iec.ch/basecamp)
+
+    *   [News and opinion](https://www.iec.ch/news-opinion)
+    *   [Press releases](https://www.iec.ch/press-releases)
+    *   [Newsletters](https://www.iec.ch/subscribe)
+    *   [Events](https://www.iec.ch/events)
+    *   [Committee meetings](https://www.iec.ch/committee-meetings)
+    *   [Reference material](https://www.iec.ch/news-resources/reference-material)
+    *   [Facts & figures](https://www.iec.ch/what-we-do/facts-figures)
+    *   [Resource area](https://www.iec.ch/resource-area)
+    *   [Basecamp](https://www.iec.ch/basecamp)
+
+*   [Programmes & initiatives](https://www.iec.ch/programmes-initiatives)[Programmes & initiatives](https://www.iec.ch/programmes-initiatives) 
+    *   [Academy & Capacity Building](https://www.iec.ch/academy)
+    *   [Affiliate Country Programme](https://www.iec.ch/acp)
+    *   [Young Professionals](https://www.iec.ch/young-professionals)
+    *   [IEC Global Impact Fund](https://www.iec.ch/global-impact-fund)
+    *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
+    *   [Global partnerships](https://www.iec.ch/global-partnerships)
+    *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
+    *   [Online standards development (OSD)](https://www.iec.ch/online-standards-development)
+    *   [Digital transformation](https://www.iec.ch/digital-transformation-hub)
+
+    *   [Academy & Capacity Building](https://www.iec.ch/academy)
+    *   [Affiliate Country Programme](https://www.iec.ch/acp)
+    *   [Young Professionals](https://www.iec.ch/young-professionals)
+    *   [IEC Global Impact Fund](https://www.iec.ch/global-impact-fund)
+    *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
+    *   [Global partnerships](https://www.iec.ch/global-partnerships)
+    *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
+    *   [Online standards development (OSD)](https://www.iec.ch/online-standards-development)
+    *   [Digital transformation](https://www.iec.ch/digital-transformation-hub)
+
+*   [Who we are](https://www.iec.ch/who-we-are)[Who we are](https://www.iec.ch/who-we-are) 
+    *   [What we do](https://www.iec.ch/what-we-do)
+    *   [About us](https://www.iec.ch/about-us)
+    *   [Vision and Mission](https://www.iec.ch/what-we-do/vision-mission)
+    *   [Our members](https://www.iec.ch/national-committees)
+    *   [Our affiliates](https://www.iec.ch/acp)
+    *   [IEC leadership](https://www.iec.ch/leadership)
+    *   [Management structure](https://www.iec.ch/management-structure)
+
+    *   [What we do](https://www.iec.ch/what-we-do)
+    *   [About us](https://www.iec.ch/about-us)
+    *   [Vision and Mission](https://www.iec.ch/what-we-do/vision-mission)
+    *   [Our members](https://www.iec.ch/national-committees)
+    *   [Our affiliates](https://www.iec.ch/acp)
+    *   [IEC leadership](https://www.iec.ch/leadership)
+    *   [Management structure](https://www.iec.ch/management-structure)
+
+1.   [Home](https://www.iec.ch/)
+2.   [Where we make a difference](https://www.iec.ch/where-we-make-difference)
+3.   [Fundamentals](https://www.iec.ch/fundamentals)
+4.   Safety
+5.   Safety and functional safety
+
+[](https://www.iec.ch/functionalsafety)
+
+# Safety and functional safety
+
+Ensuring safety is one of the key principles guiding the work of the IEC while recognizing that zero risk is not possible
+
+## Safety is defined as the freedom from unacceptable risk of physical injury, and it is an integral aspect of all IEC work.
+
+Electricity is inherently dangerous and electrotechnical equipment represents many risks that require mitigation. Those can be caused by electric shock, hot surfaces, moving parts or hazardous substances, to name but a few. They can impact people, critical infrastructure, economies or the environment. The IEC has a dedicated technical advisory committee on safety ([ACOS](https://www.iec.ch/dyn/www/f?p=103:41:0::::FSP_ORG_ID,FSP_LANG_ID:3235,25)) which guides and coordinates IEC work on safety in standardization and together with conformity assessment helps ensure that safety issues are properly addressed.
+
+With the expansion of intelligent systems such as robotics, the internet of things or artificial intelligence, new and complex safety requirements are emerging. The increasing presence of machines in factories, logistics, mobility or healthcare, require safety procedures to protect the people interacting with them.
+
+![Image 7: Safety in the future](https://www.iec.ch/system/files/styles/original_image/private/2020-12/IEC_WP_Safety_in_the_future_En_LR-1.jpg?itok=LmY3BlXz)
+
+### Safety in the future
+
+ Advanced robotics, artificial intelligence, the Internet of Things are transforming how humans and electrotechnical systems interconnect. 
+
+[Read more](https://www.iec.ch/basecamp/safety-future)
+
+## Functional safety
+
+## Automatically reduce the level of risk in a device or system
+
+At home, at work or in public spaces, we are surrounded by an increasing number of electrical and electronic devices and systems. Functional safety focuses on electronics and related software and activates built-in safety mechanisms to reduce potential risks that could harm somebody or destroy something to a tolerable level.
+
+The sensors in automatic doors ensure that they open fast enough and close safely behind you. The detection of smoke by a sensor triggers the activation of a water sprinkler system inside an apartment building. An overflow valve is activated when a certain level of liquid or pressure has been reached.
+
+The[IEC 61508](https://webstore.iec.ch/publication/22273)series provides functional safety standards for the lifecycle of electrical, electronic or programmable electronic (E/E/PE) systems and products. It addresses those parts of a device or system that perform automated safety functions including, for example, sensors, control logic, actuators and micro-processors.
+
+Image
+
+![Image 8: Safety and functional safety infographic](https://www.iec.ch/system/files/2019-11/content/media/image/infographsafety2.png)
+
+IEC 61508 allows for the development of a uniform technical approach that can be applied to all safety systems in electronics and related software. It is a horizontal standard applicable across a wide range of sectors.
+
+The standard requires the analysis of the potential risks or hazards of a given system or device. It provides categories to determine the level of likelihood of a potential hazard and the consequences should it occur. IEC 61508 defines four safety integration levels (SIL) to indicate the degree to which a system will meet its specified safety functions.
+
+[Functional safety FAQ](https://www.iec.ch/functional-safety/faq)
+
+![Image 9: functional_safety-cover.jpg](https://www.iec.ch/system/files/styles/original_image/private/2019-11/content/media/image/functional_safety-cover.jpg?itok=Up5tPbKM)
+
+### Functional safety
+
+ An introduction to Functional safety and the IEC 61508 series. 
+
+[Read more](https://www.iec.ch/basecamp/functional-safety-essential-overall-safety)
+
+## Hazard based safety engineering
+
+## Hazard-based safety engineering (HBSE) is a methodology used in the development of safety standards.
+
+Safety considerations are an integral part of the design process. Risks must be identified and managed at the early stages of product development. Due to the integration of electronic devices, audio, video, IT and communication technologies, hazard-based safety engineering (HBSE) has become increasingly necessary.
+
+With HBSE, potentially hazardous situations are clearly identified and safeguards are put in place to increase product safety. Since safety requirements are outcome-based rather than prescriptive, HBSE which is part of [IEC 62368-1,](https://webstore.iec.ch/publication/63964)can be applied to a wide range of systems and devices.
+
+## Terminology
+
+*   [Electropedia](http://www.electropedia.org/)|
+*   [Abbreviations & acronyms](https://www.iec.ch/news-resources/reference-material#codes)
+
+## Follow us
+
+*   [](https://www.facebook.com/InternationalElectrotechnicalCommission)
+*   [](https://www.linkedin.com/company/international-electrotechnical-commission-iec-/)
+*   [](https://www.youtube.com/channel/UCxGk_S_rnYyFBcTidgny7EA)
+
+## Footer menu
+
+*   [Privacy](https://www.iec.ch/privacy)|
+*   [Contact](https://www.iec.ch/contact)|
+*   [FAQ](https://www.iec.ch/faq)|
+*   [Careers](https://www.iec.ch/careers)|
+*   [IEC offices](https://www.iec.ch/offices)|
+*   [Media resources](https://www.iec.ch/media-resources)
+
+[Copyright © IEC 2026](https://www.iec.ch/copyright "Copyright"). All rights reserved.
+
+Back to top
+
+## We use cookies on this site to enhance your user experience
+
+By clicking the Accept button, you agree to us doing so. [More info](https://www.iec.ch/node/40319)
+
+Accept No, thanks

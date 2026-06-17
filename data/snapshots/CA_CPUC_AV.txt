@@ -1,0 +1,67 @@
+Title: Autonomous Vehicle Programs
+
+URL Source: https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs
+
+Markdown Content:
+## Background
+
+On May 31, 2018, pursuant to Decision 18-05-043 ([Text of Decision](http://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M215/K279/215279920.PDF)|[Press Release](http://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M215/K467/215467801.PDF)), the Commission authorized two pilot programs for the private prearranged transportation of passengers in test autonomous vehicles (AVs):
+
+*   The "Drivered AV Passenger Service" pilot program allows for the provision of passenger service in test AVs with a driver in the vehicle. Under this pilot program, a safety driver is available to assist with operations if needed.
+*   The "Driverless AV Passenger Service" pilot program allows for the provision of passenger service in test AVs without a driver in the vehicle. Under this pilot program, a communication link between passengers and "remote operators" of the vehicle must be available and maintained at all times during passenger service.
+
+To be eligible to participate in the Commission's AV Passenger Service pilot programs, participants must possess the appropriate corresponding[Autonomous Vehicle Tester Program](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/bkgd)Manufacturer's Testing Permit from the California Department of Motor Vehicles (DMV) for AV[testing with a driver](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/testing)or[testing without a driver](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto/)and comply fully with[DMV's AV testing regulations](https://www.dmv.ca.gov/portal/wcm/connect/a6ea01e0-072f-4f93-aa6c-e12b844443cc/DriverlessAV_Adopted_Regulatory_Text.pdf?MOD=AJPERES)(California Code of Regulations, Title 13, Article 3.7).
+
+Under the AV Passenger Service pilot programs, monetary compensation may not be charged for any rides in test AVs.
+
+On November 20, 2020, pursuant to Decision 20-11-046 ([Text of Decision](https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M352/K185/352185092.PDF "D. 20-11-046") | [Press Release](https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M351/K623/351623457.PDF)) as modified by [Decision 21-05-017](https://docs.cpuc.ca.gov/SearchRes.aspx?DocFormat=ALL&DocID=401288191), the Commission authorized Phase I of two deployment programs: one for drivered and one for driverless autonomous vehicle service. Under the Phase I Deployment Programs, participants are authorized to charge fares for AV passenger service. In addition, applicants to the Driverless Pilot Program and the Driverless Phase I Deployment Program are required to submit Passenger Safety Plans that outline their plans to protect passenger safety. Applicants in the Commission's AV deployment programs must obtain an Autonomous Vehicle Deployment Permit from the California Department of Motor Vehicles (DMV).
+
+## Autonomous Vehicle Application Process and Reports
+
+*   [AV Program Application Guidance](https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs/application-requirements-for-autonomous-vehicle-programs)
+*   [Quarterly Reporting](https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs/quarterly-reporting)
+*   [Autonomous Vehicle Program Permits Issued](https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs/autonomous-vehicle-program-permits-issued)
+*   [Autonomous Vehicle Program Advice Letters](https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs/phase-i-driverless-autonomous-vehicle-deployment-program-advice-letter-status)
+
+## Autonomous Vehicle Workshops
+
+*   **June 22, 2023:** Public Workshop on Autonomous Vehicle Data Reporting
+    *   **[Agenda](https://www.cpuc.ca.gov/-/media/cpuc-website/files/uploadedfiles/cpucwebsite/content/licensing/av_2/061623/av-data-workshop-agenda-20230622.pdf)**
+
+    *   **[Workshop slides](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/20230622-cpuc-av-data-workshop-slides.pdf)**
+    *   **[Workshop recording](https://www.youtube.com/watch?v=sLUyEpV7dT0)**
+    *   **Post-workshop comments** may be filed by all parties no later than _June 27, 2023_.
+
+*   **October 22, 2019:** Autonomous Vehicle Pilot Program Workshop
+
+    *   [Agenda](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/av-pilot-workshop-agenda-10-22-2019---agenda.pdf "April 6, 2018: CPUC Press Release for CPUC Proposal of Autonomous Vehicle Pilot")
+    *   [Webex Session Recording](https://www.youtube.com/watch?v=d61At69QcjU&feature=youtu.be "Webex Session Recording")
+    *   [CPUC and DMV Presentation](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/102219-avpilotworkshop-cpucdmv---cpuc-and-dmv-presentation.pdf "CPUC and DMV Presentation")(revised 10/31/19)
+    *   Pilot Participants Presentations (Note: links to videos are included in the presentation themselves) 
+        *   [AutoX](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/102219-avpilotworkshop-autox.pdf "AutoX")
+        *   [Pony.ai](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/102219-avpilotworkshop-pony-ai.pdf "Pony.ai")
+        *   [Waymo](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/102219-avpilotworkshop-waymo.pdf "Waymo")
+        *   [Zoox](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/102219-avpilotworkshop-zoox.pdf "Zoox")
+
+    *   Related Information 
+        *   [R.19-02-012 - TNC Accessibility for Persons with Disabilities Program (SB 1376, Hill)](https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/transportation-network-companies/tnc-access-for-all-program)
+
+## Autonomous Vehicle Related Commission News and Updates
+
+*   [November 7, 2024: CPUC Press Release for Enhanced Autonomous Vehicle Reporting Requirements](https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M545/K912/545912708.PDF)
+*   [August 10, 2023: CPUC Press Release for Approval of Permits for Cruise and Waymo To Charge Fares for Passenger Service in San Francisco](https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-approves-permits-for-cruise-and-waymo-to-charge-fares-for-passenger-service-in-sf-2023)
+*   [November 18, 2022: CPUC Press Release for Waymo Driverless Pilot Permit Approval](https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M498/K970/498970838.PDF)
+*   [June 2, 2022: CPUC Press Release for First Autonomous Vehicle Driverless Deployment Permit Approval](https://www.cpuc.ca.gov/-/media/cpuc-website/files/uploadedfiles/cpucwebsite/content/licensing/autovehicle/2022-06-03-cpuc-issues-first-driverless-av-passenger-service-deployment-permit.pdf)
+*   [February 28, 2022: CPUC Press Release for First Autonomous Vehicle Drivered Deployment Permits](https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M455/K694/455694131.PDF)
+*   [February 28, 2022: FAQ – Drivered Pilot to Drivered Deployment Conversion](https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-carrier-pilot/frequently-asked-questions)
+*   [April 6, 2018: CPUC Press Release for CPUC Proposal of Autonomous Vehicle Pilot](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/april-6-2018-cpuc-press-release-for-cpuc-proposal-of-autonomous-vehicle-pilot.pdf "April 6, 2018: CPUC Press Release for CPUC Proposal of Autonomous Vehicle Pilot")
+
+## Contact Us
+
+Email:[AVPrograms@cpuc.ca.gov](mailto:AVPrograms@cpuc.ca.gov)
+
+ Mail: CPUC Transportation License Section
+
+ 505 Van Ness Avenue
+
+ San Francisco, CA 94102

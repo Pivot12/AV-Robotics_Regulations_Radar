@@ -1,0 +1,288 @@
+Title: Robotics - Overview | Occupational Safety and Health Administration
+
+URL Source: https://www.osha.gov/robotics
+
+Published Time: Wed, 17 Jun 2026 07:43:46 GMT
+
+Markdown Content:
+# Robotics - Overview | Occupational Safety and Health Administration
+[Skip to main content](https://www.osha.gov/robotics#main-content "Click here to skip to main content")
+
+![Image 1: U.S. flag](https://www.osha.gov/themes/contrib/ddp_dol_theme/build/img/us_flag_small.png)
+
+An official website of the United States government.
+
+Here’s how you know
+
+Here’s how you know
+
+![Image 2: Dot gov](https://www.osha.gov/themes/contrib/ddp_dol_theme/build/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+ Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+![Image 3: Https](https://www.osha.gov/themes/contrib/ddp_dol_theme/build/img/icon-https.svg)
+
+**The site is secure.**
+
+ The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+[![Image 4: United States Department of Labor](https://www.osha.gov/themes/contrib/ddp_dol_theme/img/Agency_DOL_Logo_dark.svg) U.S. Department of Labor](https://www.dol.gov/ "U.S. Department of Labor - Home")
+
+MENU
+
+## [Occupational Safety and Health Administration](https://www.osha.gov/ "Occupational Safety and Health Administration")
+
+[Contact Us](https://www.osha.gov/contactus "Contact us")[FAQ](https://www.osha.gov/faq "Frequently Asked Questions")[A to Z Index](https://www.osha.gov/a-z "A to Z Index")
+
+Powered by [![Image 5: Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
+
+[Languages](https://www.osha.gov/robotics#)
+*   [اَلْعَرَبِيَّةُ (Arabic)](javascript:doGTranslate("en|ar") "Arabic")
+*   [Sinugbuanong Binisayâ (Cebuano)](javascript:doGTranslate("en|ceb") "Cebuano")
+*   [简体字 (Chinese-Simplified)](javascript:doGTranslate("en|zh-CN") "Chinese-Simplified")
+*   [繁体字 (Chinese-Traditional)](javascript:doGTranslate("en|zh-TW") "Chinese-Traditional")
+*   [English](javascript:doGTranslate("en|en") "English")
+*   [Français (French)](javascript:doGTranslate("en|fr") "French")
+*   [Kreyòl ayisyen (Haitian Creole)](javascript:doGTranslate("en|ht") "Haitian Creole")
+*   [한국어 (Korean)](javascript:doGTranslate("en|ko") "Korean")
+*   [नेपाली (Nepali)](javascript:doGTranslate("en|ne") "Nepali")
+*   [Polski (Polish)](javascript:doGTranslate("en|pl") "Polish")
+*   [Português (Portuguese (Brazilian))](javascript:doGTranslate("en|pt") "Portuguese (Brazilian)")
+*   [Русский (Russian)](javascript:doGTranslate("en|ru") "Russian")
+*   [Af-Soomaali (Somali)](javascript:doGTranslate("en|so") "Somali")
+*   [Español (Spanish)](javascript:doGTranslate("en|es") "Spanish")
+*   [Українська (Ukrainian)](javascript:doGTranslate("en|uk") "Ukrainian")
+*   [Tiếng Việt (Vietnamese)](javascript:doGTranslate("en|vi") "Vietnamese")
+
+Search
+
+Search
+
+*   [OSHA Back](https://www.osha.gov/%23 "OSHA")
+    *   OSHA 
+    *   [About OSHA](https://www.osha.gov/aboutosha "About OSHA")
+    *   [Find an OSHA Office](https://www.osha.gov/contactus/bystate "Regional and Area Offices")
+    *   [State Plans](https://www.osha.gov/stateplans "State Plans")
+    *   [Job Safety and Health Poster](https://www.osha.gov/publications/poster "Job Safety and Health Poster")
+    *   [Careers](https://www.osha.gov/careers "Careers")
+    *   [Freedom of Information Act](https://www.osha.gov/foia "OSHA FOIA Page")
+    *   [Speaker Requests](https://www.osha.gov/speaker-requests "Speaker Requests")
+
+*   [Standards Back](https://www.osha.gov/%23 "Standards")
+    *   Standards 
+    *   [Law and Regulations](https://www.osha.gov/laws-regs "Law and Regulations")
+    *   [Federal Registers](https://www.osha.gov/laws-regs/federalregister/publicationdate/currentyear "Federal Registers Search")
+    *   [Open for Comment](https://www.regulations.gov/search?agencyIds=OSHA&withinCommentPeriod=true "Open for Comment")
+    *   [Regulatory Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=1200&Image58.x=38&Image58.y=14&Image58=Submit "Agency Rule List")
+    *   [Letters of Interpretation](https://www.osha.gov/laws-regs/standardinterpretations "Letters of Interpretation")
+    *   [Training Requirements by Standard](https://www.osha.gov/sites/default/files/publications/osha2254.pdf "Training Requirements by Standard (PDF)")
+
+*   [Enforcement Back](https://www.osha.gov/%23 "Enforcement")
+    *   Enforcement 
+    *   [OSHA Enforcement](https://www.osha.gov/enforcement "OSHA Enforcement")
+    *   [Whistleblower Protection Program](https://www.whistleblowers.gov/ "Whistleblower Protection Program")
+    *   [Annual Inspection Data](https://www.osha.gov/enforcement/current-enforcement-summary "2022 Enforcement Summary")
+
+*   [Topics Back](https://www.osha.gov/%23 "Topics")
+    *           *   Topics 
+        *   [For Employers](https://www.osha.gov/employers "For Employers")
+        *   [Worker Rights](https://www.osha.gov/workers "OSHA Workers Rights and Protections")
+        *   [Workers Memorial](https://www.osha.gov/workers-memorial "Workers Memorial")
+        *   [Fall Prevention](https://www.osha.gov/stop-falls "OSHA's Fall Prevention Campaign")
+        *   [Hazard Communication](https://www.osha.gov/hazcom "Hazard Communication")
+        *   [Heat](https://www.osha.gov/heat "Heat Illness Prevention Campaign")
+        *   [Personal Protective Equipment](https://www.osha.gov/personal-protective-equipment "Personal Protective Equipment")
+        *   [Suicide Prevention](https://www.osha.gov/preventingsuicides "Preventing Suicides")
+        *   [Trenching and Excavation](https://www.osha.gov/trenching-excavation "Trenching and Excavation")
+
+    *           *   By Sector 
+        *   [Agriculture](https://www.osha.gov/agricultural-operations "Agriculture Operations")
+        *   [Construction](https://www.osha.gov/construction "Directorate of Construction")
+        *   [Federal Agencies](https://www.osha.gov/enforcement/fap "Federal Agencies")
+        *   [Healthcare](https://www.osha.gov/healthcare "Healthcare Safety and Health Topics")
+        *   [Maritime](https://www.osha.gov/maritime "Maritime Industry")
+        *   [Oil and Gas](https://www.osha.gov/oil-and-gas-extraction "Oil and Gas Extraction")
+        *   [Warehousing](https://www.osha.gov/warehousing "Warehousing")
+
+    *           *   Key Topics 
+        *   [Recordkeeping Requirements and Forms](https://www.osha.gov/recordkeeping "Recordkeeping - Overview")
+        *   [Safety and Health Programs](https://www.osha.gov/safety-management "Safety and Health Program Recommendations")
+        *   [Support After a Loss](https://www.osha.gov/condolences "Support After a Loss")
+        *   [Whistleblower Protections](https://www.whistleblowers.gov/ "Whistleblower Protections")
+
+*   [HELP AND RESOURCES Back](https://www.osha.gov/%23 "HELP AND RESOURCES")
+    *           *   Help and Resources 
+        *   [Data](https://www.osha.gov/data "Data")
+        *   [Establishment Search](https://www.osha.gov/ords/imis/establishment.html "Establishment Search")
+        *   [Fatality Reports](https://www.osha.gov/fatalities "Fatality Reports")
+        *   [File a Complaint](https://www.osha.gov/workers/file-complaint "File a Safety and Health Complaint")
+        *   [Freedom of Information Act (FOIA)](https://www.osha.gov/foia "Freedom of Information Act (FOIA)")
+        *   [Publications](https://www.osha.gov/publications "Publications")
+        *   [Safety and Health Topics Pages](https://www.osha.gov/topics "Safety and Health Topics Pages")
+        *   [Videos](https://www.osha.gov/video "Videos")
+
+    *           *   Compliance Assistance 
+        *   [Compliance Assistance Specialists](https://www.osha.gov/complianceassistance/cas "Compliance Assistance Specialists")
+        *   [Consultation Services](https://www.osha.gov/consultation "Consultation Services")
+        *   [Cooperative Programs](https://www.osha.gov/cooperativeprograms "Cooperative Programs")
+        *   [Small Business Resources](https://www.osha.gov/smallbusiness "Small Business Resources")
+
+    *           *   Training 
+        *   [Training Requirements and Resources](https://www.osha.gov/training/library "Training Requirements and Resources")
+        *   [Outreach Training Program (10- and 30-hour Cards)](https://www.osha.gov/training/outreach "Outreach Training Program")
+        *   [Find a Trainer](https://www.osha.gov/training/outreach/find-a-trainer "Find a Trainer")
+        *   [Replace a Card](https://www.osha.gov/training#replacementcard "Training - How to get a replacement card")
+        *   [Avoid Card Fraud](https://www.osha.gov/training/oshacardfacts "The Facts About Obtaining an OSHA Card")
+        *   [OSHA Training Institute Education Centers](https://www.osha.gov/otiec "OSHA Training Institute Education Centers")
+        *   [Find a Center](https://www.osha.gov/otiec/map-old "OTI Education Center Locations")
+        *   [Search for Classes](https://www.osha.gov/otiec/courses/schedule "OTIEC Searchable Course Schedule")
+        *   [Susan Harwood Training Grants](https://www.osha.gov/harwoodgrants "Susan Harwood Training Grant Program")
+
+*   [NEWS Back](https://www.osha.gov/%23 "NEWS")
+    *   News 
+    *   [Federal Registers](https://www.osha.gov/laws-regs/federalregister/publicationdate/currentyear "Federal Registers - Current Year")
+    *   [Media Center](https://www.osha.gov/media-center "Media Center")
+    *   [News Releases](https://www.osha.gov/news/newsreleases "News Releases")
+    *   [QuickTakes Newsletter](https://www.osha.gov/quicktakes "OSHA QuickTakes")
+    *   [Información Rápida](https://www.osha.gov/quicktakes "Información Rápida")
+
+*   [Contact Us](https://www.osha.gov/contactus "Contact us")
+*   [FAQ](https://www.osha.gov/faq "Frequently Asked Questions")
+*   [A to Z Index](https://www.osha.gov/a-z "A to Z Index")
+
+[Languages](https://www.osha.gov/robotics#)
+*   [اَلْعَرَبِيَّةُ (Arabic)](javascript:doGTranslate("en|ar") "Arabic")
+*   [Sinugbuanong Binisayâ (Cebuano)](javascript:doGTranslate("en|ceb") "Cebuano")
+*   [简体字 (Chinese-Simplified)](javascript:doGTranslate("en|zh-CN") "Chinese-Simplified")
+*   [繁体字 (Chinese-Traditional)](javascript:doGTranslate("en|zh-TW") "Chinese-Traditional")
+*   [English](javascript:doGTranslate("en|en") "English")
+*   [Français (French)](javascript:doGTranslate("en|fr") "French")
+*   [Kreyòl ayisyen (Haitian Creole)](javascript:doGTranslate("en|ht") "Haitian Creole")
+*   [한국어 (Korean)](javascript:doGTranslate("en|ko") "Korean")
+*   [नेपाली (Nepali)](javascript:doGTranslate("en|ne") "Nepali")
+*   [Polski (Polish)](javascript:doGTranslate("en|pl") "Polish")
+*   [Português (Portuguese (Brazilian))](javascript:doGTranslate("en|pt") "Portuguese (Brazilian)")
+*   [Русский (Russian)](javascript:doGTranslate("en|ru") "Russian")
+*   [Af-Soomaali (Somali)](javascript:doGTranslate("en|so") "Somali")
+*   [Español (Spanish)](javascript:doGTranslate("en|es") "Spanish")
+*   [Українська (Ukrainian)](javascript:doGTranslate("en|uk") "Ukrainian")
+*   [Tiếng Việt (Vietnamese)](javascript:doGTranslate("en|vi") "Vietnamese")
+
+*   [Home](https://www.osha.gov/ "Home")
+*   [Safety and Health Topics](https://www.osha.gov/topics/text-index "Safety and Health Topics")
+*   Robotics
+
+### Robotics
+
+[**Robotics Menu**](https://www.osha.gov/robotics "Robotics Menu")[**Workers' Rights**](https://www.osha.gov/workers/ "Workers' Rights")
+*   [_Robotics Home_](https://www.osha.gov/robotics "Robotics Home")
+*   [Standards](https://www.osha.gov/robotics/standards "Standards")
+*   [Hazard Recognition](https://www.osha.gov/robotics/hazards "Hazard Recognition")
+*   [Hazard Evaluation and Solutions](https://www.osha.gov/robotics/hazard-evaluation-solutions "Hazard Evaluation and Solutions")
+*   [Additional Resources](https://www.osha.gov/robotics/resources "Additional Resources")
+*   [Workers' Rights](https://www.osha.gov/workers "Workers' Rights")
+
+#### Overview
+
+**Highlights**
+
+*   [Machine Guarding](https://www.osha.gov/SLTC/etools/machineguarding/index.html "Machine Guarding"). OSHA eTool. Focuses on recognizing and controlling common amputation hazards associated with the operation and use of certain types of machines.
+
+Industrial robots are programmable multifunctional mechanical devices designed to move material, parts, tools, or specialized devices through variable programmed motions to perform a variety of tasks. Robots are generally used to perform unsafe, hazardous, highly repetitive, and unpleasant tasks. They have many different functions such as material handling, assembly, welding, machine tool load and unload functions, painting, spraying, and so forth.
+
+Studies indicate that many robot accidents occur during non-routine operating conditions, such as programming, maintenance, testing, setup, or adjustment. During many of these operations the worker may temporarily be within the robot's working envelope where unintended operations could result in injuries.
+
+##### Standards
+
+There are currently no specific OSHA standards for the robotics industry.
+
+[More »](https://www.osha.gov/robotics/standards "More Standards Information")
+
+##### Hazard Recognition
+
+Provides references that aid in recognizing hazards related to robotics in the workplace.
+
+[More »](https://www.osha.gov/robotics/hazards "More Hazard Recognition Information")
+
+##### Hazard Evaluation and Solutions
+
+Provides references for evaluating hazards and possible solutions to control robotic hazards in the workplace.
+
+[More »](https://www.osha.gov/robotics/hazard-evaluation-solutions "More Hazard Evaluation and Solutions Information")
+
+##### Additional Resources
+
+Provides references that aid in recognizing hazards related to robotics in the workplace.
+
+[More »](https://www.osha.gov/robotics/resources "Additional Resources")
+
+**Highlights**
+
+*   [Machine Guarding](https://www.osha.gov/SLTC/etools/machineguarding/index.html "Machine Guarding"). OSHA eTool. Focuses on recognizing and controlling common amputation hazards associated with the operation and use of certain types of machines.
+
+[Scroll to Top](https://www.osha.gov/robotics#)
+
+*   [OSHA](https://www.osha.gov/aboutosha "OSHA")
+*   [Standards](https://www.osha.gov/laws-regs "Standards")
+*   [Enforcement](https://www.osha.gov/enforcement "Enforcement")
+*   [Topics](https://www.osha.gov/a-z "Topics")
+*   [Media Center](https://www.osha.gov/media-center "Media Center")
+*   [Contact Us](https://www.osha.gov/contactus "Contact Us")
+
+[![Image 6: United States Department of Labor](https://www.osha.gov/themes/contrib/ddp_dol_theme/img/DOL-MasterLogo_BLUE.svg)](https://www.dol.gov/ "U.S. Department of Labor Seal")
+
+U.S. Department of Labor
+
+Occupational Safety and Health Administration
+
+200 Constitution Ave NW 
+
+ Washington, DC 20210 
+
+[1-800-321-OSHA](tel:800-321-6742 "Call the Occupational Safety and Health Administration")
+
+[1-800-321-6742](tel:800-321-6742 "Call the Occupational Safety and Health Administration")
+
+[www.osha.gov](https://www.osha.gov/ "Occupational Safety and Health Administration")
+
+Federal Government 
+*   [White House](https://www.whitehouse.gov/)
+*   [Disaster Recovery Assistance](https://www.dol.gov/general/disasterrecovery)
+*   [DisasterAssistance.gov](https://www.disasterassistance.gov/)
+*   [USA.gov](https://www.usa.gov/)
+*   [No Fear Act Data](https://www.dol.gov/agencies/oasam/centers-offices/civil-rights-center/resports/notification-and-federal-employee-antidiscrimination-retaliation-act-of-2002)
+*   [U.S. Office of Special Counsel](https://osc.gov/)
+
+Occupational Safety & Health 
+*   [Frequently Asked Questions](https://www.osha.gov/faq)
+*   [A - Z Index](https://www.osha.gov/a-z)
+*   [Freedom of Information Act - OSHA](https://www.osha.gov/foia)
+*   [Read The OSHA Newsletter](https://www.osha.gov/quicktakes/)
+*   [Subscribe to the OSHA Newsletter](https://www.osha.gov/quicktakes/#subscribe)
+*   [OSHA Publications](https://www.osha.gov/publications)
+*   [Office of Inspector General](https://www.oig.dol.gov/)
+
+ABOUT THE SITE 
+*   [Freedom of Information Act](https://www.dol.gov/general/foia)
+*   [Disclaimers](https://www.dol.gov/general/disclaim)
+*   [Plug-ins Used on DOL.gov](https://www.dol.gov/general/aboutdol/file-formats)
+*   [Accessibility Statement](https://www.dol.gov/general/aboutdol/accessibility)
+*   [Privacy & Security Statement](https://www.dol.gov/general/privacynotice)
+*   [Important Website Notices](https://www.dol.gov/general/aboutdol/website-policies)
+*   [Site Map](https://www.dol.gov/general/findit)
+
+Connect With OSHA
+
+[Facebook](https://www.facebook.com/departmentoflabor "Department of Labor Facebook")[X](https://twitter.com/OSHA_DOL "Department of Labor Twitter")[Instagram](https://www.instagram.com/USDOL/ "Department of Labor Instagram")[Youtube](https://www.youtube.com/user/USDepartmentofLabor "Department of Labor Youtube")[Linkedin](https://www.linkedin.com/company/u-s-department-of-labor/ "Department of Linkedin")
+
+[Site Map](https://www.dol.gov/general/findit)[Important Website Notices](https://www.dol.gov/general/aboutdol/website-policies)[Privacy & Security Statement](https://www.dol.gov/general/privacynotice)
+
+![Image 7](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+
+Original text
+
+Rate this translation
+
+Your feedback will be used to help improve Google Translate

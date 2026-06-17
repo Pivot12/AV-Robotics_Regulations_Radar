@@ -1,0 +1,293 @@
+Title: ISO/TC 299 - Robotics
+
+URL Source: https://www.iso.org/committee/5915511.html
+
+Published Time: Wed, 17 Jun 2026 09:27:31 GMT
+
+Markdown Content:
+# ISO/TC 299 - Robotics
+[Skip to main content](https://www.iso.org/committee/5915511.html#content)
+
+*   [Applications](https://login.iso.org/ "ISO's applications portal")
+*   [OBP](https://www.iso.org/obp/ui/en/ "Online Browsing Platform")
+*   [English](https://www.iso.org/committee/5915511.html#)
+    *   [español](https://www.iso.org/es/contents/data/committee/59/15/5915511.html)
+    *   [français](https://www.iso.org/fr/committee/5915511.html)
+    *   [русский](https://www.iso.org/ru/committee/5915511.html)
+
+[](https://www.iso.org/home.html "International Organization for Standardization")
+
+![Image 1: ISO logo for print](https://www.iso.org/modules/isoorg-template/img/iso/iso-logo-print.gif)
+
+Menu
+*   [Standards](https://www.iso.org/standards.html "Covering almost every product, process or service imaginable, ISO makes standards used everywhere.")
+*   [Sectors](https://www.iso.org/committee/5915511.html)[Health](https://www.iso.org/sectors/health "(including medicine and laboratory equipment)") [IT & related technologies](https://www.iso.org/sectors/it-technologies "(including communication technology, graphics and photography)") [Management & services](https://www.iso.org/sectors/management-services "(Business management, financial and professional services)") [Security, safety & risk](https://www.iso.org/sectors/security-safety-risk) [Transport](https://www.iso.org/sectors/transport "(including vehicles, parts and infrastructure, freight, packaging and distribution)") [Energy](https://www.iso.org/sectors/energy "(including power generation and transport, fuels)") [Diversity & inclusion](https://www.iso.org/sectors/diversity-inclusion) [Environmental sustainability](https://www.iso.org/sectors/environment "Explore our Environmental sustainability sector.") [Food & agriculture](https://www.iso.org/sectors/food-agriculture) [Materials](https://www.iso.org/sectors/materials "(Ores and metals, non-metallic materials, chemicals)") [Building & construction](https://www.iso.org/sectors/building-construction) [Engineering](https://www.iso.org/sectors/engineering "(Mechanical engineering and special technologies such as robotics, optics, biotechnology, etc)")    
+*   [About ISO](https://www.iso.org/about "ISO brings together global experts to develop International Standards that help solve problems and drive innovation.")
+*   [Insights & news](https://www.iso.org/committee/5915511.html)[Insights](https://www.iso.org/committee/5915511.html)[All insights](https://www.iso.org/insights) [Healthcare](https://www.iso.org/insights/filtered-list-healthcare) [Artificial intelligence](https://www.iso.org/insights/filtered-list-artificial-intelligence) [Climate change](https://www.iso.org/insights/filtered-list-climate-change) [Transport](https://www.iso.org/insights/filtered-list-transport)   [](https://www.iso.org/committee/5915511.html)[Cybersecurity](https://www.iso.org/insights/filtered-list-information-security) [Quality management](https://www.iso.org/insights/filtered-list-quality-management) [Renewable energy](https://www.iso.org/insights/filtered-list-renewable-energy) [Occupational health and safety](https://www.iso.org/insights/filtered-list-occupational-health-and-safety) [Quantum computing](https://www.iso.org/insights/filtered-list-quantum-computing)   [News](https://www.iso.org/committee/5915511.html)[Expert talk](https://www.iso.org/insights/thought-leadership) [Standards world](https://www.iso.org/insights/standards-world) [Media kit](https://www.iso.org/home/insights-news/news/dossier-medias.html)   [Resources](https://www.iso.org/committee/5915511.html)[ISO 22000 explained](https://www.iso.org/home/insights-news/resources/iso-22000-explained.html "ISO 22000 is the International Standard for food safety management systems. It helps organizations identify hazards, manage risks and demonstrate their ability to provide safe food consistently.") [ISO 9001 explained](https://www.iso.org/home/insights-news/resources/iso-9001-explained.html "ISO 9001:2015 is the International Standard for quality management systems. It provides a framework that helps organizations deliver consistent products and services, improve efficiency and meet customer and regulatory expectations.") [ISO 14001 explained](https://www.iso.org/home/insights-news/resources/iso-14001-explained.html "ISO 14001:2015 is the International Standard for environmental management systems. It helps organizations manage their environmental impacts, comply with applicable legal requirements, prevent pollution and improve environmental performance over time.") [ISO 42001 explained](https://www.iso.org/home/insights-news/resources/iso-42001-explained-what-it-is.html "ISO/IEC 42001 is the International Standard for AI management systems. It provides requirements and guidance for organizations that develop, provide or use AI systems. ") [ISO 45001 explained](https://www.iso.org/home/insights-news/resources/iso-45001-explained-what-it-is.html "ISO 45001:2018 is the International Standard for occupational health and safety management systems. It helps organizations provide safe and healthy workplaces by preventing work-related injury and ill health, managing risks, and continually improving OHS performance.")      
+*   [Taking part](https://www.iso.org/developing-standards.html "Find out how the ISO process bring together global experts to create standards that are chosen the world over.")
+*   [Store](https://www.iso.org/store.html "Are you looking to buy International Standards, guidelines, collections and checklists? They're all right here, in the ISO Store.")
+
+Search
+
+[Cart](https://www.iso.org/webstore/checkout?memberId=ISO&guilang=en&continue_shopping=https%3A%2F%2Fwww.iso.org%2Fcommittee%2F5915511.html "Shopping cart")
+
+[Technical Committees](https://www.iso.org/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
+
+# ISO/TC 299
+
+Robotics
+
+## About
+
+*   Secretariat: [SIS](https://www.iso.org/member/2101.html "Swedish Institute for Standards (Sweden)")(Sweden) Committee Manager: [Ms Katarina Widström](mailto:katarina.widstrom@sis.se)  
+*   Chairperson(until end 2027): Mr Tomas Lagerberg  
+*   ISO Technical Programme Manager [TPM]:  [Mme Mercè Ferrés Hernández](mailto:ferres@iso.org)  ISO Editorial Manager [EM]:  [Ms Lucy Kirk](mailto:kirk@iso.org)  
+*    Creation date: 2015
+
+## Scope
+
+Standardization in the field of robotics, excluding toys and military applications
+
+### Quick links
+
+*   ##### [Work programme](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0 "ISO/TC 299 Work programme")
+
+Drafts and new work items  
+*   ##### [Working area](https://sd.iso.org/documents/ui/#!/browse/iso/iso-tc-299/ "Working area")
+
+Working documents (user account required)  
+*   ##### [ISO Electronic applications](https://login.iso.org/ "ISO Electronic applications")
+
+IT Tools that help support the standards development process  
+*   [Business plan](https://www.iso.org/sd/fetch/rBQf061t2NyimzgAIeezXskVWq_WSQy6rYBowH9QPjjvldRvOhiYzOF5J5Zm7_Ei) TC business plan for public review  
+
+![Image 2: Sustainable Development Goals](https://www.iso.org/files/live/sites/isoorg/files/data/sdg/en/sdg-logo.png)
+
+This committee contributes with 58 standards to the following [Sustainable Development Goals](https://www.iso.org/sdg):
+
+[3 Good Health and Well-being](https://www.iso.org/sdg/SDG03.html "Good Health and Well-being")[7 Affordable and Clean Energy](https://www.iso.org/sdg/SDG07.html "Affordable and Clean Energy")[8 Decent Work and Economic Growth](https://www.iso.org/sdg/SDG08.html "Decent Work and Economic Growth")[9 Industry, Innovation and Infrastructure](https://www.iso.org/sdg/SDG09.html "Industry, Innovation and Infrastructure")[11 Sustainable Cities and Communities](https://www.iso.org/sdg/SDG11.html "Sustainable Cities and Communities")[12 Responsible Consumption and Production](https://www.iso.org/sdg/SDG12.html "Responsible Consumption and Production")[13 Climate Action](https://www.iso.org/sdg/SDG13.html "Climate Action")
+
+[34](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/1/u/0/w/0/d/0)
+Published ISO standards*
+
+[23](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0)
+ISO standards under development*
+
+[33](https://www.iso.org/committee/5915511.html?view=participation)
+
+Participating members
+
+[10](https://www.iso.org/committee/5915511.html?view=participation)
+
+ Observing members
+
+* number includes updates
+
+*   ## [Structure](https://www.iso.org/committee/5915511.html#structure)
+*   ## [Liaisons](https://www.iso.org/committee/5915511.html#liaisons)
+*   ## [Meetings](https://www.iso.org/committee/5915511.html#meetings)
+
+| Reference | Title | Type |
+| --- | --- | --- |
+| ISO/TC 299/CAG [](javascript:void(0)) | Chair's Advisory Group | Working group |
+| ISO/TC 299/JWG 5 [](javascript:void(0)) | Joint ISO/TC 299 - IEC/SC 62A - IEC/SC 62D WG: Medical robotics | Working group |
+| ISO/TC 299/WG 1 [](javascript:void(0)) | Vocabulary and characteristics | Working group |
+| ISO/TC 299/WG 2 [](javascript:void(0)) | Service robot safety | Working group |
+| ISO/TC 299/WG 3 [](javascript:void(0)) | Industrial safety | Working group |
+| ISO/TC 299/WG 4 [](javascript:void(0)) | Service robot performance | Working group |
+| ISO/TC 299/WG 6 [](javascript:void(0)) | Modularity for service robots | Working group |
+| ISO/TC 299/WG 7 [](javascript:void(0)) | Management system for service robots | Working group |
+| ISO/TC 299/WG 8 [](javascript:void(0)) | Biomechanical Data and Validation Methods for Physical Human-Robot Interactions | Working group |
+| ISO/TC 299/WG 9 [](javascript:void(0)) | Electrical interfaces for industrial robot end- effectors | Working group |
+| ISO/TC 299/WG 10 [](javascript:void(0)) | Industrial mobile robot interoperability and communication | Working group |
+| ISO/TC 299/WG 11 [](javascript:void(0)) | Measuring energy consumption for industrial robots | Working group |
+| ISO/TC 299/WG 12 [](javascript:void(0)) | Safety of dynamically stable industrial mobile robots (legged, wheeled, or other forms of locomotion) | Working group |
+| ISO/TC 299/WG 13 [](javascript:void(0)) | Safety requirements of industrial and service robotics | Working group |
+| ISO/TC 299/WG 14 [](javascript:void(0)) | Safety requirements for industrial mobile robots | Working group |
+| ISO/TC 299/WG 15 [](javascript:void(0)) | Infrastructure for robot applications | Working group |
+| ISO/TC 299/WG 16 [](javascript:void(0)) | Humanoid robot datasets | Working group |
+
+### Liaison Committees to ISO/TC 299
+
+The committees below can access the documents of ISO/TC 299:
+
+| Reference | Title | ISO/IEC |
+| --- | --- | --- |
+| IEC/SC 62A | Common aspects of medical equipment, software, and systems | IEC |
+| IEC/SC 65C | Industrial networks | IEC |
+| IEC/SyC AAL | Active Assisted Living | IEC |
+| IEC/TC 45 | Nuclear instrumentation | IEC |
+| IEC/TC 61 | Safety of household and similar electrical appliances | IEC |
+| IEC/TC 116 | Safety of motor-operated electric tools | IEC |
+| IEC/TC 129 | Robotics for electricity generation, transmission and distribution systems | IEC |
+| [ISO/IEC JTC 1/SC 35](https://www.iso.org/committee/45382.html) | User interfaces | ISO/IEC |
+| [ISO/IEC JTC 1/SC 41](https://www.iso.org/committee/6483279.html) | Internet of things and digital twin | ISO/IEC |
+| [ISO/IEC JTC 1/SC 42](https://www.iso.org/committee/6794475.html) | Artificial intelligence | ISO/IEC |
+| [ISO/TC 20](https://www.iso.org/committee/46484.html) | Aircraft and space vehicles | ISO |
+| [ISO/TC 82/SC 8](https://www.iso.org/committee/6910144.html) | Automated and autonomous mining systems | ISO |
+| [ISO/TC 110/SC 2](https://www.iso.org/committee/51600.html) | Safety of powered industrial trucks | ISO |
+| [ISO/TC 159](https://www.iso.org/committee/53348.html) | Ergonomics | ISO |
+| [ISO/TC 159/SC 4](https://www.iso.org/committee/53372.html) | Ergonomics of human-system interaction | ISO |
+| [ISO/TC 173](https://www.iso.org/committee/53782.html) | Assistive products | ISO |
+| [ISO/TC 178](https://www.iso.org/committee/53970.html) | Lifts, escalators and moving walks | ISO |
+| [ISO/TC 184](https://www.iso.org/committee/54110.html) | Automation systems and integration | ISO |
+| [ISO/TC 184/SC 1](https://www.iso.org/committee/54124.html) | Industrial cyber and physical device control | ISO |
+| [ISO/TC 184/SC 5](https://www.iso.org/committee/54192.html) | Interoperability, integration, and architectures for enterprise systems and automation applications | ISO |
+| [ISO/TC 199](https://www.iso.org/committee/54604.html) | Safety of machinery | ISO |
+| [ISO/TC 204](https://www.iso.org/committee/54706.html) | Intelligent transport systems | ISO |
+| [ISO/TC 209](https://www.iso.org/committee/54874.html) | Cleanrooms and associated controlled environments | ISO |
+
+### Liaison Committees from ISO/TC 299
+
+ISO/TC 299 can access the documents of the committees below:
+
+| Reference | Title | ISO/IEC |
+| --- | --- | --- |
+| IEC/SC 61J | Safety of electrical motor-operated cleaning appliances for commercial use | IEC |
+| IEC/SC 62A | Common aspects of medical equipment, software, and systems | IEC |
+| IEC/SC 62D | Particular medical equipment, software, and systems | IEC |
+| IEC/SC 65C | Industrial networks | IEC |
+| IEC/SyC AAL | Active Assisted Living | IEC |
+| IEC/TC 59 | Performance of household and similar electrical appliances | IEC |
+| IEC/TC 61 | Safety of household and similar electrical appliances | IEC |
+| IEC/TC 108 | Safety of electronic equipment within the field of audio/video, information technology and communication technology | IEC |
+| IEC/TC 125 | e-Transporters | IEC |
+| [ISO/IEC JTC 1/SC 35](https://www.iso.org/committee/45382.html) | User interfaces | ISO/IEC |
+| [ISO/IEC JTC 1/SC 42](https://www.iso.org/committee/6794475.html) | Artificial intelligence | ISO/IEC |
+| [ISO/TC 110/SC 2](https://www.iso.org/committee/51600.html) | Safety of powered industrial trucks | ISO |
+| [ISO/TC 159/SC 4](https://www.iso.org/committee/53372.html) | Ergonomics of human-system interaction | ISO |
+| [ISO/TC 173](https://www.iso.org/committee/53782.html) | Assistive products | ISO |
+| [ISO/TC 184](https://www.iso.org/committee/54110.html) | Automation systems and integration | ISO |
+| [ISO/TC 199](https://www.iso.org/committee/54604.html) | Safety of machinery | ISO |
+
+### Organizations in liaison (Category A and B)
+
+| Acronym | Title | Category |
+| --- | --- | --- |
+| [euRobotics AISBL](https://www.iso.org/organization/8498110.html) | euRobotics AISBL | A |
+| [IEEE](https://www.iso.org/organization/11326.html) | Institute of Electrical and Electronics Engineers, Inc | A |
+| [IFR](https://www.iso.org/organization/9374.html) | International Federation of Robotics | A |
+| [WFEO](https://www.iso.org/organization/5122877.html) | World Federation of Engineering Organizations | A |
+
+| Date | Month | Location | TC/SC | Note |
+| --- | --- | --- | --- | --- |
+| 19-23 | April 2027 | Stockholm (Sweden) | ISO/TC 299 | [*](https://www.iso.org/committee/5915511.html) |
+
+* * *
+
+* Information definite but meeting not yet formally convened
+
+ ** Provisional
+
+## ISO/TC 299 - Secretariat
+
+### [SIS](https://www.iso.org/member/2101.html "Swedish Institute for Standards (Sweden)") (Sweden)
+
+Swedish Institute for Standards
+
+P.O. Box 45443
+
+Sweden
+
+Tel: +46 8 55 55 20 00 / +46 8 555 520 00
+
+Fax: +46 8 55 55 20 01 / +46 8 555 520 01
+
+Email: [info@sis.se](mailto:info@sis.se "email")
+
+Web: [http://www.sis.se/](http://www.sis.se/ "email")
+
+1.   [](https://www.iso.org/home.html "Home page")
+2.   [Taking part](https://www.iso.org/developing-standards.html)
+3.   [Who develops standards](https://www.iso.org/who-develops-standards.html)
+4.   [Technical Committees](https://www.iso.org/technical-committees.html)
+5.   ISO/TC 299
+
+[Sitemap](https://www.iso.org/committee/5915511.html#collapseSitemap)
+
+*   [Standards](https://www.iso.org/standards.html "Covering almost every product, process or service imaginable, ISO makes standards used everywhere.")
+    *   [Benefits](https://www.iso.org/benefits-of-standards.html "Whether you run a business, work for a company or government, or you are a consumer looking for goods and services that meet customer expectations: Find out what standards can do for you.")
+    *   [Popular standards](https://www.iso.org/popular-standards.html "Here you can discover some of the best-known and most widely-used standards, as well as those that address recently emerged challenges affecting us all.
+
+")
+    *   [Conformity assessment](https://www.iso.org/conformity-assessment.html "A set of processes that show your product, service or system meets the requirements of a standard.")
+    *   [SDGs](https://www.iso.org/sdg "Organizations and companies looking to contribute to the SDGs will find that International Standards provide effective tools to help them rise to the challenge.")
+
+*   [Sectors](https://www.iso.org/committee/5915511.html)
+    *   [Health](https://www.iso.org/sectors/health "(including medicine and laboratory equipment)")
+    *   [IT & related technologies](https://www.iso.org/sectors/it-technologies "(including communication technology, graphics and photography)")
+    *   [Management & services](https://www.iso.org/sectors/management-services "(Business management, financial and professional services)")
+    *   [Security, safety & risk](https://www.iso.org/sectors/security-safety-risk)
+    *   [Transport](https://www.iso.org/sectors/transport "(including vehicles, parts and infrastructure, freight, packaging and distribution)")
+    *   [Energy](https://www.iso.org/sectors/energy "(including power generation and transport, fuels)")
+    *   [Environmental sustainability](https://www.iso.org/sectors/environment "Explore our Environmental sustainability sector.")
+    *   [Materials](https://www.iso.org/sectors/materials "(Ores and metals, non-metallic materials, chemicals)")
+
+*   [About ISO](https://www.iso.org/about "ISO brings together global experts to develop International Standards that help solve problems and drive innovation.")
+    *   [What we do](https://www.iso.org/what-we-do.html "Find out how we develop and publish international standards by bringing together more than 160 members and more than 45,000 experts")
+    *   [Structure](https://www.iso.org/structure.html)
+    *   [Members](https://www.iso.org/about/members "The members of the International Organization for Standardization are 177 national standards bodies, each representing ISO in their country.")
+    *   [Events](https://www.iso.org/events.html "Find out what's coming up and what you might have missed.")
+    *   [Strategy](https://www.iso.org/strategy2030.html "Making lives easier, safer and better. Our Strategy outlines our vision and our mission for the next 10 years and a set of goals and priorities to help us get there.")
+
+*   [Insights & news](https://www.iso.org/committee/5915511.html)
+    *   [Insights](https://www.iso.org/committee/5915511.html)
+        *   [All insights](https://www.iso.org/insights)
+        *   [Healthcare](https://www.iso.org/insights/filtered-list-healthcare)
+        *   [Artificial intelligence](https://www.iso.org/insights/filtered-list-artificial-intelligence)
+        *   [Climate change](https://www.iso.org/insights/filtered-list-climate-change)
+        *   [Transport](https://www.iso.org/insights/filtered-list-transport)
+
+    *   [News](https://www.iso.org/committee/5915511.html)
+        *   [Expert talk](https://www.iso.org/insights/thought-leadership)
+        *   [Standards world](https://www.iso.org/insights/standards-world)
+        *   [Media kit](https://www.iso.org/home/insights-news/news/dossier-medias.html)
+
+    *   [Resources](https://www.iso.org/committee/5915511.html)
+        *   [ISO 22000 explained](https://www.iso.org/home/insights-news/resources/iso-22000-explained.html "ISO 22000 is the International Standard for food safety management systems. It helps organizations identify hazards, manage risks and demonstrate their ability to provide safe food consistently.")
+        *   [ISO 9001 explained](https://www.iso.org/home/insights-news/resources/iso-9001-explained.html "ISO 9001:2015 is the International Standard for quality management systems. It provides a framework that helps organizations deliver consistent products and services, improve efficiency and meet customer and regulatory expectations.")
+        *   [ISO 14001 explained](https://www.iso.org/home/insights-news/resources/iso-14001-explained.html "ISO 14001:2015 is the International Standard for environmental management systems. It helps organizations manage their environmental impacts, comply with applicable legal requirements, prevent pollution and improve environmental performance over time.")
+        *   [ISO 42001 explained](https://www.iso.org/home/insights-news/resources/iso-42001-explained-what-it-is.html "ISO/IEC 42001 is the International Standard for AI management systems. It provides requirements and guidance for organizations that develop, provide or use AI systems. ")
+        *   [ISO 45001 explained](https://www.iso.org/home/insights-news/resources/iso-45001-explained-what-it-is.html "ISO 45001:2018 is the International Standard for occupational health and safety management systems. It helps organizations provide safe and healthy workplaces by preventing work-related injury and ill health, managing risks, and continually improving OHS performance.")
+
+*   [Taking part](https://www.iso.org/developing-standards.html "Find out how the ISO process bring together global experts to create standards that are chosen the world over.")
+    *   [Who develops standards](https://www.iso.org/who-develops-standards.html "ISO has put together groups of experts that represent every sector imaginable from soaps to spacecraft, MP3 to coffee. In fact there are more than 250 technical committees. You can find out what they do here.")
+    *   [Deliverables](https://www.iso.org/deliverables-all.html "The different types of ISO publications.")
+    *   [Get involved](https://www.iso.org/get-involved.html)
+    *   [Collaborating to accelerate effective climate action](https://www.iso.org/ClimateAction.html "The ISO Climate Action Kit is a collection of case studies from around the world on how standards can be effectively used as a tool for sustainability.")
+    *   [Resources](https://www.iso.org/resources.html "Resources to support the work of individuals involved in standards development. ")
+        *   [Drafting standards](https://www.iso.org/drafting-standards.html)
+
+*   [Store](https://www.iso.org/store.html "Are you looking to buy International Standards, guidelines, collections and checklists? They're all right here, in the ISO Store.")
+    *   [Store](https://www.iso.org/store.html)
+    *   [Publications and products](https://www.iso.org/publication-list.html "ISO publications give insights and guidance into specific applications and show how standards add value.")
+
+*   [ISO name and logo](https://www.iso.org/iso-name-and-logo.html)
+*   [Privacy Notice](https://www.iso.org/privacy.html)
+*   [Copyright](https://www.iso.org/copyright.html)
+*   [Cookie policy](https://www.iso.org/cookies.html)
+*   [Media kit](https://www.iso.org/media-kit.html)
+*   [Jobs](https://www.iso.org/working-with-iso.html)
+*   [Help and support](https://www.iso.org/contact-iso.html)
+
+Making lives**_easier_**,**_safer_**and**_better_**.
+
+[Sign up](https://www.iso.org/insights/subscribe)
+
+for email updates
+
+*   [](https://www.linkedin.com/company/isostandards "Linkedin")
+*   [](https://www.facebook.com/isostandards "Facebook")
+*   [](https://www.instagram.com/isostandards "Instagram")
+*   [](https://www.youtube.com/ISO "YouTube")
+*   [](https://www.vimeo.com/isostandards "Vimeo")
+*   [](https://www.flickr.com/photos/isostandards "Flickr")
+
+© All Rights Reserved
+All ISO publications and materials are protected by copyright and are subject to the user’s acceptance of ISO’s conditions of copyright. Any use, including reproduction requires our written permission. All copyright requests should be addressed to [copyright@iso.org](mailto:copyright@iso.org).
+
+With the exception of the content available through the [ISO Open data](https://www.iso.org/open-data.html "open-data")page and subject to the terms contained therein, no ISO content may be used for any machine learning and/or artificial intelligence and/or similar technologies, including but not limited to accessing or using it to (i) train data for large language or similar models, or (ii) prompt or otherwise enable artificial intelligence or similar tools to generate responses.
+
+We are committed to ensuring that our website is accessible to everyone. If you have any questions or suggestions regarding the accessibility of this site, please [contact us](mailto:webmaster@iso.org?subject=Accessibility).
+
+#### Add to cart

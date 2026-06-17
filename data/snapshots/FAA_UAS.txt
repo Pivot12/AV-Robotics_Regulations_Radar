@@ -1,0 +1,367 @@
+Title: Unmanned Aircraft Systems (UAS)
+
+URL Source: https://www.faa.gov/uas
+
+Published Time: Wed, 17 Jun 2026 11:45:46 GMT
+
+Markdown Content:
+[Skip to feedback](https://www.faa.gov/uas#fba-button)[Skip to main content](https://www.faa.gov/uas#main)
+
+## USA Banner
+
+![Image 1: U.S. flag](https://www.faa.gov/themes/custom/dot_cms/images/assets/us_flag_small.svg)
+
+An official website of the United States government
+
+![Image 2: Official US Government Icon](https://www.faa.gov/themes/custom/dot_cms/images/assets/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3: Secure Site Icon](https://www.faa.gov/themes/custom/dot_cms/images/assets/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** (  ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: Home](https://www.faa.gov/themes/custom/faa/images/logo-faa.svg)](https://www.faa.gov/ "Home")
+
+## Main navigation (Desktop)
+
+*   [Aircraft](https://www.faa.gov/aircraft)
+## Subnav: Aircraft 1
+
+    *   [Aircraft Certification](https://www.faa.gov/aircraft/air_cert/)
+    *   [Aviation Safety Draft Documents Open for Comment](https://www.faa.gov/aircraft/draft_docs/)
+    *   [Vintage & Experimental Aircraft Program](https://www.faa.gov/licenses_certificates/vintage_experimental/)
+
+## Subnav: Aircraft 2
+
+    *   [Aircraft Safety](https://www.faa.gov/aircraft/safety/)
+    *   [General Aviation & Recreational Aircraft](https://www.faa.gov/aircraft/gen_av/)
+    *   [Repair Stations](https://www.faa.gov/aircraft/repair/)
+    *   [Air Carrier & Air Agency Certification](https://www.faa.gov/licenses_certificates/airline_certification/)
+
+*   [Air Traffic](https://www.faa.gov/air_traffic)
+## Subnav: Air Traffic 1
+
+    *   [Air Traffic By The Numbers](https://www.faa.gov/air_traffic/by_the_numbers/)
+    *   [Air Traffic Environmental Review](https://www.faa.gov/air_traffic/environmental_issues/)
+    *   [Community Engagement](https://www.faa.gov/air_traffic/community_engagement/)
+    *   [Flight Information](https://www.faa.gov/air_traffic/flight_info/)
+    *   [International Aviation](https://www.faa.gov/air_traffic/international_aviation/)
+    *   [National Airspace System](https://www.faa.gov/air_traffic/nas/)
+
+## Subnav: Air Traffic 2
+
+    *   [NextGen](https://www.faa.gov/nextgen/)
+    *   [Obstruction Evaluation](https://www.faa.gov/air_traffic/obstruction_evaluation/)
+    *   [Air Traffic Plans and Publications](https://www.faa.gov/air_traffic/publications/)
+    *   [Separation Standards](https://www.faa.gov/air_traffic/separation_standards/)
+    *   [Technology](https://www.faa.gov/air_traffic/technology/)
+    *   [Weather](https://www.faa.gov/air_traffic/weather/)
+
+*   [Airports](https://www.faa.gov/airports)
+## Subnav: Airports 1
+
+    *   [Airport Cooperative Research Program](https://www.faa.gov/airports/acrp/)
+    *   [Airport Improvement Program](https://www.faa.gov/airports/aip/)
+    *   [Airport Compliance](https://www.faa.gov/airports/airport_compliance/)
+    *   [Airport Rescue Grants](https://www.faa.gov/airports/airport_rescue_grants/)
+    *   [Airport Safety](https://www.faa.gov/airports/airport_safety/)
+    *   [Airport Certification](https://www.faa.gov/airports/airport_safety/part139_cert)
+    *   [CARES Act Grants](https://www.faa.gov/airports/cares_act/)
+    *   [Airport Coronavirus Response Grant Program](https://www.faa.gov/airports/crrsaa/)
+
+## Subnav: Airports 2
+
+    *   [Engineering, Design, & Construction](https://www.faa.gov/airports/engineering/)
+    *   [Environmental Programs](https://www.faa.gov/airports/environmental/)
+    *   [News & Information](https://www.faa.gov/airports/news_information/)
+    *   [Passenger Facility Charge (PFC) Program](https://www.faa.gov/airports/pfc/)
+    *   [Planning & Capacity](https://www.faa.gov/airports/planning_capacity/)
+    *   [Resources](https://www.faa.gov/airports/resources/)
+    *   [Regions](https://www.faa.gov/airports/regions/)
+    *   [Runway Safety](https://www.faa.gov/airports/runway_safety/)
+    *   [Airport Safety Information Video Series](https://www.faa.gov/airports/safety-video-series)
+
+*   [Pilots & Airmen](https://www.faa.gov/pilots)
+## Subnav: Airmen 1
+
+    *   [Find an Aviation Medical Examiner](https://www.faa.gov/pilots/amelocator/)
+    *   [Become a Pilot](https://www.faa.gov/pilots/become/)
+    *   [International Flight](https://www.faa.gov/pilots/intl/)
+    *   [Pilot Certificates & Records](https://www.faa.gov/pilots/lic_cert/)
+    *   [Medical Certification](https://www.faa.gov/pilots/medical_certification)
+    *   [FAA Safety Team](https://www.faa.gov/faasteam)
+
+## Subnav: Airmen 2
+
+    *   [Mechanics](https://www.faa.gov/mechanics)
+    *   [Repairmen](https://www.faa.gov/repairmen)
+    *   [Designees](https://www.faa.gov/other_visit/aviation_industry/designees_delegations)
+    *   [Airmen Certification](https://www.faa.gov/licenses_certificates/airmen_certification/)
+    *   [Training & Testing](https://www.faa.gov/training_testing)
+    *   [From the Flight Deck](https://www.faa.gov/flight_deck)
+
+*   [Data & Research](https://www.faa.gov/data_research)
+## Subnav: Data & Research 1
+
+    *   [Accident & Incident Data](https://www.faa.gov/data_research/accident_incident/)
+    *   [Aviation Forecasts](https://www.faa.gov/data_research/aviation/)
+    *   [Aviation Data & Statistics](https://www.faa.gov/data_research/aviation_data_statistics/)
+    *   [Commercial Space Data](https://www.faa.gov/data_research/commercial_space_data/)
+    *   [Economic Impact](https://www.faa.gov/economic-impact)
+
+## Subnav: Data & Research 2
+
+    *   [Funding & Grant Data](https://www.faa.gov/data_research/funding_grant/)
+    *   [Passengers & Cargo](https://www.faa.gov/data_research/passengers_cargo/)
+    *   [Research](https://www.faa.gov/data_research/research/)
+    *   [Safety](https://www.faa.gov/data_research/safety/)
+    *   [Technical Library](https://www.faa.gov/data_research/library)
+
+*   [Regulations](https://www.faa.gov/regulations_policies)
+## Subnav: Regulations 1
+
+    *   [Advisory Circulars](https://www.faa.gov/regulations_policies/advisory_circulars/)
+    *   [Airworthiness Directives](https://www.faa.gov/regulations_policies/airworthiness_directives/)
+    *   [FAA Regulations](https://www.faa.gov/regulations_policies/faa_regulations/)
+    *   [Forms](https://www.faa.gov/forms)
+    *   [Handbooks & Manuals](https://www.faa.gov/regulations_policies/handbooks_manuals/)
+    *   [Orders & Notices](https://www.faa.gov/regulations_policies/orders_notices/)
+
+## Subnav: Regulations 2
+
+    *   [Pilot Records Database](https://www.faa.gov/regulations_policies/pilot_records_database/)
+    *   [Policy & Guidance](https://www.faa.gov/regulations_policies/policy_guidance/)
+    *   [Rulemaking](https://www.faa.gov/regulations_policies/rulemaking/)
+    *   [Temporary Flight Restrictions](https://tfr.faa.gov/)
+    *   [Notices to Airmen (NOTAM)](https://pilotweb.nas.faa.gov/PilotWeb/)
+
+*   [Space](https://www.faa.gov/space)
+## Subnav: Space 1
+
+    *   [About the Office of Commercial Space Transportation](https://www.faa.gov/about/office_org/headquarters_offices/ast)
+    *   [Careers](https://www.faa.gov/space/careers)
+    *   [Licenses, Permits & Approvals](https://www.faa.gov/space/licenses)
+    *   [Resources & Additional Information](https://www.faa.gov/space/resources_and_Information)
+    *   [Legislation & Policies, Regulations & Guidance](https://www.faa.gov/space/legislation_regulation_guidance/)
+    *   [Environmental](https://www.faa.gov/space/environmental)
+    *   [Spaceports](https://www.faa.gov/space/office_spaceports)
+
+## Subnav: Space 2
+
+    *   [Airspace Integration](https://www.faa.gov/space/airspace_integration/)
+    *   [Stakeholder Engagement](https://www.faa.gov/space/stakeholder_engagement/)
+    *   [Compliance, Enforcement & Mishap](https://www.faa.gov/space/compliance_enforcement_mishap)
+    *   [Commercial Human Space Flight](https://www.faa.gov/space/human_spaceflight)
+
+*   [Drones](https://www.faa.gov/uas)
+## Subnav: Drones 1
+
+    *   [Advanced Air Mobility](https://www.faa.gov/air-taxis)
+    *   [Advanced Operations](https://www.faa.gov/uas/advanced_operations/)
+    *   [Certificated Remote Pilots including Commercial Operators](https://www.faa.gov/uas/commercial_operators/)
+    *   [Contact Us](https://www.faa.gov/uas/contact_us/)
+    *   [Critical Infrastructure & Public Venues](https://www.faa.gov/uas/critical_infrastructure/)
+    *   [Drone Events](https://www.faa.gov/uas/events)
+    *   [Educational Users](https://www.faa.gov/uas/educational_users/)
+    *   [UAS en Espanol](https://www.faa.gov/uas/espanol/para_empezar/)
+
+## Subnav: Drones 2
+
+    *   [Getting Started](https://www.faa.gov/uas/getting_started/)
+    *   [Public Safety and Government](https://www.faa.gov/uas/public_safety_gov/)
+    *   [Programs, Partnerships & Opportunities](https://www.faa.gov/uas/programs_partnerships/)
+    *   [Recreational Flyers & Modeler Community-Based Organizations](https://www.faa.gov/uas/recreational_flyers)
+    *   [Resources & Other Topics](https://www.faa.gov/uas/resources/)
+    *   [Research & Development](https://www.faa.gov/uas/research_development/)
+
+## Main navigation (Mobile)
+
+*   [Aircraft](https://www.faa.gov/aircraft)
+## Subnav: Aircraft 1
+
+    *   [Aircraft Certification](https://www.faa.gov/aircraft/air_cert/)
+    *   [Aviation Safety Draft Documents Open for Comment](https://www.faa.gov/aircraft/draft_docs/)
+    *   [Vintage & Experimental Aircraft Program](https://www.faa.gov/licenses_certificates/vintage_experimental/)
+
+## Subnav: Aircraft 2
+
+    *   [Aircraft Safety](https://www.faa.gov/aircraft/safety/)
+    *   [General Aviation & Recreational Aircraft](https://www.faa.gov/aircraft/gen_av/)
+    *   [Repair Stations](https://www.faa.gov/aircraft/repair/)
+    *   [Air Carrier & Air Agency Certification](https://www.faa.gov/licenses_certificates/airline_certification/)
+
+*   [Air Traffic](https://www.faa.gov/air_traffic)
+## Subnav: Air Traffic 1
+
+    *   [Air Traffic By The Numbers](https://www.faa.gov/air_traffic/by_the_numbers/)
+    *   [Air Traffic Environmental Review](https://www.faa.gov/air_traffic/environmental_issues/)
+    *   [Community Engagement](https://www.faa.gov/air_traffic/community_engagement/)
+    *   [Flight Information](https://www.faa.gov/air_traffic/flight_info/)
+    *   [International Aviation](https://www.faa.gov/air_traffic/international_aviation/)
+    *   [National Airspace System](https://www.faa.gov/air_traffic/nas/)
+
+## Subnav: Air Traffic 2
+
+    *   [NextGen](https://www.faa.gov/nextgen/)
+    *   [Obstruction Evaluation](https://www.faa.gov/air_traffic/obstruction_evaluation/)
+    *   [Air Traffic Plans and Publications](https://www.faa.gov/air_traffic/publications/)
+    *   [Separation Standards](https://www.faa.gov/air_traffic/separation_standards/)
+    *   [Technology](https://www.faa.gov/air_traffic/technology/)
+    *   [Weather](https://www.faa.gov/air_traffic/weather/)
+
+*   [Airports](https://www.faa.gov/airports)
+## Subnav: Airports 1
+
+    *   [Airport Cooperative Research Program](https://www.faa.gov/airports/acrp/)
+    *   [Airport Improvement Program](https://www.faa.gov/airports/aip/)
+    *   [Airport Compliance](https://www.faa.gov/airports/airport_compliance/)
+    *   [Airport Rescue Grants](https://www.faa.gov/airports/airport_rescue_grants/)
+    *   [Airport Safety](https://www.faa.gov/airports/airport_safety/)
+    *   [Airport Certification](https://www.faa.gov/airports/airport_safety/part139_cert)
+    *   [CARES Act Grants](https://www.faa.gov/airports/cares_act/)
+    *   [Airport Coronavirus Response Grant Program](https://www.faa.gov/airports/crrsaa/)
+
+## Subnav: Airports 2
+
+    *   [Engineering, Design, & Construction](https://www.faa.gov/airports/engineering/)
+    *   [Environmental Programs](https://www.faa.gov/airports/environmental/)
+    *   [News & Information](https://www.faa.gov/airports/news_information/)
+    *   [Passenger Facility Charge (PFC) Program](https://www.faa.gov/airports/pfc/)
+    *   [Planning & Capacity](https://www.faa.gov/airports/planning_capacity/)
+    *   [Resources](https://www.faa.gov/airports/resources/)
+    *   [Regions](https://www.faa.gov/airports/regions/)
+    *   [Runway Safety](https://www.faa.gov/airports/runway_safety/)
+    *   [Airport Safety Information Video Series](https://www.faa.gov/airports/safety-video-series)
+
+*   [Pilots & Airmen](https://www.faa.gov/pilots)
+## Subnav: Airmen 1
+
+    *   [Find an Aviation Medical Examiner](https://www.faa.gov/pilots/amelocator/)
+    *   [Become a Pilot](https://www.faa.gov/pilots/become/)
+    *   [International Flight](https://www.faa.gov/pilots/intl/)
+    *   [Pilot Certificates & Records](https://www.faa.gov/pilots/lic_cert/)
+    *   [Medical Certification](https://www.faa.gov/pilots/medical_certification)
+    *   [FAA Safety Team](https://www.faa.gov/faasteam)
+
+## Subnav: Airmen 2
+
+    *   [Mechanics](https://www.faa.gov/mechanics)
+    *   [Repairmen](https://www.faa.gov/repairmen)
+    *   [Designees](https://www.faa.gov/other_visit/aviation_industry/designees_delegations)
+    *   [Airmen Certification](https://www.faa.gov/licenses_certificates/airmen_certification/)
+    *   [Training & Testing](https://www.faa.gov/training_testing)
+    *   [From the Flight Deck](https://www.faa.gov/flight_deck)
+
+*   [Data & Research](https://www.faa.gov/data_research)
+## Subnav: Data & Research 1
+
+    *   [Accident & Incident Data](https://www.faa.gov/data_research/accident_incident/)
+    *   [Aviation Forecasts](https://www.faa.gov/data_research/aviation/)
+    *   [Aviation Data & Statistics](https://www.faa.gov/data_research/aviation_data_statistics/)
+    *   [Commercial Space Data](https://www.faa.gov/data_research/commercial_space_data/)
+    *   [Economic Impact](https://www.faa.gov/economic-impact)
+
+## Subnav: Data & Research 2
+
+    *   [Funding & Grant Data](https://www.faa.gov/data_research/funding_grant/)
+    *   [Passengers & Cargo](https://www.faa.gov/data_research/passengers_cargo/)
+    *   [Research](https://www.faa.gov/data_research/research/)
+    *   [Safety](https://www.faa.gov/data_research/safety/)
+    *   [Technical Library](https://www.faa.gov/data_research/library)
+
+*   [Regulations](https://www.faa.gov/regulations_policies)
+## Subnav: Regulations 1
+
+    *   [Advisory Circulars](https://www.faa.gov/regulations_policies/advisory_circulars/)
+    *   [Airworthiness Directives](https://www.faa.gov/regulations_policies/airworthiness_directives/)
+    *   [FAA Regulations](https://www.faa.gov/regulations_policies/faa_regulations/)
+    *   [Forms](https://www.faa.gov/forms)
+    *   [Handbooks & Manuals](https://www.faa.gov/regulations_policies/handbooks_manuals/)
+    *   [Orders & Notices](https://www.faa.gov/regulations_policies/orders_notices/)
+
+## Subnav: Regulations 2
+
+    *   [Pilot Records Database](https://www.faa.gov/regulations_policies/pilot_records_database/)
+    *   [Policy & Guidance](https://www.faa.gov/regulations_policies/policy_guidance/)
+    *   [Rulemaking](https://www.faa.gov/regulations_policies/rulemaking/)
+    *   [Temporary Flight Restrictions](https://tfr.faa.gov/)
+    *   [Notices to Airmen (NOTAM)](https://pilotweb.nas.faa.gov/PilotWeb/)
+
+*   [Space](https://www.faa.gov/space)
+## Subnav: Space 1
+
+    *   [About the Office of Commercial Space Transportation](https://www.faa.gov/about/office_org/headquarters_offices/ast)
+    *   [Careers](https://www.faa.gov/space/careers)
+    *   [Licenses, Permits & Approvals](https://www.faa.gov/space/licenses)
+    *   [Resources & Additional Information](https://www.faa.gov/space/resources_and_Information)
+    *   [Legislation & Policies, Regulations & Guidance](https://www.faa.gov/space/legislation_regulation_guidance/)
+    *   [Environmental](https://www.faa.gov/space/environmental)
+    *   [Spaceports](https://www.faa.gov/space/office_spaceports)
+
+## Subnav: Space 2
+
+    *   [Airspace Integration](https://www.faa.gov/space/airspace_integration/)
+    *   [Stakeholder Engagement](https://www.faa.gov/space/stakeholder_engagement/)
+    *   [Compliance, Enforcement & Mishap](https://www.faa.gov/space/compliance_enforcement_mishap)
+    *   [Commercial Human Space Flight](https://www.faa.gov/space/human_spaceflight)
+
+*   [Drones](https://www.faa.gov/uas)
+## Subnav: Drones 1
+
+    *   [Advanced Air Mobility](https://www.faa.gov/air-taxis)
+    *   [Advanced Operations](https://www.faa.gov/uas/advanced_operations/)
+    *   [Certificated Remote Pilots including Commercial Operators](https://www.faa.gov/uas/commercial_operators/)
+    *   [Contact Us](https://www.faa.gov/uas/contact_us/)
+    *   [Critical Infrastructure & Public Venues](https://www.faa.gov/uas/critical_infrastructure/)
+    *   [Drone Events](https://www.faa.gov/uas/events)
+    *   [Educational Users](https://www.faa.gov/uas/educational_users/)
+    *   [UAS en Espanol](https://www.faa.gov/uas/espanol/para_empezar/)
+
+## Subnav: Drones 2
+
+    *   [Getting Started](https://www.faa.gov/uas/getting_started/)
+    *   [Public Safety and Government](https://www.faa.gov/uas/public_safety_gov/)
+    *   [Programs, Partnerships & Opportunities](https://www.faa.gov/uas/programs_partnerships/)
+    *   [Recreational Flyers & Modeler Community-Based Organizations](https://www.faa.gov/uas/recreational_flyers)
+    *   [Resources & Other Topics](https://www.faa.gov/uas/resources/)
+    *   [Research & Development](https://www.faa.gov/uas/research_development/)
+
+## Drones
+
+The future of aviation is here. The FAA collaborates with industry and communities to advance drone operations and integrate them into the national airspace. Whether you are flying for fun or work, get the rules, resources, and tools, to help you fly safely.
+
+[We Can Help You!](https://www.faa.gov/uas/getting_started)
+
+[](https://www.faa.gov/uas)
+
+All drone pilots, new or experienced, benefit from rules and safety tips to help you fly safe. More importantly, drone safety is the law. Find relevant resources below according to how you use your drone. Whether you’re a [public safety drone operator](https://www.faa.gov/uas/public_safety_gov), [certificated remote pilot](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot/), [model aircraft flyer](https://www.faa.gov/uas/recreational_flyers), or a[drone racer](https://www.faa.gov/uas/recreational_flyers), you’re in the right place to learn about integrating these new entrants into our national airspace system.
+
+## ![Image 5: Federal Aviation Administration logo](https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/3068/logo_square_FAA_Logo_w_white_cushion__1_.png)
+
+ FAA.gov Feedback Survey
+
+ Thank you for visiting FAA.gov. Please take a few minutes to share your experience using FAA.gov. Your feedback helps us make improvements and provide the best online experience possible. 
+Do you have a noise complaint? [Visit our Noise Portal](https://www.faa.gov/noise)
+
+* * *
+
+ OMB Control No. 3090-0321 (Expires 11/30/2028) 
+
+ Estimated time to complete: 3 minutes 
+
+ All responses are voluntary 
+
+ Please do not include any personally identifiable information (PII) 
+
+ Send comments about this survey to [webmanagement@faa.gov](mailto:webmanagement@faa.gov)
+
+A red asterisk (*) indicates a required field.
+
+## Error
+
+alert message

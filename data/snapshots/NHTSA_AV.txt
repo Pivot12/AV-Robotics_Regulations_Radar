@@ -1,0 +1,147 @@
+Title: Automated Vehicles for Safety | NHTSA
+
+URL Source: https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety
+
+Published Time: Wed, 17 Jun 2026 10:27:18 GMT
+
+Markdown Content:
+Automated Vehicles for Safety[The Topic](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic)[NHTSA In Action](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#nhtsa-in-action)
+
+Automated Vehicles for Safety
+
+*   The Topic
+    *   [Today's Tech](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic-todays-tech)
+    *   [Safety Timeline](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic-safety-timeline)
+    *   [Road to Full Automation](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic-road-to-full-automation)
+    *   [Benefits](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic-benefits)
+    *   [Frequently Asked Questions](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic-frequently-asked-questions)
+
+*   [NHTSA In Action](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#nhtsa-in-action)
+
+The Topic
+
+## The Evolution of Automated Safety Technologies
+
+Related Topic
+
+Many vehicles on the road today have [driver assistance technologies](https://www.nhtsa.gov/node/2101), which help to save lives and prevent injuries on our nation's roads. While some driver assistance technologies are designed to warn you if you’re at risk of an impending crash, others are designed to take action to avoid a crash.
+
+The continuing evolution of automotive technology, including driver assistance technologies and automated driving systems,aim to deliver even greater safety benefits.
+
+#### A Vision for Safety: Learn More
+
+Download NHTSA’s voluntary guidance, technical documentation, and additional resources related to automated vehicles.
+
+![Image 1](https://www.nhtsa.gov/sites/nhtsa.gov/files/icons/icon-time-progress-1.png)
+
+## 1950 - 2000
+
+Safety/Convenience Features
+
+Cruise Control
+
+ Seat Belts
+
+ Antilock Brakes
+
+![Image 2](https://www.nhtsa.gov/sites/nhtsa.gov/files/icons/icon-time-progress-2.png)
+
+## 2000 – 2010
+
+Advanced Safety Features
+
+Electronic Stability Control
+
+ Blind Spot Detection
+
+ Forward Collision Warning
+
+ Lane Departure Warning
+
+![Image 3](https://www.nhtsa.gov/sites/nhtsa.gov/files/icons/icon-time-progress-3.png)
+
+## 2010 – 2016
+
+Advanced Driver Assistance Features
+
+Rearview Video Systems
+
+ Automatic Emergency Braking
+
+ Pedestrian Automatic Emergency Braking
+
+ Rear Automatic Emergency Braking
+
+ Rear Cross Traffic Alert
+
+ Lane Centering Assist
+
+![Image 4](https://www.nhtsa.gov/sites/nhtsa.gov/files/icons/icon-time-progress-4.png)
+
+## 2016 - 2025
+
+Partially Automated Safety Features
+
+Lane Keeping Assist
+
+ Adaptive Cruise Control
+
+ Traffic Jam Assist
+
+The Topic
+
+## The Road to Full Automation
+
+GRAPHIC
+
+Cars and trucks that drive us — instead of us driving them — may offer transformative safety opportunities at their maturity. At this time, even the highest level of driving automation available to consumers requires the full engagement and undivided attention of drivers. There is considerable investment into safe testing, development and validation of automated driving systems.
+
+The Topic
+
+## Benefits
+
+Vehicle safety promises to be one of automation's biggest benefits. Higher levels of automation, referred to as automated driving systems, remove the human driver from the chain of events that can lead to a crash. While these systems are not available to consumers today, the advantages of this developing technology could be far-reaching.
+
+What is available to consumers today: active safety systems. These are types of [advanced driver assistance systems](https://www.nhtsa.gov/node/2101), which provide lower levels of automation that can assist a driver by anticipating imminent dangers and working to avoid them.
+
+Collectively, these technologies will help protect drivers and passengers, as well as bicyclists and pedestrians.
+
+The Topic
+
+## Frequently Asked Questions
+
+Vehicles with an automated driving system, which some refer to as "self-driving" cars, are a future technology – not a technology you’re able to purchase and use today.
+
+Types of automated technologies, such as advanced driver assistance system technologies already in use on the roads and future automated driving systems at their mature state, have the potential to reduce crashes, prevent injuries, and save lives. In some circumstances, automated technologies may be able to detect the threat of a crash and act faster than drivers. These technologies could greatly support drivers and reduce human errors and the resulting crashes, injuries, and economic tolls.
+
+There is no vehicle currently available for sale that is fully automated or "self-driving." Every vehicle currently for sale in the United States requires the full attention of the driver at all times for safe operation. While an increasing number of vehicles now offer some automated features designed to assist the driver under specific conditions, these vehicles are not fully automated.
+
+Currently, states permit a limited number of “self-driving” vehicles to conduct testing, research, and pilot programs on public streets and NHTSA monitors their safety through its [Standing General Order](https://www.nhtsa.gov/node/103486).NHTSA and USDOT are committed to overseeing the safe testing, development and deployment of these systems – currently in limited, restricted and designated locations and conditions.
+
+Many vehicles today include features that assist drivers in specific circumstances, such as keeping us from drifting out of our lane or helping us stop in time to avoid a crash or reduce its severity. Read more about this on[NHTSA's safety technologies topic](https://www.nhtsa.gov/technology-innovation).If you’re currently shopping for a new vehicle, review[NHTSA's 5-Star Safety Ratings](https://www.nhtsa.gov/ratings)to make informed decisions about the safety features included in the vehicle.
+
+Vehicles are tested by the companies that build them. Companies must comply with Federal Motor Vehicle Safety Standards and certify that their vehicle is free of safety risks. Many companies today are testing vehicles with higher levels of automation to ensure that they operate as intended, but many experts indicate that more work remains to be done by developers to ensure their safe operation before they are available for consumers to purchase.
+
+Cybersecurity is a critical issue that USDOT and automotive companies are working to address for the future safe deployment of these technologies. Advanced vehicle safety technologies depend on an array of electronics, sensors, and computing power. In advancing these features and exploring the potential of full automation, USDOT and NHTSA are focused on cybersecurity to ensure that companies appropriately safeguard these systems to be resilient and work as intended. You can read more about our approach by visiting[NHTSA's vehicle cybersecurity topic](https://www.nhtsa.gov/technology-innovation/vehicle-cybersecurity).
+
+It is vital to emphasize that drivers will continue to share driving responsibilities for the foreseeable future and must remain engaged and attentive to the driving task and the road ahead with the consumer available technologies today. However, questions about liability and insurance are among many important questions, in addition to technical considerations that, policymakers are working to address before automated driving systems reach their maturity and are available to the public.
+
+A vehicle that is fully automated will be capable of controlling all aspects of driving without human intervention, regardless of whether its design includes controls for an actual driver. Companies may take different design approaches to vehicles that do or do not include controls allowing for a traditional driver. As is the case now, consumers will decide what types of vehicle designs best suit their needs.
+
+Some older Americans and people with disabilities are able to drive today by adapting or modifying their vehicles to meet their specific needs. Vehicles with partial and full automation could offer new mobility options to many more people, helping them to live independently or to better connect them to jobs, education and training, and other opportunities.
+
+When discussing types of vehicles where a traditional driver would no longer be needed, NHTSA refers to them as automated driving systems. These types of vehicles have also been referred to as automated vehicles. NHTSA follows industry standards in not using the term "self-driving" to describe higher levels of automation, as this describes a vehicle's state of operation but not necessarily its capabilities and too often is falsely associated with how today's drivers need to interact with a vehicle.
+
+NHTSA In Action
+
+## NHTSA is dedicated to advancing the lifesaving potential of new vehicle technologies
+
+NHTSA demonstrates its dedication to saving lives on our nation’s roads and highways through its approach to the safe development, testing, and deployment of new and advanced vehicle technologies that have enormous potential for improving safety and mobility for all Americans.
+
+NHTSA supports the Safe System Approach, a data-driven and holistic method to roadway safety that fully integrates the needs of all users. As part of this approach, vehicle safety technologies offer unique opportunities to reduce traffic deaths, injuries, and harm.
+
+In 2025, USDOT unveiled [new automated vehicle framework](https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-automated-vehicle-framework), which included NHTSA’s release of an [amendment to the agency’s Standing General Order](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting) for automated driving systems and Level 2 advanced driver assistance systems, and [domestic exemptions](https://www.nhtsa.gov/document/automated-vehicle-exemption-program-domestic-exemptions) for NHTSA’s automated vehicle exemption program.
+
+In 2020, NHTSA launched [Automated Vehicle Transparency and Engagement for Safe Testing](https://www.nhtsa.gov/node/101531). As part of the AV TEST initiative, states and companies can voluntarily submit information about testing of automated driving systems to NHTSA, and the public can view the information using NHTSA’s interactive tool.
+
+In 2016, NHTSA and the U.S. Department of Transportation issued the Federal Automated Vehicles Policy, which sets forth a proactive approach to providing safety assurance and facilitating innovation. Building on that policy and incorporating feedback received through public comments, stakeholder meetings, and Congressional hearings the agency issued [_Automated Driving Systems: A Vision for Safety_](https://www.nhtsa.gov/node/36026).

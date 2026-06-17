@@ -1,0 +1,376 @@
+Title: 404 - Page Not Found
+
+URL Source: https://www.automate.org/robotics/standards
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+# 404 - Page Not Found
+
+![Image 1: header-logo](https://global.ketchcdn.com/web/v2/assetsv1/orgs/amplify_industrial_marketing___guidance/1760638678756/test/logomark-a3.png)
+
+### Your Privacy Choices
+
+We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners.To learn more about our privacy practices, review our [Privacy Policy](https://www.automate.org/a3/privacy-policy).
+
+Customize I understand
+
+[](https://www.ketch.com/?utm_campaign=customer%20banner&utm_source=ketchcookiebanner&utm_medium=banner&org=amplify_industrial_marketing___guidance)
+
+Press Option+1 for screen-reader mode, Option+0 to cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window](https://accessibe.com/blog/knowledgebase/screen-reader-guide)
+
+[![Image 2: A3](https://www.automate.org/images/logo-a3-tagline.svg)](https://www.automate.org/)
+
+[Logout](https://www.automate.org/sso-process?logout)
+
+[](https://www.automate.org/search)[JOIN A3](https://www.automate.org/membership/join)[](https://www.automate.org/)[WHO WE ARE](https://www.automate.org/)
+
+[](https://www.automate.org/)
+[](https://www.automate.org/)*   [](https://www.automate.org/)[About The Association for Advancing Automation (A3)](https://www.automate.org/a3/who-we-are)
+*   [A3's Mission](https://www.automate.org/a3/who-we-are)
+*   [Policy Recommendations and Advocacy Principles](https://www.automate.org/a3/advocacy-principles)
+*   [Global Business Expansion Initiatives](https://www.automate.org/a3/automation-business-opportunities-in-india-and-mexico)
+*   [Member Companies](https://www.automate.org/companies)
+*   [Meet Our Staff](https://www.automate.org/a3/meet-our-staff)
+*   [Boards and Committees](https://www.automate.org/a3/boards-and-committees)
+*   [A3 Press Center](https://www.automate.org/a3/press-center)
+*   [Advertise With Us](https://www.automate.org/a3/advertising)
+
+[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)
+
+[My Account](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)|[Logout](https://www.automate.org/sso-process?logout)
+
+[](https://www.automate.org/search)[MEMBER](https://www.automate.org/membership/a3-membership-upgrade-form)[JOIN A3](https://www.automate.org/membership/join)[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)
+
+*   [Getting Started with Automation](https://www.automate.org/automation/getting-started-with-automation)
+
+    *   MOST POPULAR LINKS
+    *   [Why I Automate](https://www.automate.org/automation/why-i-automate)
+    *   [Ask the Experts](https://www.automate.org/ask-the-experts)
+    *   [Getting Started with Automation](https://www.automate.org/automation/getting-started-with-automation)
+
+    *   [Beginner's Guides](https://www.automate.org/automation/getting-started-with-automation)
+    *   [Robotics Beginner’s Guide](https://www.automate.org/robotics/beginners-guide)
+    *   [Vision & Imaging Beginner’s Guide](https://www.automate.org/vision/beginners-guide)
+    *   [Motion Control & Motors Beginner’s Guide](https://www.automate.org/motion-control/beginners-guide)
+    *   [Artificial Intelligence Beginner’s Guide](https://www.automate.org/ai/beginners-guide)
+
+    *   [Standards & Certifications](https://www.automate.org/a3/standards-and-certifications)
+    *   [Global Robotics Standards](https://www.automate.org/robotics/robotic-standards/global-robotic-standards)
+    *   [Robot Safety Resources](https://www.automate.org/robotics/safety/robot-safety-resources)
+    *   [Robot Safety Training](https://www.automate.org/robotics/safety/robot-safety-resources#training)
+    *   [Certified Robot Integrator](https://www.automate.org/robotics/robotics-certifications/robotic-integrator-certification-program)
+    *   [Vision Standards](https://www.automate.org/vision/vision-standards/vision-standards)
+    *   [Certified Vision Professional](https://www.automate.org/vision/vision-certifications/certified-vision-professional)
+    *   [Certified Vision System Integrator (CSI)](https://www.automate.org/vision/vision-certifications/certified-system-integrator-program)
+    *   [Certified Motion Control Professional (CMCP)](https://www.automate.org/motion-control/certifications/certified-motion-control-professional-program)
+
+    *   [Achievement Awards](https://www.automate.org/a3/a3-achievement-awards)
+    *   [A3 NextGen](https://www.automate.org/automation/nextgen)
+    *   [Supporting Start-Ups](https://www.automate.org/membership/start-ups)
+    *   [Ask the Experts](https://www.automate.org/ask-the-experts)
+    *   [Why I Automate](https://www.automate.org/automation/why-i-automate)
+
+    *   [Email Newsletters](https://www.automate.org/a3-newsletters)
+    *   [A3 Bookstore](https://www.automate.org/store/categories)
+    *   [Automation Glossary](https://www.automate.org/glossary/automation)
+
+*   [Solutions & Resources](https://www.automate.org/automation/automation-news-and-resources)
+
+    *   MOST POPULAR LINKS
+    *   [Find Products](https://www.automate.org/products)
+    *   [Age of Automation](https://www.automate.org/a3/age-of-automation)
+    *   [Workforce Development](https://www.automate.org/a3/workforce-development)
+    *   [Careers in Automation](https://www.automate.org/career-center)
+    *   [A3 Vault](https://www.automate.org/vault)
+
+    *   [Find Automation Products & Solutions](https://www.automate.org/automation/find-solutions-and-products)
+    *   [Products](https://www.automate.org/products)
+    *   [Services](https://www.automate.org/services)
+    *   [System Integrators](https://www.automate.org/system-integration)
+    *   [Automation Glossary](https://www.automate.org/glossary/automation)
+
+    *   [Meet Our Members](https://www.automate.org/companies)
+    *   [Member Companies](https://www.automate.org/companies)
+    *   [Who’s Who](https://www.automate.org/a3/whoswho)
+    *   [Thought Leaders in Automation](https://www.automate.org/automation/thought-leaders-in-automation)
+    *   [Why I Automate](https://www.automate.org/automation/why-i-automate)
+    *   [A3 México](https://www.automate.org/mexico)
+    *   [Unirte a A3](https://www.automate.org/mexico/unirte-a3-mexico)
+    *   [Acerca de A3 México](https://www.automate.org/mexico/acerca-de-a3-mexico)
+    *   [Miembro de A3 México](https://www.automate.org/mexico/companies)
+    *   [Noticias](https://www.automate.org/mexico/news)
+
+    *   [Automation News Center](https://www.automate.org/automation-news-center)
+    *   [Automation News](https://www.automate.org/automation-news-center/news)
+    *   [Automation Videos](https://www.automate.org/automation-news-center/videos)
+    *   [Automation Member Updates](https://www.automate.org/automation-news-center/member-updates)
+    *   [Automation Market Intelligence](https://www.automate.org/automation-news-center/market-intelligence)
+    *   [Age of Automation](https://www.automate.org/a3/age-of-automation)
+
+    *   [Automated Podcast](https://www.automate.org/automated-podcast)
+    *   [Workforce Development](https://www.automate.org/a3/workforce-development)
+    *   [Careers in Automation](https://www.automate.org/career-center)
+    *   [A3 Whitepapers](https://www.automate.org/whitepapers)
+    *   [A3 Vault](https://www.automate.org/vault)
+
+*   [Robotics](https://www.automate.org/robotics)
+
+    *   MOST POPULAR LINKS
+    *   [Robotics ROI Calculator](https://www.automate.org/robotics-roi-calculator)
+    *   [Certified Robot Integrator (CRI)](https://www.automate.org/robotics/robotics-certifications/robotic-integrator-certification-program)
+    *   [Global Robotics Standards](https://www.automate.org/robotics/robotic-standards/global-robotic-standards)
+
+    *   [Robotics Home Page](https://www.automate.org/robotics)
+    *   [Growing with Robotics](https://www.automate.org/robotics/beginners-guide)
+    *   [What Is Robotics?](https://www.automate.org/robotics/beginners-guide)
+    *   [Market Trends in Robotics](https://www.automate.org/robotics/market-trends/market-trends-in-robotics)
+    *   [Robotics Case Studies](https://www.automate.org/robotics/case-studies)
+    *   [Robotics Tech Papers](https://www.automate.org/robotics/tech-papers)
+    *   [Ask the Robotics Experts](https://www.automate.org/robotics/ask-the-experts)
+    *   [Robotics ROI Calculator](https://www.automate.org/robotics-roi-calculator)
+
+    *   [Robotic Safety & Standards](https://www.automate.org/robotics)
+    *   [Global Robotics Standards](https://www.automate.org/robotics/robotic-standards/global-robotic-standards)
+    *   [Robot Safety Resources](https://www.automate.org/robotics/safety/robot-safety-resources)
+    *   [Virtual Robot Safety & Risk Assessment Training](https://www.automate.org/robotics/safety/robot-safety-and-risk-assessment-training)
+    *   [Virtual (Live) Robot Safety for Collaborative Applications Training](https://www.automate.org/robotics/cobots/collaborative-robot-safety-training)
+    *   [In-House Robot Safety Training](https://www.automate.org/robotics/safety/in-house-a3-robotic-safety-training)
+    *   [Mobile Robots Safety Training](https://www.automate.org/robotics/safety/mobile-robot-safety-training)
+
+    *   [Certified Robot Integrator (CRI)](https://www.automate.org/robotics/robotics-certifications/robotic-integrator-certification-program)
+    *   [Engelberger Foundation & Awards](https://www.automate.org/robotics/engelberger/joseph-f-engelberger-awards)
+    *   [Emerging Markets](https://www.automate.org/robotics/emerging-markets/emerging-markets-in-robotics)
+    *   [Collaborative Robots](https://www.automate.org/robotics/emerging-markets/emerging-markets-collaborative-robots)
+    *   [Service Robots](https://www.automate.org/robotics/emerging-markets/emerging-markets-service-robots)
+
+    *   [Robotics News & Resources](https://www.automate.org/robotics/robotic-content/robotics-news-and-resources)
+    *   [Upcoming Robotics Webinars](https://www.automate.org/robotics/webinars/upcoming-webinars)
+    *   [Automated Podcast](https://www.automate.org/automated-podcast)
+    *   [Robotics Blog](https://www.automate.org/robotics/blogs)
+    *   [Robotics News](https://www.automate.org/robotics/news)
+    *   [Robotics Editorials](https://www.automate.org/robotics/editorials)
+    *   [Robotics Industry Insights](https://www.automate.org/robotics/industry-insights)
+    *   [New Robotics Product Updates](https://www.automate.org/robotics/new-product-news)
+    *   [Robotics Videos](https://www.automate.org/robotics/videos)
+
+*   [Vision & Imaging](https://www.automate.org/vision)
+
+    *   MOST POPULAR LINKS
+    *   [Vision Professional Certification (CVP)](https://www.automate.org/vision/vision-certifications/certified-vision-professional)
+    *   [Vision Integrator Certification (CSI)](https://www.automate.org/vision/vision-certifications/certified-system-integrator-program)
+    *   [Vision Standards](https://www.automate.org/vision/vision-standards/vision-standards)
+
+    *   [Vision & Imaging Home Page](https://www.automate.org/vision)
+    *   [Growing with Vision & Imaging](https://www.automate.org/vision/beginners-guide)
+    *   [What Is Machine Vision?](https://www.automate.org/vision/beginners-guide)
+    *   [Market Trends in Vision](https://www.automate.org/vision/market-trends/market-trends-in-vision)
+    *   [Vision & Imaging Case Studies](https://www.automate.org/vision/case-studies)
+    *   [Vision Tech Papers](https://www.automate.org/vision/tech-papers)
+    *   [Ask the Vision Experts](https://www.automate.org/vision/ask-the-experts)
+
+    *   [Vision & Imaging Certifications](https://www.automate.org/vision)
+    *   [Vision Professional Certification (CVP)](https://www.automate.org/vision/vision-certifications/certified-vision-professional)
+    *   [Vision Integrator Certification (CSI)](https://www.automate.org/vision/vision-certifications/certified-system-integrator-program)
+
+    *   [Vision Standards](https://www.automate.org/vision/vision-standards/vision-standards)
+    *   [Core Vision & Imaging Business Essentials](https://www.automate.org/vision/vision-content/core-business-essentials)
+    *   [Emerging Markets](https://www.automate.org/vision/emerging-markets/emerging-markets-in-vision)
+    *   [Embedded Vision](https://www.automate.org/vision/emerging-markets/emerging-markets-embedded-vision)
+    *   [Vision in Life Sciences](https://www.automate.org/vision/emerging-markets/emerging-markets-vision-in-life-sciences)
+
+    *   [Vision News & Resources](https://www.automate.org/vision/vision-content/vision-news-and-resources)
+    *   [Upcoming Vision Webinars](https://www.automate.org/vision/webinars/upcoming-webinars)
+    *   [Vision & Imaging Blog](https://www.automate.org/vision/blogs)
+    *   [Machine Vision News](https://www.automate.org/vision/news)
+    *   [Vision & Imaging Editorials](https://www.automate.org/vision/editorials)
+    *   [Vision Industry Insights](https://www.automate.org/vision/industry-insights)
+    *   [New Vision Product Updates](https://www.automate.org/vision/new-product-news)
+    *   [Vision & Imaging Videos](https://www.automate.org/vision/videos)
+
+*   [Motion Control & Motors](https://www.automate.org/motion-control)
+
+    *   MOST POPULAR LINKS
+    *   [Motion Control Professional Certification (CMCP)](https://www.automate.org/motion-control/certifications/certified-motion-control-professional-program)
+    *   [Motor & Motion College](https://www.automate.org/motion-control/motion-control-college/motion-control-college)
+    *   [Motion Control Blog](https://www.automate.org/motion-control/blogs)
+
+    *   [Motion Control Home Page](https://www.automate.org/motion-control)
+    *   [Growing with Motion Control & Motors](https://www.automate.org/motion-control/beginners-guide)
+    *   [What Is Motion Control?](https://www.automate.org/motion-control/beginners-guide)
+    *   [Market Trends in Motion](https://www.automate.org/motion-control/market-trends/market-trends-in-motion-control-and-motors)
+    *   [Motion Control Case Studies](https://www.automate.org/motion-control/case-studies)
+    *   [Motion Control Tech Papers](https://www.automate.org/motion-control/tech-papers)
+    *   [Ask the Motion Experts](https://www.automate.org/motion-control/ask-the-experts)
+
+    *   [Motion Control Professional Certification (CMCP)](https://www.automate.org/motion-control/certifications/certified-motion-control-professional-program)
+    *   [Motor & Motion College](https://www.automate.org/motion-control/motion-control-college/motion-control-college)
+    *   [EMERF Foundation](https://www.automate.org/motion-control/emerf/emerf-foundation)
+    *   [Permanent Magnet Division](https://www.automate.org/motion-control/permanent-magnet-division/permanent-magnet-division)
+
+    *   [Motion Control News & Resources](https://www.automate.org/motion-control/motion-content/motion-control-news-and-resources)
+    *   [Upcoming Motion Webinars](https://www.automate.org/motion-control/webinars/upcoming-webinars)
+    *   [Motion Control Blog](https://www.automate.org/motion-control/blogs)
+    *   [Motion Control News](https://www.automate.org/motion-control/news)
+    *   [Motion Control & Motors Editorials](https://www.automate.org/motion-control/editorials)
+    *   [Motion Control Industry Insights](https://www.automate.org/motion-control/industry-insights)
+    *   [New Motion Control Product Updates](https://www.automate.org/motion-control/new-product-news)
+    *   [Motion Control & Motors Videos](https://www.automate.org/motion-control/videos)
+
+*   [Artificial Intelligence](https://www.automate.org/ai)
+
+    *   MOST POPULAR LINKS
+    *   [Designing Industrial AI Agents](https://www.automate.org/ai/designing-industrial-ai-agents)
+    *   [Download the A3 AI in Automation Whitepaper](https://www.automate.org/ai/ai-content/ai-in-automation-transforming-industry-in-2025-and-beyond)
+
+    *   [AI Home Page](https://www.automate.org/ai)
+    *   [Growing with AI](https://www.automate.org/ai/beginners-guide)
+    *   [Introduction to AI](https://www.automate.org/ai/ai-content/introduction-to-industrial-ai)
+    *   [AI in Automation Glossary](https://www.automate.org/ai/glossary)
+    *   [AI for Automation Case Studies](https://www.automate.org/ai/case-studies)
+    *   [Artificial Intelligence Tech Papers](https://www.automate.org/ai/tech-papers)
+    *   [Ask the Industrial AI Experts](https://www.automate.org/ai/ask-the-experts)
+
+    *   [Designing Industrial AI Agents](https://www.automate.org/ai/designing-industrial-ai-agents)
+    *   [Download the A3 AI in Automation Whitepaper](https://www.automate.org/ai/ai-content/ai-in-automation-transforming-industry-in-2025-and-beyond)
+    *   [Artificial Intelligence Insight Series](https://www.automate.org/ai/ai-content/the-a3-artificial-intelligence-insight-series)
+
+    *   [AI News & Resources](https://www.automate.org/ai/ai-content/artificial-intelligence-news-and-resources)
+    *   [Upcoming AI Webinars](https://www.automate.org/ai/webinars/upcoming-webinars)
+    *   [Artificial Intelligence Blog](https://www.automate.org/ai/blogs)
+    *   [AI News](https://www.automate.org/ai/news)
+    *   [AI Editorials](https://www.automate.org/ai/editorials)
+    *   [AI Industry Insights](https://www.automate.org/ai/industry-insights)
+    *   [New AI Product Updates](https://www.automate.org/ai/new-product-news)
+    *   [Artificial Intelligence Videos](https://www.automate.org/ai/videos)
+
+*   [Events & Training](https://www.automate.org/events)
+
+    *   MOST POPULAR LINKS
+    *   [A3 Training Hub](https://www.automate.org/training)
+    *   [Automate Show](https://www.automateshow.com/)
+    *   [Automation Webinars](https://www.automate.org/webinars)
+    *   [A3 Events Calendar](https://www.automate.org/calendar)
+
+    *   [Events & Networking](https://www.automate.org/events)
+    *   [Automate Show](https://www.automateshow.com/)
+    *   [Humanoid Robot Forum at Automate Show](https://www.automateshow.com/education-networking/humanoid-robot-forum)
+    *   [A3 Mexico Business Forum](https://www.automate.org/events/a3-mexico-business-forum)
+    *   [Advanced Vision & AI Conference](https://www.automate.org/events/advanced-vision-and-ai-conference)
+    *   [International Robot Safety Conference](https://www.automate.org/events/international-robot-safety-conference)
+    *   [A3 Business Forum](https://www.automate.org/events/business-forum)
+
+    *   [Training](https://www.automate.org/training)
+    *   [Introduction to Industrial Robotics](https://www.automate.org/robotics/introduction-to-industrial-robotics)
+    *   [Robot Safety Training](https://www.automate.org/robotics/safety/robot-safety-and-risk-assessment-training)
+    *   [Robot Safety for Collaborative Applications Training](https://www.automate.org/robotics/cobots/collaborative-robot-safety-training)
+    *   [Mobile Robotics Safety Training](https://www.automate.org/robotics/safety/mobile-robot-safety-training)
+    *   [In-House Robotic Safety Training](https://www.automate.org/robotics/safety/in-house-a3-robotic-safety-training)
+    *   [Certified Vision Professional Program](https://www.automate.org/vision/vision-certifications/certified-vision-professional)
+    *   [Certified Motion Control Professional Program](https://www.automate.org/motion-control/certifications/certified-motion-control-professional-program)
+    *   [Designing Industrial AI Agents](https://www.automate.org/ai/designing-industrial-ai-agents)
+    *   [Standards & Certifications](https://www.automate.org/a3/standards-and-certifications)
+    *   [A3 Events Calendar](https://www.automate.org/calendar)
+
+    *   [Webinars](https://www.automate.org/webinars)
+    *   [All Upcoming Webinars](https://www.automate.org/webinars/upcoming-webinars)
+    *   [All On-Demand Webinars](https://www.automate.org/webinars/on-demand-webinars)
+    *   [Robotics Webinars](https://www.automate.org/robotics/webinars/upcoming-webinars)
+    *   [Vision & Imaging Webinars](https://www.automate.org/vision/webinars/upcoming-webinars)
+    *   [Motion Control Webinars](https://www.automate.org/motion-control/webinars/upcoming-webinars)
+    *   [AI Webinars](https://www.automate.org/ai/webinars/upcoming-webinars)
+
+*   [Market Intelligence](https://www.automate.org/market-intelligence)
+
+    *   MOST POPULAR LINKS
+    *   [Explore A3 Market Intelligence](https://www.automate.org/market-intelligence)
+    *   [Free Market Intelligence Reports](https://www.automate.org/automation/manufacturing-industry-output-reports-public)
+
+    *   [MI-Plus](https://www.automate.org/market-intelligence/mi-plus)
+    *   [Automation Statistics](https://www.automate.org/market-intelligence/automation-statistics)
+    *   [Market Intelligence News & Insights](https://www.automate.org/market-intelligence/insights)
+    *   [Industry Reports](https://www.automate.org/market-intelligence/industry-reports)
+
+*   [Who We Are](https://www.automate.org/a3/who-we-are)
+
+    *   [About The Association for Advancing Automation (A3)](https://www.automate.org/a3/who-we-are)
+    *   [A3's Mission](https://www.automate.org/a3/who-we-are)
+    *   [Policy Recommendations and Advocacy Principles](https://www.automate.org/a3/advocacy-principles)
+    *   [Global Business Expansion Initiatives](https://www.automate.org/a3/automation-business-opportunities-in-india-and-mexico)
+    *   [Member Companies](https://www.automate.org/companies)
+    *   [Meet Our Staff](https://www.automate.org/a3/meet-our-staff)
+    *   [Boards and Committees](https://www.automate.org/a3/boards-and-committees)
+    *   [A3 Press Center](https://www.automate.org/a3/press-center)
+    *   [Advertise With Us](https://www.automate.org/a3/advertising)
+
+# Page Not Found (404)
+
+## We're sorry, but the page you're looking for is not here.
+
+[A3 Home Page](https://www.automate.org/)[Robotics](https://www.automate.org/robotics)[Vision & Imaging](https://www.automate.org/vision)[Motion Control & Motors](https://www.automate.org/motion-control)[Artificial Intelligence](https://www.automate.org/ai)
+
+[ASSOCIATION FOR ADVANCING AUTOMATION](https://www.automate.org/)
+
+[ASSOCIATION FOR ADVANCING AUTOMATION](https://www.automate.org/)
+
+[Robotics](https://www.automate.org/robotics)
+
+[Vision & Imaging](https://www.automate.org/vision)
+
+[Motion Control & Motors](https://www.automate.org/motion-control)
+
+[Artificial Intelligence](https://www.automate.org/ai)
+
+[GETTING STARTED WITH AUTOMATION](https://www.automate.org/automation/getting-started-with-automation)
+
+[AUTOMATION NEWS & RESOURCES](https://www.automate.org/automation/automation-news-and-resources)
+
+[BECOME A MEMBER](https://www.automate.org/membership/join)
+
+[WHO WE ARE](https://www.automate.org/a3/who-we-are)
+
+[STANDARDS & CERTIFICATIONS](https://www.automate.org/a3/standards-and-certifications)
+
+[EVENTS AND NETWORKING](https://www.automate.org/events)
+
+[FIND SOLUTIONS & PRODUCTS](https://www.automate.org/automation/find-solutions-and-products)
+
+[A3 STORE](https://www.automate.org/store/categories)
+
+![Image 3: linkedin sharing button](https://platform-cdn.sharethis.com/img/linkedin.svg)
+
+![Image 4: twitter sharing button](https://platform-cdn.sharethis.com/img/twitter.svg)
+
+![Image 5: facebook sharing button](https://platform-cdn.sharethis.com/img/facebook.svg)
+
+![Image 6: youtube sharing button](https://platform-cdn.sharethis.com/img/youtube.svg)
+
+![Image 7: instagram sharing button](https://platform-cdn.sharethis.com/img/instagram.svg)
+
+![Image 8: tiktok sharing button](https://platform-cdn.sharethis.com/img/tiktok.svg)
+
+![Image 9: threads sharing button](https://platform-cdn.sharethis.com/img/threads.svg)
+
+[Subscribe to our Newsletter](https://www.automate.org/a3-newsletters#subscribe)
+
+* * *
+
+[![Image 10](https://seal.networksolutions.com/images/netsolsiteseal.png)](https://www.automate.org/#)
+
+Copyright © 2026 Association for Advancing Automation
+
+900 Victors Way, Suite 140, Ann Arbor, Michigan, USA 48108
+
+T: [(734) 994-6088](tel:1-734-994-6088) - F: (734) 994-3338
+
+[Online Terms of Use](https://www.automate.org/a3/online-terms-of-use)
+
+[Privacy Policy](https://www.automate.org/a3/privacy-policy)
+
+[![Image 11: Privacy Settings](https://www.automate.org/images/privacyoptions.png?v1) Privacy Settings](javascript:do.Nothing())
+
+[Site Map](https://www.automate.org/site-map)
+
+[Website Design & Development by Amplify Industrial Marketing + Guidance.](https://www.aimg.com/)
+
+![Image 13](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%26800%26600%268%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=e2b8a0af-275e-46a6-bd48-71adb03cfb05&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=766d691f-d7a4-42fd-ad5d-35780c7972ef&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1781698269549.8690354234966655&txn_id=obsvx&type=javascript&version=2.3.53)![Image 14](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%26800%26600%268%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=e2b8a0af-275e-46a6-bd48-71adb03cfb05&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=766d691f-d7a4-42fd-ad5d-35780c7972ef&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1781698269549.8690354234966655&txn_id=obsvx&type=javascript&version=2.3.53)

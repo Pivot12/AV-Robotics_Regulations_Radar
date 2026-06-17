@@ -1,0 +1,436 @@
+Title: Autonomous Vehicles - California DMV
+
+URL Source: https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/
+
+Published Time: Wed, 17 Jun 2026 12:10:54 GMT
+
+Markdown Content:
+# Autonomous Vehicles - California DMV
+Ask DMV
+
+×
+###### General Disclaimer
+
+When interacting with the Department of Motor Vehicles (DMV) Virtual Assistant, please do not include any personal information.
+
+When your chat is over, you can save the transcript. Use caution when using a public computer or device.
+
+ Third-Party Translation Disclaimer 
+
+ Third-Party Translation Disclaimer 
+The DMV chatbot and live chat services use third-party vendors to provide machine translation. Machine translation is provided for purposes of information and convenience only. The DMV is unable to guarantee the accuracy of any translation provided by the third-party vendors and is therefore not liable for any inaccurate information or changes in the formatting of the content resulting from the use of the translation service.
+
+The content currently in English is the official and accurate source for the program information and services DMV provides. Any discrepancies or differences created in the translation are not binding and have no legal effect for compliance or enforcement purposes. If any questions arise related to the information contained in the translated content, please refer to the English version.
+
+- [x] I agree   Continue 
+
+[Skip to content](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#main)
+
+*   [![Image 1: California State Logo](https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/logo-ca-gov.svg) State of California](https://www.ca.gov/)
+*   [![Image 2: California State Department of Motor Vehicles Logo](https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/logo-ca-dmv-white.svg) State of California Department of Motor Vehicles](https://www.dmv.ca.gov/portal/)
+
+*   [REAL ID](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/)
+*   [Online Services](https://www.dmv.ca.gov/portal/dmv-online/)
+*   [Translate](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#)
+*   [MyDMV](https://www.dmv.ca.gov/portal/mydmv)
+
+ Search to find a office, self-service kiosk, and community partners.  
+
+### Top Search Results
+
+ Submit search form 
+
+[Menu](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#js-site-header__main-nav)
+
+*   [Vehicle Registration](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#menu-item__sub-menu-0)
+
+    *   
+Sub Menu Toggle[Renew Registration](https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-renewal/) 
+## Renew Registration
+
+        *   [Renew Registration](https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-renewal/)
+
+Sub Menu Toggle[New Registration](https://www.dmv.ca.gov/portal/vehicle-registration/new-registration/)
+
+## New Registration
+
+        *   [New Registration](https://www.dmv.ca.gov/portal/vehicle-registration/new-registration/)
+
+Sub Menu Toggle[Replace Registration](https://www.dmv.ca.gov/portal/vehicle-registration/online-replacement-sticker-or-registration-card/)
+
+## Replace Registration
+
+        *   [Replace Registration](https://www.dmv.ca.gov/portal/vehicle-registration/online-replacement-sticker-or-registration-card/)
+
+Sub Menu Toggle[Submit Proof of Insurance](https://www.dmv.ca.gov/portal/vehicle-registration/insurance-requirements/suspended-vehicle-registration/)
+
+## Submit Proof of Insurance
+
+        *   [Submit Proof of Insurance](https://www.dmv.ca.gov/portal/vehicle-registration/insurance-requirements/suspended-vehicle-registration/)
+
+Sub Menu Toggle[Request Vehicle Record](https://www.dmv.ca.gov/portal/customer-service/records-request/online-vehicle-record-request/)
+
+## Request Vehicle Record
+
+        *   [Request Vehicle Record](https://www.dmv.ca.gov/portal/customer-service/records-request/online-vehicle-record-request/)
+
+Sub Menu Toggle[Plates, Stickers, Placards](https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/)
+
+## Plates, Stickers, Placards
+
+        *   [Plates, Stickers, Placards](https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/)
+
+*   [Driver's Licenses & IDs](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#menu-item__sub-menu-1)
+
+    *   
+Sub Menu Toggle[Renew DL/ID](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-license-id-card-online-renewal/) 
+## Renew DL/ID
+
+        *   [Renew DL/ID](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-license-id-card-online-renewal/)
+
+Sub Menu Toggle[New DL/ID Card Application](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/)
+
+## New DL/ID Card Application
+
+        *   [New DL/ID Card Application](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/)
+
+Sub Menu Toggle[Replace DL](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/online-duplicate-driver-license-request/)
+
+## Replace DL
+
+        *   [Replace DL](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/online-duplicate-driver-license-request/)
+
+Sub Menu Toggle[Join the mDL Pilot](https://www.dmv.ca.gov/portal/california-mdl/)
+
+## Join the mDL Pilot
+
+        *   [Join the mDL Pilot](https://www.dmv.ca.gov/portal/california-mdl/)
+
+Sub Menu Toggle[Request Driver Record](https://www.dmv.ca.gov/portal/customer-service/records-request/online-driver-record-request/)
+
+## Request Driver Record
+
+        *   [Request Driver Record](https://www.dmv.ca.gov/portal/customer-service/records-request/online-driver-record-request/)
+
+*   [Make a Payment](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#menu-item__sub-menu-2)
+
+    *   
+Sub Menu Toggle[Payments & Refunds](https://www.dmv.ca.gov/portal/customer-service/payments-refunds/) 
+## Payments & Refunds
+
+        *   [Payments & Refunds](https://www.dmv.ca.gov/portal/customer-service/payments-refunds/)
+
+Sub Menu Toggle[Pay Late Registration Fee](https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-renewal/)
+
+## Pay Late Registration Fee
+
+        *   [Pay Late Registration Fee](https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-renewal/)
+
+Sub Menu Toggle[Pay Reinstatement Fee](https://www.dmv.ca.gov/portal/vehicle-registration/insurance-requirements/suspended-vehicle-registration/)
+
+## Pay Reinstatement Fee
+
+        *   [Pay Reinstatement Fee](https://www.dmv.ca.gov/portal/vehicle-registration/insurance-requirements/suspended-vehicle-registration/)
+
+Sub Menu Toggle[Dishonored Check Payment](https://www.dmv.ca.gov/portal/dmv-virtual-office/dishonored-check-payment/)
+
+## Dishonored Check Payment
+
+        *   [Dishonored Check Payment](https://www.dmv.ca.gov/portal/dmv-virtual-office/dishonored-check-payment/)
+
+Sub Menu Toggle[Fee Calculator](https://www.dmv.ca.gov/portal/vehicle-registration/registration-fees/vehicle-registration-fee-calculator/)
+
+## Fee Calculator
+
+        *   [Fee Calculator](https://www.dmv.ca.gov/portal/vehicle-registration/registration-fees/vehicle-registration-fee-calculator/)
+
+Sub Menu Toggle[Shopping Cart](https://www.dmv.ca.gov/portal/shopping-cart/)
+
+## Shopping Cart
+
+        *   [Shopping Cart](https://www.dmv.ca.gov/portal/shopping-cart/)
+
+*   [Appointments](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#menu-item__sub-menu-3)
+
+    *   
+Sub Menu Toggle[Locations & Hours](https://www.dmv.ca.gov/portal/locations/) 
+## Locations & Hours
+
+        *   [Locations & Hours](https://www.dmv.ca.gov/portal/locations/)
+
+Sub Menu Toggle[Get in Line Now](https://mt-cadmvoas.us.qmatic.cloud/branches)
+
+## Get in Line Now
+
+        *   [Get in Line Now](https://mt-cadmvoas.us.qmatic.cloud/branches)
+
+Sub Menu Toggle[Schedule Appointment](https://www.dmv.ca.gov/portal/appointments/)
+
+## Schedule Appointment
+
+        *   [Schedule Appointment](https://www.dmv.ca.gov/portal/appointments/)
+
+*   [Testing](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#menu-item__sub-menu-4)
+
+    *   
+Sub Menu Toggle[Online Testing](https://www.dmv.ca.gov/portal/driver-education-and-safety/online-learning-and-tests/) 
+## Online Testing
+
+        *   [Online Testing](https://www.dmv.ca.gov/portal/driver-education-and-safety/online-learning-and-tests/)
+
+Sub Menu Toggle[Driver Handbooks](https://www.dmv.ca.gov/portal/driver-handbooks/)
+
+## Driver Handbooks
+
+        *   [Driver Handbooks](https://www.dmv.ca.gov/portal/driver-handbooks/)
+
+Sub Menu Toggle[Specialty Driver Guides](https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/)
+
+## Specialty Driver Guides
+
+        *   [Specialty Driver Guides](https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/)
+
+Sub Menu Toggle[How-To Videos](https://www.dmv.ca.gov/portal/driver-education-and-safety/educational-materials/videos-2/)
+
+## How-To Videos
+
+        *   [How-To Videos](https://www.dmv.ca.gov/portal/driver-education-and-safety/educational-materials/videos-2/)
+
+Sub Menu Toggle[Practice Tests](https://www.dmv.ca.gov/portal/driver-education-and-safety/educational-materials/sample-driver-license-dl-knowledge-tests/)
+
+## Practice Tests
+
+        *   [Practice Tests](https://www.dmv.ca.gov/portal/driver-education-and-safety/educational-materials/sample-driver-license-dl-knowledge-tests/)
+
+*   [Check Status](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#menu-item__sub-menu-5)
+
+    *   
+Sub Menu Toggle[Change of Address Status](https://www.dmv.ca.gov/portal/mydmv/) 
+## Change of Address Status
+
+        *   [Change of Address Status](https://www.dmv.ca.gov/portal/mydmv/)
+
+Sub Menu Toggle[Virtual Office Case Status](https://www.dmv.ca.gov/portal/dmv-virtual-office/case-status/)
+
+## Virtual Office Case Status
+
+        *   [Virtual Office Case Status](https://www.dmv.ca.gov/portal/dmv-virtual-office/case-status/)
+
+Sub Menu Toggle[Driver Safety Case Status](https://www.dmv.ca.gov/portal/driver-safety-portal/)
+
+## Driver Safety Case Status
+
+        *   [Driver Safety Case Status](https://www.dmv.ca.gov/portal/driver-safety-portal/)
+
+Sub Menu Toggle[Registration Renewal Status](https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-status/)
+
+## Registration Renewal Status
+
+        *   [Registration Renewal Status](https://www.dmv.ca.gov/portal/vehicle-registration/vehicle-registration-status/)
+
+Sub Menu Toggle[DL/ID Renewal Status](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/drivers-license-id-card-status/)
+
+## DL/ID Renewal Status
+
+        *   [DL/ID Renewal Status](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/drivers-license-id-card-status/)
+
+Sub Menu Toggle[IBC Case Status](https://www.dmv.ca.gov/portal/dmv-virtual-office/ibc-case-status-request/)
+
+## IBC Case Status
+
+        *   [IBC Case Status](https://www.dmv.ca.gov/portal/dmv-virtual-office/ibc-case-status-request/)
+
+*   [Home](https://www.dmv.ca.gov/portal)
+*   [Vehicle Industry Services](https://www.dmv.ca.gov/portal/vehicle-industry-services/)
+*    Autonomous Vehicles 
+
+# Autonomous Vehicles
+
+![Image 3:  ](https://www.dmv.ca.gov/portal/uploads/2022/12/car.svg)
+
+## Autonomous Vehicles Incident Form
+
+We value your feedback regarding your experience with autonomous vehicles operating on California public roads. Submit your feedback to the [AV Incident Form](https://www.dmv.ca.gov/portal/dmv-autonomous-vehicles-feedback-form/).
+
+Please do not include any sensitive personal information such as social security number, driver’s license number, or financial account number.
+
+[National Highway Traffic Safety Administration Automated Vehicle Complaint Form](https://www.nhtsa.gov/report-a-safety-problem#/automated-vehicle/automated-vehicle-information)
+
+To report safety complaints on autonomous vehicles to the National Highway Traffic Safety Administration please use the complaint form above. This form allows members of the public to submit safety complaints related to automated vehicles.To report a safety complaint by phone, **call NHTSA’s Vehicle Safety Hotline at 1-888-327-4236**.
+
+English- and Spanish-speaking staff members are available Monday through Friday from 8 a.m. to 8 p.m. ET(TTY 1-888-275-9171).
+
+## I'm looking for…
+
+### Permit Resources
+
+The program provides resources for autonomous vehicle (AV) permit holders, including regulations, application guides, and required reporting templates.
+
+[See permit resources](https://www.dmv.ca.gov/portal/autonomous-vehicles-program-permit-resources/)
+
+### Current Permit Holders
+
+The California DMV authorizes manufacturers to test and deploy autonomous vehicles under three permit categories: testing with a safety driver, driverless testing, and deployment. Each category has specific approved locations, operating conditions, and speed limits.
+
+[See current permit holders](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/)
+
+### Collision Reports
+
+Manufacturers testing autonomous vehicles need to report every collision involving one of their vehicles that results in property damage, bodily injury, or death.
+
+[View collision reports](https://tims.berkeley.edu/tools/avsafety.php)
+
+### Autonomous Vehicle Regulations
+
+Since autonomous vehicle technology first began raising regulatory considerations in 2013, the California DMV has worked to develop testing and deployment regulations and has conducted public hearings and workshops to support that process.
+
+[Explore the history of autonomous vehicle regulations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/)
+
+### Regulation Proposals
+
+Find previous regulation proposals, drafts of proposals, and forms for AV testing and deployment in California.
+
+[See regulation proposals](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/previous-regulation-proposals-and-drafts/)
+
+### Public Hearings and Workshops
+
+Public hearings and workshops about the testing and deployment of autonomous vehicles were recorded and made available for those who were unable to attend.
+
+[See public hearings and workshops](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/autonomous-vehicle-public-hearings-and-workshops/)
+
+### Autonomous Vehicle Milestones
+
+Learn more about the history of autonomous vehicles in California, including the development of driverless testing programs and deployment regulations.
+
+[Learn more about autonomous vehicles](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/autonomous-vehicle-milestones/)
+
+### Law Enforcement Resources
+
+The program provides resources for Law Enforcement, including training materials and form ordering instructions.
+
+[See law enforcement resources](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/law-enforcement-resources/)
+
+![Image 4:  ](https://www.dmv.ca.gov/portal/uploads/2022/12/directional_1.svg)
+
+## News Bulletins
+
+See news bulletins relating to autonomous vehicles.
+
+ 2024 
+
+*   [Autonomous Driverless Testing Permit (OL 318) Transactions Now Online AVIM 2024 – 01 (PDF)](https://www.dmv.ca.gov/portal/file/avim-2024-01-autonomous-driverless-testing-permit-ol-318-transactions-now-online-pdf/)
+
+ 2023 
+
+*   [SR-1 Form Reporting for Autonomous Manufacturers – AVIM 2023-01 (PDF)](https://www.dmv.ca.gov/portal/file/01-avim-2023-pdf/)
+*   [AV Incident Reporting Email Address – AVIM 2023-02 (PDF)](https://www.dmv.ca.gov/portal/file/02-avim-2023-pdf/)
+*   [AV Incident Reporting Email Address – AVIM 2023-02a (PDF)](https://www.dmv.ca.gov/portal/file/02a-avim-2023-pdf/)
+*   [AVIN 2023-01 AB 645 (PDF)](https://www.dmv.ca.gov/portal/file/avin-2023-01-ab-645-pdf/)
+*   [AVIN 2023-02 AB 413 (PDF)](https://www.dmv.ca.gov/portal/file/avin-2023-02-ab-413-pdf/)
+
+ 2022 
+
+*   [Update Autonomous Vehicle Regulations – AVIN 2022-01 (PDF)](https://www.dmv.ca.gov/portal/file/22avin01-pdf/)
+*   [Employer Pull Notice (EPN) Reports AVIM 2022-01 (PDF)](https://www.dmv.ca.gov/portal/file/avim-2022-01-employer-pull-notice-epn-reports-pdf/)
+*   [Removing Drivers and Vehicles from Permit AVIM 2022-02 (PDF)](https://www.dmv.ca.gov/portal/file/avim-2022-02-removing-drivers-and-vehicles-from-permit-pdf/)
+*   [Online Payment Now Available for All Autonomous Vehicle Transactions AVIM 2022-03 (PDF)](https://www.dmv.ca.gov/portal/file/avim-2022-03-online-payment-now-available-for-all-autonomous-vehicle-transactions-pdf/)
+
+ 2021 
+
+*   [Employee Pull Notice (EPN) File Transfer Option – AVIM 2021-01 (PDF)](https://www.dmv.ca.gov/portal/file/01avim21-pdf/)
+*   [Autonomous Vehicle Tester (AVT) Program for Manufacturer’s Testing Permit – AVIM 2021-02 (PDF)](https://www.dmv.ca.gov/portal/file/autonomous-vehicle-tester-avt-program-for-manufacturers-testing-permit-brochure-21avim02-pdf/)
+*   [Employer Pull Notice – AVIM 2021-03 (PDF)](https://www.dmv.ca.gov/portal/file/employer-pull-notice-avim-2021-03-pdf)
+*   [Credit Card Payment Options Now Available – AVIM 2021 04 (PDF)](https://www.dmv.ca.gov/portal/file/credit-card-payment-options-now-available-avim-2021-04-pdf/)
+
+ 2020 
+
+*   [AVT Program Operations and Contact Information – AVIM 2020-01 (PDF)](https://www.dmv.ca.gov/portal/file/avim-2020-01-av-branch-contact-information-pdf/)
+*   [AVT Cancellation – AVIM 2020-02 (PDF)](https://www.dmv.ca.gov/portal/file/avim-2020-02-avt-cancellation-pdf/)
+*   [OL 311 Application Online – AVIM 2020-03 (PDF)](https://www.dmv.ca.gov/portal/file/03avim20-pdf/)
+
+ 2019 
+
+*   [Form Accessibility — AVIN 2019-01 (PDF)](https://www.dmv.ca.gov/portal/file/form-accessibility-avin-2019-01-pdf/)
+
+ 2018 
+
+*   [New Autonomous Vehicle Laws — AVIN 2018-01 (PDF)](https://www.dmv.ca.gov/portal/file/new-autonomous-vehicle-laws-avin-2018-01-pdf/)
+
+![Image 5:  ](https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/checklist.svg)
+## Need something else?
+
+### Occupational Licensing
+
+Learn more about occupational licensing and find helpful resources.
+
+[Explore occupational licensing](https://www.dmv.ca.gov/portal/vehicle-industry-services/occupational-licensing/)
+
+### Vehicle Industry Services
+
+Learn more about vehicle industry services provided by DMV, including motor carrier services, autonomous vehicle regulations and testing, and the Business Partner Automation (BPA) program.
+
+[Learn more about vehicle industry services](https://www.dmv.ca.gov/portal/vehicle-industry-services/)
+
+### Questions?
+
+Email us if you have any questions about autonomous vehicles in California. We are here to help!
+
+[Email us](mailto:autonomousvehicles@dmv.ca.gov)
+
+Was this page helpful?
+
+ 👍  👎 
+
+ Copyright © 2026 State of California 
+
+*   [About DMV](https://www.dmv.ca.gov/portal/about-the-california-department-of-motor-vehicles/)
+*   [Privacy Policy](https://www.dmv.ca.gov/portal/privacy-and-security/)
+*   [Cookie Policy](https://www.dmv.ca.gov/portal/cookie-policy/)
+*   [Conditions of Use](https://www.dmv.ca.gov/portal/conditions-of-use/)
+*   [Site Map](https://www.dmv.ca.gov/portal/site-map/)
+*   [Accessibility](https://www.dmv.ca.gov/portal/accessibility/)
+*   [Forms](https://www.dmv.ca.gov/portal/forms/)
+*   [Share Screen](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#)
+
+*   [](https://www.facebook.com/CADMV)
+*   [](https://x.com/ca_dmv)
+*   [](https://www.youtube.com/user/CaliforniaDMV)
+*   [](https://instagram.com/ca_dmv/)
+*   [](https://www.linkedin.com/company/ca-department-of-motor-vehicles)
+
+×
+## Google™ Translate Disclaimer
+
+The Department of Motor Vehicles (DMV) website uses Google™ Translate to provide automatic translation of its web pages. This translation application tool is provided for purposes of information and convenience only. Google™ Translate is a free third-party service, which is not controlled by the DMV. The DMV is unable to guarantee the accuracy of any translation provided by Google™ Translate and is therefore not liable for any inaccurate information or changes in the formatting of the pages resulting from the use of the translation application tool.
+
+The web pages currently in English on the DMV website are the official and accurate source for the program information and services the DMV provides. Any discrepancies or differences created in the translation are not binding and have no legal effect for compliance or enforcement purposes. If any questions arise related to the information contained in the translated website, please refer to the English version.
+
+The following pages provided on the DMV website cannot be translated using Google™ Translate:
+
+*   Forms
+*   Publications
+*   Field Office Locations
+*   Online Applications
+
+Powered by [![Image 6: Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
+
+* * *
+
+ Ok 
+
+×
+# Please install the Google Toolbar
+
+Google Translate is not support in your browser. To translate this page, please [install the Google Toolbar (opens in new window)](https://support.google.com/toolbar/answer/81376).
+
+Close Form Filler
+
+![Image 7](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+
+Original text
+
+Rate this translation
+
+Your feedback will be used to help improve Google Translate
+
+Feedback
