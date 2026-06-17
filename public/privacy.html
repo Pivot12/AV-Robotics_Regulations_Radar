@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Privacy — AV &amp; Robotics Standards Radar</title>
+<meta name="description" content="Privacy policy for AV & Robotics Standards Radar: what we log, how digest and contact data are used, and how to reach us." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --paper: #F8F6F1; --paper-2: #F2EFE8; --card: #FFFFFF;
+    --line: #E9E5DC; --line-soft: #EFEBE2;
+    --ink: #18181A; --muted: #6B6A63; --secondary-ink: #95918A;
+    --emerald: #2F6B4F; --emerald-soft: #EAF1ED; --terracotta: #B5533B;
+    --shadow: 0 1px 2px rgba(24,24,26,0.04), 0 12px 28px -18px rgba(24,24,26,0.18);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    background: var(--paper); color: var(--ink); line-height: 1.6; font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, .brand { font-family: "Sora", system-ui, sans-serif; letter-spacing: -0.018em; }
+  a { color: var(--emerald); }
+  .bg-layer {
+    position: absolute; inset: 0; z-index: -1; overflow: hidden; pointer-events: none;
+  }
+  .bg-layer svg { position: absolute; top: -160px; right: -220px; width: min(90vw, 820px); height: min(90vw, 820px); }
+  .ring { fill: none; stroke: var(--emerald); stroke-width: 1; opacity: 0.04; }
+  .wrap { max-width: 780px; margin: 0 auto; padding: 0 24px; position: relative; }
+  header.site { border-bottom: 1px solid var(--line); background: rgba(248,246,241,0.82); backdrop-filter: blur(10px); position: sticky; top: 0; z-index: 50; }
+  .nav { display: flex; align-items: center; gap: 12px; padding: 15px 0; }
+  .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 16px; color: var(--ink); text-decoration: none; }
+  .nav-spacer { flex: 1; }
+  .nav a.back { color: var(--muted); font-size: 14px; font-weight: 500; text-decoration: none; }
+  .nav a.back:hover { color: var(--ink); }
+  main { padding: 50px 0 64px; }
+  h1 { font-size: clamp(30px, 5vw, 44px); font-weight: 800; margin: 0 0 7px; }
+  .updated { color: var(--secondary-ink); font-size: 13.5px; margin-bottom: 30px; }
+  h2 { font-size: 19px; font-weight: 700; margin: 0 0 10px; color: var(--ink); }
+  p, li { color: var(--muted); font-size: 15px; }
+  ul { padding-left: 20px; }
+  li { margin-bottom: 7px; }
+  .lead { color: var(--ink); font-size: 17px; }
+  .card { border: 1px solid var(--line); border-radius: 16px; background: var(--card); padding: 24px 26px; margin-top: 22px; box-shadow: var(--shadow); }
+  strong { color: var(--ink); }
+  footer.site { border-top: 1px solid var(--line); margin-top: 44px; padding: 26px 0 44px; }
+  .foot { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; color: var(--secondary-ink); font-size: 13px; }
+  .foot-spacer { flex: 1; }
+  .foot a { color: var(--muted); }
+</style>
+</head>
+<body>
+
+<div class="bg-layer" aria-hidden="true">
+  <svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+    <circle class="ring" cx="500" cy="500" r="160" />
+    <circle class="ring" cx="500" cy="500" r="290" />
+    <circle class="ring" cx="500" cy="500" r="420" />
+    <circle class="ring" cx="500" cy="500" r="500" />
+  </svg>
+</div>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="radarmark" viewBox="0 0 32 32">
+    <circle cx="16" cy="16" r="14" fill="none" stroke="#2F6B4F" stroke-width="1.6" opacity="0.22"/>
+    <circle cx="16" cy="16" r="9.5" fill="none" stroke="#2F6B4F" stroke-width="1.6" opacity="0.45"/>
+    <path d="M16 16 L16 2 A14 14 0 0 1 28.1 9 Z" fill="#2F6B4F" opacity="0.12"/>
+    <path d="M16 16 L27.5 8.4" fill="none" stroke="#2F6B4F" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="27.5" cy="8.4" r="2.4" fill="#B5533B"/>
+    <circle cx="16" cy="16" r="2.7" fill="#2F6B4F"/>
+  </symbol>
+</svg>
+
+<header class="site">
+  <div class="wrap nav">
+    <a class="brand" href="index.html">
+      <svg width="24" height="24"><use href="#radarmark"/></svg>
+      AV &amp; Robotics Standards Radar
+    </a>
+    <span class="nav-spacer"></span>
+    <a class="back" href="index.html">← Back to radar</a>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <h1>Privacy Policy</h1>
+    <div class="updated">Last updated: June 2026</div>
+
+    <p class="lead">AV &amp; Robotics Standards Radar is built to be useful and respectful. We collect as little as possible, we never sell your data, and we tell you plainly what we do.</p>
+
+    <div class="card">
+      <h2>Anonymous usage logging</h2>
+      <p>When you visit, we log anonymous, aggregate usage signals to understand whether the tool is useful and working:</p>
+      <ul>
+        <li><strong>Timezone</strong> (e.g. America/Los_Angeles)</li>
+        <li><strong>Browser language</strong> (e.g. en-US)</li>
+        <li><strong>Referrer</strong> — the page that linked you here, if any</li>
+        <li>Page path visited and a rough time-on-page duration</li>
+      </ul>
+      <p>This data is not tied to your identity and is used only to improve the product.</p>
+    </div>
+
+    <div class="card">
+      <h2>Email digest &amp; contact data</h2>
+      <p>If you sign up for the digest or use the contact form, we collect your <strong>name</strong> and <strong>email address</strong> (and your message, for the contact form).</p>
+      <ul>
+        <li>Digest details are used <strong>only to send you regulation- and standards-change updates</strong>.</li>
+        <li>Contact details are used <strong>only to respond to your message</strong>.</li>
+        <li>We <strong>never sell, rent, or trade</strong> your personal information.</li>
+        <li>Ask us any time to remove your data and we will.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Built on public regulatory &amp; standards sources</h2>
+      <p>AV &amp; Robotics Standards Radar monitors <strong>publicly available</strong> official sources — government regulators and standards bodies governing autonomous vehicles, robotics, functional safety, AI governance, and drones. We detect that a source page changed and link you to the official source. We do not host or republish the regulations or standards themselves, and detected changes are an indicator to investigate — always confirm the substance with the official authority.</p>
+    </div>
+
+    <div class="card">
+      <h2>Contact</h2>
+      <p>Questions about this policy or your data? Use the <a href="index.html#contact">contact form</a> — it reaches us directly, no inbox-hunting required.</p>
+    </div>
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap foot">
+    <span>© <span id="year"></span> AV &amp; Robotics Standards Radar</span>
+    <span class="foot-spacer"></span>
+    <a href="index.html">Home</a>
+    <a href="privacy.html">Privacy</a>
+  </div>
+</footer>
+
+<script>
+  /* Shared contract (identical across all three apps) */
+  const APP_NAME = "AV & Robotics Standards Radar";
+  const WEBHOOK_URL = "REPLACE_WITH_APPS_SCRIPT_URL";
+  const _t0 = Date.now();
+  const _ctx = () => ({ app: APP_NAME, ts: new Date().toISOString(), tz: Intl.DateTimeFormat().resolvedOptions().timeZone, lang: navigator.language, ref: document.referrer });
+  function _beacon(p){ if(!WEBHOOK_URL||WEBHOOK_URL.startsWith("REPLACE"))return; try{ const b=new Blob([JSON.stringify(p)],{type:"text/plain;charset=utf-8"}); navigator.sendBeacon ? navigator.sendBeacon(WEBHOOK_URL,b) : fetch(WEBHOOK_URL,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(p),keepalive:true}); }catch(e){} }
+  _beacon({type:"pageview", path:location.pathname, ..._ctx()});
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "hidden") {
+      _beacon({type:"duration", app:APP_NAME, ts:new Date().toISOString(), seconds:Math.round((Date.now()-_t0)/1000)});
+    }
+  });
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+</body>
+</html>

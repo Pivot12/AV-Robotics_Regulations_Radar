@@ -1,0 +1,13 @@
+{
+  "name": "regulation-radar",
+  "version": "1.0.0",
+  "description": "Global vehicle-regulation change monitor — watches official automotive regulatory sources worldwide and surfaces detected changes.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

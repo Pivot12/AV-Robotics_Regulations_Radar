@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "lastRun": "2026-06-15T00:00:00Z",
+    "sourcesMonitored": 14
+  },
+  "sources": [
+    {
+      "key": "UNECE_WP29_GRVA",
+      "name": "UNECE WP.29 GRVA — Automated Driving",
+      "authority": "UNECE WP.29 GRVA",
+      "region": "Autonomous Vehicles",
+      "url": "https://unece.org/transport/vehicle-regulations-wp29/working-parties/grva",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "NHTSA_AV",
+      "name": "NHTSA — Automated Vehicles Safety",
+      "authority": "NHTSA",
+      "region": "Autonomous Vehicles",
+      "url": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "NHTSA_SGO",
+      "name": "NHTSA — Standing General Order (AV Crash Reporting)",
+      "authority": "NHTSA",
+      "region": "Autonomous Vehicles",
+      "url": "https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "CA_DMV_AV",
+      "name": "California DMV — Autonomous Vehicles",
+      "authority": "California DMV",
+      "region": "Autonomous Vehicles",
+      "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "CA_CPUC_AV",
+      "name": "California CPUC — Autonomous Vehicle Programs",
+      "authority": "California CPUC",
+      "region": "Autonomous Vehicles",
+      "url": "https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "ISO_TC299",
+      "name": "ISO/TC 299 Robotics (ISO 10218, 15066, 13482)",
+      "authority": "ISO/TC 299",
+      "region": "Robotics & Machinery Safety",
+      "url": "https://www.iso.org/committee/5915511.html",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "A3_RIA",
+      "name": "A3 / RIA — Robot Safety Standards (R15.06)",
+      "authority": "A3 / RIA",
+      "region": "Robotics & Machinery Safety",
+      "url": "https://www.automate.org/robotics/standards",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "OSHA_ROBOTICS",
+      "name": "OSHA — Robotics",
+      "authority": "OSHA",
+      "region": "Robotics & Machinery Safety",
+      "url": "https://www.osha.gov/robotics",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "EU_MACHINERY",
+      "name": "EU Machinery Regulation 2023/1230",
+      "authority": "European Commission",
+      "region": "Robotics & Machinery Safety",
+      "url": "https://single-market-economy.ec.europa.eu/sectors/mechanical-engineering/machinery_en",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "ISO_TC22",
+      "name": "ISO/TC 22 Road Vehicles (ISO 26262, 21448 SOTIF, 22737)",
+      "authority": "ISO/TC 22",
+      "region": "Functional Safety",
+      "url": "https://www.iso.org/committee/46706.html",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "IEC_61508",
+      "name": "IEC — Functional Safety (IEC 61508)",
+      "authority": "IEC",
+      "region": "Functional Safety",
+      "url": "https://www.iec.ch/functionalsafety",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "EU_AI_ACT",
+      "name": "EU AI Act — Regulatory Framework",
+      "authority": "European Commission",
+      "region": "AI Governance",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "NIST_AI_RMF",
+      "name": "NIST — AI Risk Management Framework",
+      "authority": "NIST",
+      "region": "AI Governance",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "FAA_UAS",
+      "name": "FAA — UAS / Drones",
+      "authority": "FAA",
+      "region": "Drones / UAS",
+      "url": "https://www.faa.gov/uas",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    }
+  ],
+  "changes": [
+    {
+      "date": "2025-08-21",
+      "region": "Robotics & Machinery Safety",
+      "authority": "A3 / RIA",
+      "url": "https://www.automate.org/robotics/news/new-ansi-a3-r15-06-2025-american-national-standard-for-industrial-robot-safety-now-available-for-purchase",
+      "note": "ANSI/A3 R15.06-2025, the US national adoption of ISO 10218-1/-2:2025 and the first major revision of the industrial robot safety standard since 2012, was approved on 21 August 2025. It adds new robot classifications, collaborative-operation (cobot) guidance and a cybersecurity component; the full three-part document was released 29 October 2025."
+    },
+    {
+      "date": "2025-08-07",
+      "region": "Drones / UAS",
+      "authority": "FAA",
+      "url": "https://www.faa.gov/newsroom/BVLOS_NPRM_website_version.pdf",
+      "note": "FAA released its Notice of Proposed Rulemaking for Part 108, the first dedicated framework for routine Beyond Visual Line of Sight (BVLOS) drone operations. The 700+ page proposal would replace per-flight waivers with operational-area approvals and mandate detect-and-avoid, Remote ID and UTM integration; the comment period closed 6 October 2025."
+    },
+    {
+      "date": "2025-08-02",
+      "region": "AI Governance",
+      "authority": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "note": "EU AI Act obligations for General-Purpose AI (GPAI) models began to apply on 2 August 2025, including transparency, technical-documentation and copyright duties for all GPAI providers plus additional systemic-risk obligations for the largest models. Core governance and enforcement provisions also entered into application."
+    },
+    {
+      "date": "2025-07-10",
+      "region": "AI Governance",
+      "authority": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+      "note": "The European Commission's AI Office published the final General-Purpose AI Code of Practice on 10 July 2025. The voluntary code (Transparency, Copyright, and Safety & Security chapters) gives GPAI providers an operational route to demonstrate compliance with AI Act Articles 53 and 55 ahead of the 2 August 2025 obligations."
+    },
+    {
+      "date": "2025-06-24",
+      "region": "Autonomous Vehicles",
+      "authority": "UNECE WP.29 GRVA",
+      "url": "https://unece.org/transport/documents/2025/06/informal-documents/secretariat-draft-running-order-196th-session-wp29",
+      "note": "At its 196th session (24-27 June 2025), the UNECE World Forum WP.29 considered amendments to UN Regulation No. 171 on Driver Control Assistance Systems (DCAS, an SAE Level 2 framework) alongside dozens of other vehicle regulations. GRVA had developed a 01 series and a draft 02 series of amendments expanding DCAS provisions."
+    },
+    {
+      "date": "2025-06-13",
+      "region": "Autonomous Vehicles",
+      "authority": "NHTSA",
+      "url": "https://www.nhtsa.gov/document/part-555-letter-june-2025",
+      "note": "NHTSA announced the next step in its Automated Vehicle Framework on 13 June 2025, streamlining the Part 555 exemption process for commercial AV deployment and expanding the Automated Vehicle Exemption Program (AVEP) to include domestically produced vehicles, previously open only to imported AVs."
+    },
+    {
+      "date": "2025-05-19",
+      "region": "Autonomous Vehicles",
+      "authority": "California CPUC",
+      "url": "https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-3-disposition-letter-20250519.pdf",
+      "note": "The California CPUC approved Waymo's updated passenger safety plan on 19 May 2025, authorizing expansion of its fared driverless ride-hailing service to additional Bay Area territory including San Jose and the Peninsula."
+    },
+    {
+      "date": "2025-04-25",
+      "region": "Autonomous Vehicles",
+      "authority": "California DMV",
+      "url": "https://www.dmv.ca.gov/portal/news-and-media/dmv-opens-15-day-public-comment-period-on-autonomous-heavy-and-light-duty-vehicles/",
+      "note": "On 25 April 2025 the California DMV issued a notice of proposed regulations revising AV testing and deployment rules, for the first time covering heavy-duty commercial autonomous vehicles (GVWR over 10,001 lbs) and adding staged mileage requirements (50,000 light-duty / 500,000 heavy-duty per phase) plus a structured safety case."
+    },
+    {
+      "date": "2025-04-24",
+      "region": "Autonomous Vehicles",
+      "authority": "NHTSA",
+      "url": "https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/third-amended-SGO-2021-01_2025.pdf",
+      "note": "NHTSA issued the Third Amended Standing General Order on crash reporting for ADS and Level 2 ADAS on 24 April 2025 (effective 16 June 2025), reducing duplicative reporting between ADS-equipment makers and vehicle manufacturers and refining reportable-incident thresholds."
+    },
+    {
+      "date": "2025-02-28",
+      "region": "Robotics & Machinery Safety",
+      "authority": "ISO/TC 299",
+      "url": "https://www.iso.org/standard/73933.html",
+      "note": "ISO published the fully revised ISO 10218-1:2025 (industrial robots) and ISO 10218-2:2025 (robot applications and cells) in February 2025, the first overhaul since 2011. The revision incorporates collaborative-operation requirements, expands functional-safety guidance and adds cybersecurity requirements relevant to robot safety."
+    },
+    {
+      "date": "2025-02-02",
+      "region": "AI Governance",
+      "authority": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "note": "The EU AI Act's first operative obligations took effect on 2 February 2025: bans on 'unacceptable risk' AI practices (e.g. social scoring and certain manipulative or biometric uses) became enforceable, and providers/deployers became obliged to ensure staff AI literacy."
+    },
+    {
+      "date": "2025-01-27",
+      "region": "Functional Safety",
+      "authority": "NHTSA",
+      "url": "https://www.federalregister.gov/documents/2025/01/27/2025-01832/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles",
+      "note": "NHTSA delayed the effective date of the FMVSS No. 127 light-vehicle automatic-emergency-braking final rule (version published 26 November 2024) to 20 March 2025 and granted portions of industry petitions for reconsideration, following a 20 January 2025 presidential regulatory-review memorandum."
+    },
+    {
+      "date": "2025-01-15",
+      "region": "Autonomous Vehicles",
+      "authority": "NHTSA",
+      "url": "https://nhtsa.gov/press-releases/nhtsa-proposes-national-program-vehicles-automated-driving-systems",
+      "note": "In January 2025 NHTSA issued an NPRM proposing the ADS-equipped Vehicle Safety, Transparency, and Evaluation Program (AV STEP), a voluntary national program requiring participants to submit a safety case and consent to independent assessment and ongoing oversight of ADS operations."
+    }
+  ]
+}

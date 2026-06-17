@@ -1,0 +1,95 @@
+{
+  "regions": [
+    "Autonomous Vehicles",
+    "Robotics & Machinery Safety",
+    "Functional Safety",
+    "AI Governance",
+    "Drones / UAS"
+  ],
+  "sources": {
+    "UNECE_WP29_GRVA": {
+      "name": "UNECE WP.29 GRVA — Automated Driving",
+      "authority": "UNECE WP.29 GRVA",
+      "region": "Autonomous Vehicles",
+      "url": "https://unece.org/transport/vehicle-regulations-wp29/working-parties/grva"
+    },
+    "NHTSA_AV": {
+      "name": "NHTSA — Automated Vehicles Safety",
+      "authority": "NHTSA",
+      "region": "Autonomous Vehicles",
+      "url": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety"
+    },
+    "NHTSA_SGO": {
+      "name": "NHTSA — Standing General Order (AV Crash Reporting)",
+      "authority": "NHTSA",
+      "region": "Autonomous Vehicles",
+      "url": "https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting"
+    },
+    "CA_DMV_AV": {
+      "name": "California DMV — Autonomous Vehicles",
+      "authority": "California DMV",
+      "region": "Autonomous Vehicles",
+      "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/"
+    },
+    "CA_CPUC_AV": {
+      "name": "California CPUC — Autonomous Vehicle Programs",
+      "authority": "California CPUC",
+      "region": "Autonomous Vehicles",
+      "url": "https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs"
+    },
+    "ISO_TC299": {
+      "name": "ISO/TC 299 Robotics (ISO 10218, 15066, 13482)",
+      "authority": "ISO/TC 299",
+      "region": "Robotics & Machinery Safety",
+      "url": "https://www.iso.org/committee/5915511.html"
+    },
+    "A3_RIA": {
+      "name": "A3 / RIA — Robot Safety Standards (R15.06)",
+      "authority": "A3 / RIA",
+      "region": "Robotics & Machinery Safety",
+      "url": "https://www.automate.org/robotics/standards"
+    },
+    "OSHA_ROBOTICS": {
+      "name": "OSHA — Robotics",
+      "authority": "OSHA",
+      "region": "Robotics & Machinery Safety",
+      "url": "https://www.osha.gov/robotics"
+    },
+    "EU_MACHINERY": {
+      "name": "EU Machinery Regulation 2023/1230",
+      "authority": "European Commission",
+      "region": "Robotics & Machinery Safety",
+      "url": "https://single-market-economy.ec.europa.eu/sectors/mechanical-engineering/machinery_en"
+    },
+    "ISO_TC22": {
+      "name": "ISO/TC 22 Road Vehicles (ISO 26262, 21448 SOTIF, 22737)",
+      "authority": "ISO/TC 22",
+      "region": "Functional Safety",
+      "url": "https://www.iso.org/committee/46706.html"
+    },
+    "IEC_61508": {
+      "name": "IEC — Functional Safety (IEC 61508)",
+      "authority": "IEC",
+      "region": "Functional Safety",
+      "url": "https://www.iec.ch/functionalsafety"
+    },
+    "EU_AI_ACT": {
+      "name": "EU AI Act — Regulatory Framework",
+      "authority": "European Commission",
+      "region": "AI Governance",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+    },
+    "NIST_AI_RMF": {
+      "name": "NIST — AI Risk Management Framework",
+      "authority": "NIST",
+      "region": "AI Governance",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+    },
+    "FAA_UAS": {
+      "name": "FAA — UAS / Drones",
+      "authority": "FAA",
+      "region": "Drones / UAS",
+      "url": "https://www.faa.gov/uas"
+    }
+  }
+}
