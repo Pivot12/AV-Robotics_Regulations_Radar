@@ -2,7 +2,7 @@ Title: Safety and functional safety
 
 URL Source: https://www.iec.ch/functionalsafety
 
-Published Time: Wed, 17 Jun 2026 12:06:31 GMT
+Published Time: Thu, 18 Jun 2026 11:34:24 GMT
 
 Markdown Content:
 # Safety and functional safety
@@ -450,11 +450,3 @@ With HBSE, potentially hazardous situations are clearly identified and safeguard
 *   [Media resources](https://www.iec.ch/media-resources)
 
 [Copyright © IEC 2026](https://www.iec.ch/copyright "Copyright"). All rights reserved.
-
-Back to top
-
-## We use cookies on this site to enhance your user experience
-
-By clicking the Accept button, you agree to us doing so. [More info](https://www.iec.ch/node/40319)
-
-Accept No, thanks

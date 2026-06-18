@@ -2,7 +2,7 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Wed, 17 Jun 2026 12:11:22 GMT
+Published Time: Thu, 18 Jun 2026 11:46:01 GMT
 
 Markdown Content:
 # ISO/TC 22 - Road vehicles
@@ -205,7 +205,7 @@ ISO/TC 22 can access the documents of the committees below:
 | 9 | July 2026 | Virtual () | [ISO/TC 22/SC 35](https://www.iso.org/contents/data/committee/53/83/5383897.html#meetings) |  |
 | 9 | October 2026 | Berlin (Germany) | [ISO/TC 22/SC 34](https://www.iso.org/contents/data/committee/53/83/5383858.html#meetings) |  |
 | 13-14 | October 2026 | Dong Li Qu (China) | [ISO/TC 22/SC 31](https://www.iso.org/contents/data/committee/53/83/5383568.html#meetings) |  |
-| 16 | October 2026 | Shinjuku City (Japan) | [ISO/TC 22/SC 38](https://www.iso.org/contents/data/committee/53/84/5384008.html#meetings) | [**](https://www.iso.org/committee/46706.html) |
+| 16 | October 2026 | Shinjuku City (Japan) | [ISO/TC 22/SC 38](https://www.iso.org/contents/data/committee/53/84/5384008.html#meetings) |  |
 | 19-20 | October 2026 | Beijing (China) | [ISO/TC 22/SC 33](https://www.iso.org/contents/data/committee/53/83/5383785.html#meetings) |  |
 
 * * *
