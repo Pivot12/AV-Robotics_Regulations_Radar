@@ -2,7 +2,7 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Thu, 18 Jun 2026 11:46:01 GMT
+Published Time: Fri, 19 Jun 2026 10:21:21 GMT
 
 Markdown Content:
 # ISO/TC 22 - Road vehicles
@@ -74,7 +74,7 @@ Browse documents made available by this group
 
 ![Image 2: Sustainable Development Goals](https://www.iso.org/files/live/sites/isoorg/files/data/sdg/en/sdg-logo.png)
 
-This committee contributes with 28 standards to the following [Sustainable Development Goals](https://www.iso.org/sdg):
+This committee contributes with 29 standards to the following [Sustainable Development Goals](https://www.iso.org/sdg):
 
 [3 Good Health and Well-being](https://www.iso.org/sdg/SDG03.html "Good Health and Well-being")[4 Quality Education](https://www.iso.org/sdg/SDG04.html "Quality Education")[7 Affordable and Clean Energy](https://www.iso.org/sdg/SDG07.html "Affordable and Clean Energy")[9 Industry, Innovation and Infrastructure](https://www.iso.org/sdg/SDG09.html "Industry, Innovation and Infrastructure")[11 Sustainable Cities and Communities](https://www.iso.org/sdg/SDG11.html "Sustainable Cities and Communities")[12 Responsible Consumption and Production](https://www.iso.org/sdg/SDG12.html "Responsible Consumption and Production")[13 Climate Action](https://www.iso.org/sdg/SDG13.html "Climate Action")
 
@@ -83,10 +83,10 @@ Published ISO standards*
 
 of which [27](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/1/u/0/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
 
-[230](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0)
+[231](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0)
 ISO standards under development*
 
-of which [2](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
+of which [3](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
 
 [39](https://www.iso.org/committee/46706.html?view=participation)
 
@@ -291,6 +291,7 @@ Web: [http://www.afnor.org](http://www.afnor.org/ "email")
     *   [Get involved](https://www.iso.org/get-involved.html)
     *   [Collaborating to accelerate effective climate action](https://www.iso.org/ClimateAction.html "The ISO Climate Action Kit is a collection of case studies from around the world on how standards can be effectively used as a tool for sustainability.")
     *   [Resources](https://www.iso.org/resources.html "Resources to support the work of individuals involved in standards development. ")
+        *   [Directives and Policies](https://www.iso.org/directives-and-policies.html)
         *   [Drafting standards](https://www.iso.org/drafting-standards.html)
 
 *   [Store](https://www.iso.org/store.html "Are you looking to buy International Standards, guidelines, collections and checklists? They're all right here, in the ISO Store.")

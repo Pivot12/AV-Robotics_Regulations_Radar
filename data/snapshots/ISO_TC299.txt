@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Thu, 18 Jun 2026 11:45:43 GMT
+Published Time: Fri, 19 Jun 2026 11:30:00 GMT
 
 Markdown Content:
 # ISO/TC 299 - Robotics
@@ -256,6 +256,7 @@ Web: [http://www.sis.se/](http://www.sis.se/ "email")
     *   [Get involved](https://www.iso.org/get-involved.html)
     *   [Collaborating to accelerate effective climate action](https://www.iso.org/ClimateAction.html "The ISO Climate Action Kit is a collection of case studies from around the world on how standards can be effectively used as a tool for sustainability.")
     *   [Resources](https://www.iso.org/resources.html "Resources to support the work of individuals involved in standards development. ")
+        *   [Directives and Policies](https://www.iso.org/directives-and-policies.html)
         *   [Drafting standards](https://www.iso.org/drafting-standards.html)
 
 *   [Store](https://www.iso.org/store.html "Are you looking to buy International Standards, guidelines, collections and checklists? They're all right here, in the ISO Store.")
