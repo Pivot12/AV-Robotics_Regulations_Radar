@@ -2,7 +2,7 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Sat, 20 Jun 2026 10:27:39 GMT
+Published Time: Sun, 21 Jun 2026 11:00:59 GMT
 
 Markdown Content:
 # ISO/TC 22 - Road vehicles
@@ -233,9 +233,9 @@ Email: [Standardization@afnor.org](mailto:Standardization@afnor.org "email")
 Web: [http://www.afnor.org](http://www.afnor.org/ "email")
 
 1.   [](https://www.iso.org/home.html "Home page")
-2.   [Taking part](https://www.iso.org/developing-standards.html)
-3.   [Who develops standards](https://www.iso.org/who-develops-standards.html)
-4.   [Technical Committees](https://www.iso.org/technical-committees.html)
+2.   [Store](https://www.iso.org/store.html)
+3.   [Store](https://www.iso.org/store.html)
+4.   [TC](https://www.iso.org/standards-catalogue/browse-by-tc.html)
 5.   ISO/TC 22
 
 [Sitemap](https://www.iso.org/committee/46706.html#collapseSitemap)
