@@ -2,10 +2,9 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Sun, 21 Jun 2026 09:03:26 GMT
+Published Time: Mon, 22 Jun 2026 13:28:09 GMT
 
 Markdown Content:
-# ISO/TC 299 - Robotics
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
 
 *   [Applications](https://login.iso.org/ "ISO's applications portal")
@@ -53,6 +52,9 @@ Standardization in the field of robotics, excluding toys and military applicatio
 *   ##### [Work programme](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0 "ISO/TC 299 Work programme")
 
 Drafts and new work items  
+*   ##### [Business plans](https://www.iso.org/bp "Business plan")
+
+TC Business plans for public review  
 *   ##### [Working area](https://sd.iso.org/documents/ui/#!/browse/iso/iso-tc-299/ "Working area")
 
 Working documents (user account required)  
@@ -198,9 +200,9 @@ Email: [info@sis.se](mailto:info@sis.se "email")
 Web: [http://www.sis.se/](http://www.sis.se/ "email")
 
 1.   [](https://www.iso.org/home.html "Home page")
-2.   [Taking part](https://www.iso.org/developing-standards.html)
-3.   [Who develops standards](https://www.iso.org/who-develops-standards.html)
-4.   [Technical Committees](https://www.iso.org/technical-committees.html)
+2.   [Store](https://www.iso.org/store.html)
+3.   [Store](https://www.iso.org/store.html)
+4.   [TC](https://www.iso.org/standards-catalogue/browse-by-tc.html)
 5.   ISO/TC 299
 
 [Sitemap](https://www.iso.org/committee/5915511.html#collapseSitemap)
