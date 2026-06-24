@@ -2,7 +2,7 @@ Title: Robotics - Overview | Occupational Safety and Health Administration
 
 URL Source: https://www.osha.gov/robotics
 
-Published Time: Tue, 23 Jun 2026 05:53:42 GMT
+Published Time: Wed, 24 Jun 2026 07:59:42 GMT
 
 Markdown Content:
 [Skip to main content](https://www.osha.gov/robotics#main-content "Click here to skip to main content")
@@ -34,6 +34,8 @@ MENU
 ## [Occupational Safety and Health Administration](https://www.osha.gov/ "Occupational Safety and Health Administration")
 
 [Contact Us](https://www.osha.gov/contactus "Contact us")[FAQ](https://www.osha.gov/faq "Frequently Asked Questions")[A to Z Index](https://www.osha.gov/a-z "A to Z Index")
+
+Powered by [![Image 5: Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
 
 [Languages](https://www.osha.gov/robotics#)
 *   [اَلْعَرَبِيَّةُ (Arabic)](javascript:doGTranslate("en|ar") "Arabic")
@@ -228,7 +230,7 @@ Provides references that aid in recognizing hazards related to robotics in the w
 *   [Media Center](https://www.osha.gov/media-center "Media Center")
 *   [Contact Us](https://www.osha.gov/contactus "Contact Us")
 
-[![Image 5: United States Department of Labor](https://www.osha.gov/themes/contrib/ddp_dol_theme/img/DOL-MasterLogo_BLUE.svg)](https://www.dol.gov/ "U.S. Department of Labor Seal")
+[![Image 6: United States Department of Labor](https://www.osha.gov/themes/contrib/ddp_dol_theme/img/DOL-MasterLogo_BLUE.svg)](https://www.dol.gov/ "U.S. Department of Labor Seal")
 
 U.S. Department of Labor
 
@@ -275,3 +277,11 @@ Connect With OSHA
 [Facebook](https://www.facebook.com/departmentoflabor "Department of Labor Facebook")[X](https://twitter.com/OSHA_DOL "Department of Labor Twitter")[Instagram](https://www.instagram.com/USDOL/ "Department of Labor Instagram")[Youtube](https://www.youtube.com/user/USDepartmentofLabor "Department of Labor Youtube")[Linkedin](https://www.linkedin.com/company/u-s-department-of-labor/ "Department of Linkedin")
 
 [Site Map](https://www.dol.gov/general/findit)[Important Website Notices](https://www.dol.gov/general/aboutdol/website-policies)[Privacy & Security Statement](https://www.dol.gov/general/privacynotice)
+
+![Image 7](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+
+Original text
+
+Rate this translation
+
+Your feedback will be used to help improve Google Translate
