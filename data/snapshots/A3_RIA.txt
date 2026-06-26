@@ -9,20 +9,7 @@ Markdown Content:
 
 [Logout](https://www.automate.org/sso-process?logout)
 
-[JOIN A3](https://www.automate.org/membership/join)[](https://www.automate.org/)[WHO WE ARE](https://www.automate.org/)
-
-[](https://www.automate.org/)
-[](https://www.automate.org/)*   [](https://www.automate.org/)[About The Association for Advancing Automation (A3)](https://www.automate.org/a3/who-we-are)
-*   [A3's Mission](https://www.automate.org/a3/who-we-are)
-*   [Policy Recommendations and Advocacy Principles](https://www.automate.org/a3/advocacy-principles)
-*   [Global Business Expansion Initiatives](https://www.automate.org/a3/automation-business-opportunities-in-india-and-mexico)
-*   [Member Companies](https://www.automate.org/companies)
-*   [Meet Our Staff](https://www.automate.org/a3/meet-our-staff)
-*   [Boards and Committees](https://www.automate.org/a3/boards-and-committees)
-*   [A3 Press Center](https://www.automate.org/a3/press-center)
-*   [Advertise With Us](https://www.automate.org/a3/advertising)
-
-[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)
+[JOIN A3](https://www.automate.org/membership/join)[WHO WE ARE * [About The Association for Advancing Automation (A3)](https://www.automate.org/a3/who-we-are) * [A3's Mission](https://www.automate.org/a3/who-we-are) * [Policy Recommendations and Advocacy Principles](https://www.automate.org/a3/advocacy-principles) * [Global Business Expansion Initiatives](https://www.automate.org/a3/automation-business-opportunities-in-india-and-mexico) * [Member Companies](https://www.automate.org/companies) * [Meet Our Staff](https://www.automate.org/a3/meet-our-staff) * [Boards and Committees](https://www.automate.org/a3/boards-and-committees) * [A3 Press Center](https://www.automate.org/a3/press-center) * [Advertise With Us](https://www.automate.org/a3/advertising)](https://www.automate.org/robotics/standards)[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)
 
 [My Account](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)|[Logout](https://www.automate.org/sso-process?logout)
 

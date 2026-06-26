@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRun": "2026-06-25T10:39:57.006Z",
+    "lastRun": "2026-06-26T10:49:17.048Z",
     "sourcesMonitored": 14
   },
   "sources": [
@@ -10,7 +10,7 @@
       "authority": "UNECE WP.29 GRVA",
       "region": "Autonomous Vehicles",
       "url": "https://unece.org/transport/vehicle-regulations-wp29/working-parties/grva",
-      "lastChecked": "2026-06-25T10:39:30.511Z",
+      "lastChecked": "2026-06-26T10:48:51.611Z",
       "status": "unchanged",
       "chars": 487,
       "delta": 0
@@ -21,7 +21,7 @@
       "authority": "NHTSA",
       "region": "Autonomous Vehicles",
       "url": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
-      "lastChecked": "2026-06-25T10:39:34.435Z",
+      "lastChecked": "2026-06-26T10:48:56.792Z",
       "status": "unchanged",
       "chars": 10928,
       "delta": 0
@@ -32,10 +32,10 @@
       "authority": "NHTSA",
       "region": "Autonomous Vehicles",
       "url": "https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting",
-      "lastChecked": "2026-06-25T10:39:35.877Z",
+      "lastChecked": "2026-06-26T10:48:59.577Z",
       "status": "changed",
-      "chars": 18915,
-      "delta": 0
+      "chars": 18868,
+      "delta": -47
     },
     {
       "key": "CA_DMV_AV",
@@ -43,7 +43,7 @@
       "authority": "California DMV",
       "region": "Autonomous Vehicles",
       "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/",
-      "lastChecked": "2026-06-25T10:39:37.396Z",
+      "lastChecked": "2026-06-26T10:49:01.074Z",
       "status": "changed",
       "chars": 21848,
       "delta": 0
@@ -54,7 +54,7 @@
       "authority": "California CPUC",
       "region": "Autonomous Vehicles",
       "url": "https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs",
-      "lastChecked": "2026-06-25T10:39:38.854Z",
+      "lastChecked": "2026-06-26T10:49:02.698Z",
       "status": "unchanged",
       "chars": 8414,
       "delta": 0
@@ -65,10 +65,10 @@
       "authority": "ISO/TC 299",
       "region": "Robotics & Machinery Safety",
       "url": "https://www.iso.org/committee/5915511.html",
-      "lastChecked": "2026-06-25T10:39:40.322Z",
+      "lastChecked": "2026-06-26T10:49:04.227Z",
       "status": "changed",
-      "chars": 25453,
-      "delta": 79
+      "chars": 25374,
+      "delta": -79
     },
     {
       "key": "A3_RIA",
@@ -76,10 +76,10 @@
       "authority": "A3 / RIA",
       "region": "Robotics & Machinery Safety",
       "url": "https://www.automate.org/robotics/standards",
-      "lastChecked": "2026-06-25T10:39:41.822Z",
+      "lastChecked": "2026-06-26T10:49:05.681Z",
       "status": "changed",
-      "chars": 23117,
-      "delta": -3144
+      "chars": 22997,
+      "delta": -120
     },
     {
       "key": "OSHA_ROBOTICS",
@@ -87,10 +87,10 @@
       "authority": "OSHA",
       "region": "Robotics & Machinery Safety",
       "url": "https://www.osha.gov/robotics",
-      "lastChecked": "2026-06-25T10:39:43.326Z",
+      "lastChecked": "2026-06-26T10:49:07.171Z",
       "status": "changed",
       "chars": 17560,
-      "delta": -4
+      "delta": 0
     },
     {
       "key": "EU_MACHINERY",
@@ -98,7 +98,7 @@
       "authority": "European Commission",
       "region": "Robotics & Machinery Safety",
       "url": "https://single-market-economy.ec.europa.eu/sectors/mechanical-engineering/machinery_en",
-      "lastChecked": "2026-06-25T10:39:44.821Z",
+      "lastChecked": "2026-06-26T10:49:08.644Z",
       "status": "unchanged",
       "chars": 9357,
       "delta": 0
@@ -109,10 +109,10 @@
       "authority": "ISO/TC 22",
       "region": "Functional Safety",
       "url": "https://www.iso.org/committee/46706.html",
-      "lastChecked": "2026-06-25T10:39:46.319Z",
+      "lastChecked": "2026-06-26T10:49:10.377Z",
       "status": "changed",
-      "chars": 28368,
-      "delta": -3833
+      "chars": 28233,
+      "delta": -135
     },
     {
       "key": "IEC_61508",
@@ -120,7 +120,7 @@
       "authority": "IEC",
       "region": "Functional Safety",
       "url": "https://www.iec.ch/functionalsafety",
-      "lastChecked": "2026-06-25T10:39:47.774Z",
+      "lastChecked": "2026-06-26T10:49:11.870Z",
       "status": "changed",
       "chars": 28183,
       "delta": 0
@@ -131,10 +131,10 @@
       "authority": "European Commission",
       "region": "AI Governance",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "lastChecked": "2026-06-25T10:39:49.210Z",
+      "lastChecked": "2026-06-26T10:49:13.429Z",
       "status": "changed",
-      "chars": 30703,
-      "delta": -47
+      "chars": 30750,
+      "delta": 47
     },
     {
       "key": "NIST_AI_RMF",
@@ -142,10 +142,10 @@
       "authority": "NIST",
       "region": "AI Governance",
       "url": "https://www.nist.gov/itl/ai-risk-management-framework",
-      "lastChecked": "2026-06-25T10:39:55.283Z",
-      "status": "changed",
+      "lastChecked": "2026-06-26T10:49:15.150Z",
+      "status": "unchanged",
       "chars": 6163,
-      "delta": -696
+      "delta": 0
     },
     {
       "key": "FAA_UAS",
@@ -153,13 +153,76 @@
       "authority": "FAA",
       "region": "Drones / UAS",
       "url": "https://www.faa.gov/uas",
-      "lastChecked": "2026-06-25T10:39:56.711Z",
+      "lastChecked": "2026-06-26T10:49:16.649Z",
       "status": "changed",
       "chars": 19519,
       "delta": 0
     }
   ],
   "changes": [
+    {
+      "date": "2026-06-26T10:48:59.577Z",
+      "region": "Autonomous Vehicles",
+      "authority": "NHTSA",
+      "url": "https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting",
+      "note": "Change detected (Δ -47 chars)"
+    },
+    {
+      "date": "2026-06-26T10:49:01.074Z",
+      "region": "Autonomous Vehicles",
+      "authority": "California DMV",
+      "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/",
+      "note": "Change detected (Δ +0 chars)"
+    },
+    {
+      "date": "2026-06-26T10:49:04.227Z",
+      "region": "Robotics & Machinery Safety",
+      "authority": "ISO/TC 299",
+      "url": "https://www.iso.org/committee/5915511.html",
+      "note": "Change detected (Δ -79 chars)"
+    },
+    {
+      "date": "2026-06-26T10:49:05.681Z",
+      "region": "Robotics & Machinery Safety",
+      "authority": "A3 / RIA",
+      "url": "https://www.automate.org/robotics/standards",
+      "note": "Change detected (Δ -120 chars)"
+    },
+    {
+      "date": "2026-06-26T10:49:07.171Z",
+      "region": "Robotics & Machinery Safety",
+      "authority": "OSHA",
+      "url": "https://www.osha.gov/robotics",
+      "note": "Change detected (Δ +0 chars)"
+    },
+    {
+      "date": "2026-06-26T10:49:10.377Z",
+      "region": "Functional Safety",
+      "authority": "ISO/TC 22",
+      "url": "https://www.iso.org/committee/46706.html",
+      "note": "Change detected (Δ -135 chars)"
+    },
+    {
+      "date": "2026-06-26T10:49:11.870Z",
+      "region": "Functional Safety",
+      "authority": "IEC",
+      "url": "https://www.iec.ch/functionalsafety",
+      "note": "Change detected (Δ +0 chars)"
+    },
+    {
+      "date": "2026-06-26T10:49:13.429Z",
+      "region": "AI Governance",
+      "authority": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "note": "Change detected (Δ +47 chars)"
+    },
+    {
+      "date": "2026-06-26T10:49:16.649Z",
+      "region": "Drones / UAS",
+      "authority": "FAA",
+      "url": "https://www.faa.gov/uas",
+      "note": "Change detected (Δ +0 chars)"
+    },
     {
       "date": "2026-06-25T10:39:35.877Z",
       "region": "Autonomous Vehicles",
@@ -796,41 +859,6 @@
       "authority": "California DMV",
       "url": "https://www.dmv.ca.gov/portal/news-and-media/dmv-opens-15-day-public-comment-period-on-autonomous-heavy-and-light-duty-vehicles/",
       "note": "On 25 April 2025 the California DMV issued a notice of proposed regulations revising AV testing and deployment rules, for the first time covering heavy-duty commercial autonomous vehicles (GVWR over 10,001 lbs) and adding staged mileage requirements (50,000 light-duty / 500,000 heavy-duty per phase) plus a structured safety case."
-    },
-    {
-      "date": "2025-04-24",
-      "region": "Autonomous Vehicles",
-      "authority": "NHTSA",
-      "url": "https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/third-amended-SGO-2021-01_2025.pdf",
-      "note": "NHTSA issued the Third Amended Standing General Order on crash reporting for ADS and Level 2 ADAS on 24 April 2025 (effective 16 June 2025), reducing duplicative reporting between ADS-equipment makers and vehicle manufacturers and refining reportable-incident thresholds."
-    },
-    {
-      "date": "2025-02-28",
-      "region": "Robotics & Machinery Safety",
-      "authority": "ISO/TC 299",
-      "url": "https://www.iso.org/standard/73933.html",
-      "note": "ISO published the fully revised ISO 10218-1:2025 (industrial robots) and ISO 10218-2:2025 (robot applications and cells) in February 2025, the first overhaul since 2011. The revision incorporates collaborative-operation requirements, expands functional-safety guidance and adds cybersecurity requirements relevant to robot safety."
-    },
-    {
-      "date": "2025-02-02",
-      "region": "AI Governance",
-      "authority": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "note": "The EU AI Act's first operative obligations took effect on 2 February 2025: bans on 'unacceptable risk' AI practices (e.g. social scoring and certain manipulative or biometric uses) became enforceable, and providers/deployers became obliged to ensure staff AI literacy."
-    },
-    {
-      "date": "2025-01-27",
-      "region": "Functional Safety",
-      "authority": "NHTSA",
-      "url": "https://www.federalregister.gov/documents/2025/01/27/2025-01832/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles",
-      "note": "NHTSA delayed the effective date of the FMVSS No. 127 light-vehicle automatic-emergency-braking final rule (version published 26 November 2024) to 20 March 2025 and granted portions of industry petitions for reconsideration, following a 20 January 2025 presidential regulatory-review memorandum."
-    },
-    {
-      "date": "2025-01-15",
-      "region": "Autonomous Vehicles",
-      "authority": "NHTSA",
-      "url": "https://nhtsa.gov/press-releases/nhtsa-proposes-national-program-vehicles-automated-driving-systems",
-      "note": "In January 2025 NHTSA issued an NPRM proposing the ADS-equipped Vehicle Safety, Transparency, and Evaluation Program (AV STEP), a voluntary national program requiring participants to submit a safety case and consent to independent assessment and ongoing oversight of ADS operations."
     }
   ]
 }
