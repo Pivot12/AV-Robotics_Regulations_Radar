@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Fri, 26 Jun 2026 10:44:35 GMT
+Published Time: Sat, 27 Jun 2026 09:29:26 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
@@ -125,6 +125,7 @@ The committees below can access the documents of ISO/TC 299:
 | [ISO/IEC JTC 1/SC 35](https://www.iso.org/committee/45382.html) | User interfaces | ISO/IEC |
 | [ISO/IEC JTC 1/SC 41](https://www.iso.org/committee/6483279.html) | Internet of things and digital twin | ISO/IEC |
 | [ISO/IEC JTC 1/SC 42](https://www.iso.org/committee/6794475.html) | Artificial intelligence | ISO/IEC |
+| [ISO/TC 8/SC 26](https://www.iso.org/committee/10281240.html) | Smart shipping | ISO |
 | [ISO/TC 20](https://www.iso.org/committee/46484.html) | Aircraft and space vehicles | ISO |
 | [ISO/TC 82/SC 8](https://www.iso.org/committee/6910144.html) | Automated and autonomous mining systems | ISO |
 | [ISO/TC 110/SC 2](https://www.iso.org/committee/51600.html) | Safety of powered industrial trucks | ISO |

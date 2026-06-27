@@ -2,7 +2,7 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Fri, 26 Jun 2026 10:44:52 GMT
+Published Time: Sat, 27 Jun 2026 07:11:18 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/46706.html#content)
@@ -85,7 +85,7 @@ Published ISO standards*
 
 of which [27](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/1/u/0/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
 
-[232](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0)
+[233](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0)
 ISO standards under development*
 
 of which [2](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
