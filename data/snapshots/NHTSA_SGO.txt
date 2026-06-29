@@ -2,7 +2,7 @@ Title: Standing General Order on Crash Reporting | NHTSA
 
 URL Source: https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting
 
-Published Time: Sun, 28 Jun 2026 09:24:03 GMT
+Published Time: Fri, 20 Feb 2026 02:26:23 GMT
 
 Markdown Content:
 **ADS:**Entities named in the General Order must report a crash if ADS was in use at any time within 30 seconds of the crash and resulted in certain property damage or a fatality, a vulnerable road user being struck, an air bag deployment, tow away or any individual being transported to a hospital for medical treatment.
