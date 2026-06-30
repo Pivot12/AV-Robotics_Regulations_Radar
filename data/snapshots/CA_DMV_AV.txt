@@ -2,8 +2,6 @@ Title: Autonomous Vehicles - California DMV
 
 URL Source: https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/
 
-Published Time: Mon, 29 Jun 2026 12:24:22 GMT
-
 Markdown Content:
 Ask DMV
 
@@ -25,8 +23,8 @@ The content currently in English is the official and accurate source for the pro
 
 [Skip to content](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/#main)
 
-*   [![Image 1: California State Logo](https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/logo-ca-gov.svg) State of California](https://www.ca.gov/)
-*   [![Image 2: California State Department of Motor Vehicles Logo](https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/logo-ca-dmv-white.svg) State of California Department of Motor Vehicles](https://www.dmv.ca.gov/portal/)
+*   [![Image 2: California State Logo](https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/logo-ca-gov.svg) State of California](https://www.ca.gov/)
+*   [![Image 3: California State Department of Motor Vehicles Logo](https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/logo-ca-dmv-white.svg) State of California Department of Motor Vehicles](https://www.dmv.ca.gov/portal/)
 
 *   [REAL ID](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/)
 *   [Online Services](https://www.dmv.ca.gov/portal/dmv-online/)
@@ -245,33 +243,33 @@ Sub Menu Toggle[IBC Case Status](https://www.dmv.ca.gov/portal/dmv-virtual-offic
 
 # Autonomous Vehicles
 
-![Image 3:  ](https://www.dmv.ca.gov/portal/uploads/2022/12/car.svg)
-
-## Autonomous Vehicles Incident Form
-
-We value your feedback regarding your experience with autonomous vehicles operating on California public roads. Submit your feedback to the [AV Incident Form](https://www.dmv.ca.gov/portal/dmv-autonomous-vehicles-feedback-form/).
-
-Please do not include any sensitive personal information such as social security number, driver’s license number, or financial account number.
-
-[National Highway Traffic Safety Administration Automated Vehicle Complaint Form](https://www.nhtsa.gov/report-a-safety-problem#/automated-vehicle/automated-vehicle-information)
-
-To report safety complaints on autonomous vehicles to the National Highway Traffic Safety Administration please use the complaint form above. This form allows members of the public to submit safety complaints related to automated vehicles.To report a safety complaint by phone, **call NHTSA’s Vehicle Safety Hotline at 1-888-327-4236**.
-
-English- and Spanish-speaking staff members are available Monday through Friday from 8 a.m. to 8 p.m. ET(TTY 1-888-275-9171).
-
 ## I'm looking for…
+
+![Image 4: Car](https://www.dmv.ca.gov/portal/uploads/2022/12/car.svg)
+
+### Autonomous Vehicle Regulations
+
+Since autonomous vehicle (AV) technology first began raising regulatory considerations in 2013, the California DMV has worked to develop testing and deployment regulations.
+
+[Explore AV Regulations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/)
+
+### Reporting AV Incidents
+
+Learn how to report autonomous vehicle incidents and fulfill required reporting obligations. Find reporting requirements, submission instructions, and resources for permit holders to help ensure compliance with California DMV regulations.
+
+[Learn how to report an incident](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicles-incident-reporting/)
+
+### Testing Permit Holders
+
+The California DMV authorizes manufacturers to test and deploy autonomous vehicles under three permit categories: testing with a safety driver, driverless testing, and deployment. Each category has specific approved locations, operating conditions, and speed limits.
+
+[See current permit holders](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/)
 
 ### Permit Resources
 
 The program provides resources for autonomous vehicle (AV) permit holders, including regulations, application guides, and required reporting templates.
 
-[See permit resources](https://www.dmv.ca.gov/portal/autonomous-vehicles-program-permit-resources/)
-
-### Current Permit Holders
-
-The California DMV authorizes manufacturers to test and deploy autonomous vehicles under three permit categories: testing with a safety driver, driverless testing, and deployment. Each category has specific approved locations, operating conditions, and speed limits.
-
-[See current permit holders](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/)
+[View permit resources](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicles-program-permit-resources/)
 
 ### Collision Reports
 
@@ -279,37 +277,11 @@ Manufacturers testing autonomous vehicles need to report every collision involvi
 
 [View collision reports](https://tims.berkeley.edu/tools/avsafety.php)
 
-### Autonomous Vehicle Regulations
-
-Since autonomous vehicle technology first began raising regulatory considerations in 2013, the California DMV has worked to develop testing and deployment regulations and has conducted public hearings and workshops to support that process.
-
-[Explore the history of autonomous vehicle regulations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/)
-
-### Regulation Proposals
-
-Find previous regulation proposals, drafts of proposals, and forms for AV testing and deployment in California.
-
-[See regulation proposals](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/previous-regulation-proposals-and-drafts/)
-
-### Public Hearings and Workshops
-
-Public hearings and workshops about the testing and deployment of autonomous vehicles were recorded and made available for those who were unable to attend.
-
-[See public hearings and workshops](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/autonomous-vehicle-public-hearings-and-workshops/)
-
-### Autonomous Vehicle Milestones
-
-Learn more about the history of autonomous vehicles in California, including the development of driverless testing programs and deployment regulations.
-
-[Learn more about autonomous vehicles](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/autonomous-vehicle-milestones/)
-
 ### Law Enforcement Resources
 
 The program provides resources for Law Enforcement, including training materials and form ordering instructions.
 
 [See law enforcement resources](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/law-enforcement-resources/)
-
-![Image 4:  ](https://www.dmv.ca.gov/portal/uploads/2022/12/directional_1.svg)
 
 ## News Bulletins
 
@@ -355,20 +327,19 @@ See news bulletins relating to autonomous vehicles.
 
 *   [New Autonomous Vehicle Laws — AVIN 2018-01 (PDF)](https://www.dmv.ca.gov/portal/file/new-autonomous-vehicle-laws-avin-2018-01-pdf/)
 
-![Image 5:  ](https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/checklist.svg)
 ## Need something else?
 
-### Occupational Licensing
+### Public Hearings and Workshops
 
-Learn more about occupational licensing and find helpful resources.
+Public hearings and workshops about the testing and deployment of autonomous vehicles were recorded and made available for those who were unable to attend.
 
-[Explore occupational licensing](https://www.dmv.ca.gov/portal/vehicle-industry-services/occupational-licensing/)
+[View public hearings and workshops](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/autonomous-vehicle-public-hearings-and-workshops/)
 
-### Vehicle Industry Services
+### Autonomous Vehicle Milestones
 
-Learn more about vehicle industry services provided by DMV, including motor carrier services, autonomous vehicle regulations and testing, and the Business Partner Automation (BPA) program.
+Learn more about the history of autonomous vehicles in California, including the development of driverless testing programs and deployment regulations.
 
-[Learn more about vehicle industry services](https://www.dmv.ca.gov/portal/vehicle-industry-services/)
+[Explore milestones](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/autonomous-vehicle-milestones/)
 
 ### Questions?
 
@@ -411,7 +382,7 @@ The following pages provided on the DMV website cannot be translated using Googl
 *   Field Office Locations
 *   Online Applications
 
-Powered by [![Image 6: Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
+Powered by [![Image 5: Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
 
 * * *
 
@@ -424,7 +395,7 @@ Google Translate is not support in your browser. To translate this page, please 
 
 Close Form Filler
 
-![Image 7](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+![Image 6](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 
 Original text
 

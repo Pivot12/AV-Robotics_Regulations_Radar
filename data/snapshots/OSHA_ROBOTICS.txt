@@ -2,7 +2,7 @@ Title: Robotics - Overview | Occupational Safety and Health Administration
 
 URL Source: https://www.osha.gov/robotics
 
-Published Time: Mon, 29 Jun 2026 11:44:17 GMT
+Published Time: Tue, 30 Jun 2026 09:44:38 GMT
 
 Markdown Content:
 [Skip to main content](https://www.osha.gov/robotics#main-content "Click here to skip to main content")
@@ -135,7 +135,7 @@ Search
         *   [Replace a Card](https://www.osha.gov/training#replacementcard "Training - How to get a replacement card")
         *   [Avoid Card Fraud](https://www.osha.gov/training/oshacardfacts "The Facts About Obtaining an OSHA Card")
         *   [OSHA Training Institute Education Centers](https://www.osha.gov/otiec "OSHA Training Institute Education Centers")
-        *   [Find a Center](https://www.osha.gov/otiec/map "OTI Education Center Locations")
+        *   [Find a Center](https://www.osha.gov/otiec/map-old "OTI Education Center Locations")
         *   [Search for Classes](https://www.osha.gov/otiec/courses/schedule "OTIEC Searchable Course Schedule")
         *   [Susan Harwood Training Grants](https://www.osha.gov/harwoodgrants "Susan Harwood Training Grant Program")
 
