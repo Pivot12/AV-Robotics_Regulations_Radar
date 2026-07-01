@@ -5,17 +5,17 @@ URL Source: https://www.automate.org/robotics/standards
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window](https://accessibe.com/blog/knowledgebase/screen-reader-guide)
-
 ![Image 1: header-logo](https://global.ketchcdn.com/web/v2/assetsv1/orgs/amplify_industrial_marketing___guidance/1760638678756/test/logomark-a3.png)
 
 ### Your Privacy Choices
 
 We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners.To learn more about our privacy practices, review our [Privacy Policy](https://www.automate.org/a3/privacy-policy).
 
-Customize I understand
+I understand
 
 [](https://www.ketch.com/?utm_campaign=customer%20banner&utm_source=ketchcookiebanner&utm_medium=banner&org=amplify_industrial_marketing___guidance)
+
+Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window](https://accessibe.com/blog/knowledgebase/screen-reader-guide)
 
 [![Image 2: A3](https://www.automate.org/images/logo-a3-tagline.svg)](https://www.automate.org/)
 
@@ -372,14 +372,12 @@ T: [(734) 994-6088](tel:1-734-994-6088) - F: (734) 994-3338
 
 [Website Design & Development by Amplify Industrial Marketing + Guidance.](https://www.aimg.com/)
 
-![Image 16](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=7f6acfaa-64b3-411b-8bd7-5adc890a7083&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=a06e95bc-4993-43a2-a243-22db456334dd&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1782816579425.88852442772012461&txn_id=obsvx&type=javascript&version=2.3.53)
+![Image 16](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=33cd0092-65ff-44a7-8bda-a5d917f9d03d&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=1498b7a5-3773-4e03-ab06-fab070fda531&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1782904677507.861563579594157305&txn_id=obsvx&type=javascript&version=2.3.53)![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=33cd0092-65ff-44a7-8bda-a5d917f9d03d&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=1498b7a5-3773-4e03-ab06-fab070fda531&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1782904677507.861563579594157305&txn_id=obsvx&type=javascript&version=2.3.53)
 
-![Image 17](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+![Image 18](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 
 Original text
 
 Rate this translation
 
 Your feedback will be used to help improve Google Translate
-
-![Image 18](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=7f6acfaa-64b3-411b-8bd7-5adc890a7083&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=a06e95bc-4993-43a2-a243-22db456334dd&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1782816579425.88852442772012461&txn_id=obsvx&type=javascript&version=2.3.53)

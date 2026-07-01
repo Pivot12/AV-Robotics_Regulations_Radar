@@ -2,7 +2,7 @@ Title: Safety and functional safety
 
 URL Source: https://www.iec.ch/functionalsafety
 
-Published Time: Tue, 30 Jun 2026 10:49:56 GMT
+Published Time: Wed, 01 Jul 2026 11:18:15 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iec.ch/functionalsafety#main-content)[Technical Committee 150](https://www.iec.ch/tc150)
@@ -185,7 +185,7 @@ My IEC
     *   [Academy & Capacity Building](https://www.iec.ch/academy)
     *   [Affiliate Country Programme](https://www.iec.ch/acp)
     *   [Young Professionals](https://www.iec.ch/young-professionals)
-    *   [IEC Global Impact Fund](https://www.iec.ch/global-impact-fund)
+    *   [IEC Impact Alliance](https://www.iec.ch/impact-alliance)
     *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
     *   [Global partnerships](https://www.iec.ch/global-partnerships)
     *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
@@ -195,7 +195,7 @@ My IEC
     *   [Academy & Capacity Building](https://www.iec.ch/academy)
     *   [Affiliate Country Programme](https://www.iec.ch/acp)
     *   [Young Professionals](https://www.iec.ch/young-professionals)
-    *   [IEC Global Impact Fund](https://www.iec.ch/global-impact-fund)
+    *   [IEC Impact Alliance](https://www.iec.ch/impact-alliance)
     *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
     *   [Global partnerships](https://www.iec.ch/global-partnerships)
     *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
@@ -332,7 +332,7 @@ Toggle navigation
     *   [Academy & Capacity Building](https://www.iec.ch/academy)
     *   [Affiliate Country Programme](https://www.iec.ch/acp)
     *   [Young Professionals](https://www.iec.ch/young-professionals)
-    *   [IEC Global Impact Fund](https://www.iec.ch/global-impact-fund)
+    *   [IEC Impact Alliance](https://www.iec.ch/impact-alliance)
     *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
     *   [Global partnerships](https://www.iec.ch/global-partnerships)
     *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
@@ -342,7 +342,7 @@ Toggle navigation
     *   [Academy & Capacity Building](https://www.iec.ch/academy)
     *   [Affiliate Country Programme](https://www.iec.ch/acp)
     *   [Young Professionals](https://www.iec.ch/young-professionals)
-    *   [IEC Global Impact Fund](https://www.iec.ch/global-impact-fund)
+    *   [IEC Impact Alliance](https://www.iec.ch/impact-alliance)
     *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
     *   [Global partnerships](https://www.iec.ch/global-partnerships)
     *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
