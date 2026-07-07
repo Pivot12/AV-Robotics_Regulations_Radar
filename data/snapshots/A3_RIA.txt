@@ -11,7 +11,7 @@ Markdown Content:
 
 We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners.To learn more about our privacy practices, review our [Privacy Policy](https://www.automate.org/a3/privacy-policy).
 
-I understand
+Customize I understand
 
 [](https://www.ketch.com/?utm_campaign=customer%20banner&utm_source=ketchcookiebanner&utm_medium=banner&org=amplify_industrial_marketing___guidance)
 
@@ -354,8 +354,6 @@ Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader 
 
 ![Image 10](https://www.google.com/images/cleardot.gif)[Select Language![Image 11](https://www.google.com/images/cleardot.gif)​![Image 12](https://www.google.com/images/cleardot.gif)▼](https://www.automate.org/#)
 
-[![Image 13](https://seal.networksolutions.com/images/netsolsiteseal.png)](https://www.automate.org/#)
-
 Copyright © 2026 Association for Advancing Automation
 
 900 Victors Way, Suite 140, Ann Arbor, Michigan, USA 48108
@@ -366,18 +364,20 @@ T: [(734) 994-6088](tel:1-734-994-6088) - F: (734) 994-3338
 
 [Privacy Policy](https://www.automate.org/a3/privacy-policy)
 
-[![Image 14: Privacy Settings](https://www.automate.org/images/privacyoptions.png?v1) Privacy Settings](javascript:do.Nothing())
+[![Image 13: Privacy Settings](https://www.automate.org/images/privacyoptions.png?v1) Privacy Settings](javascript:do.Nothing())
 
 [Site Map](https://www.automate.org/site-map)
 
 [Website Design & Development by Amplify Industrial Marketing + Guidance.](https://www.aimg.com/)
 
-![Image 16](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=4616c67d-e44c-4dd1-9148-25f87ca785e9&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=313b47a8-bd36-4a70-9f3b-b7cb44410304&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1783339042031.738945281297814835&txn_id=obsvx&type=javascript&version=2.3.53)![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=4616c67d-e44c-4dd1-9148-25f87ca785e9&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=313b47a8-bd36-4a70-9f3b-b7cb44410304&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1783339042031.738945281297814835&txn_id=obsvx&type=javascript&version=2.3.53)
+![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=8866d7b0-9872-45e0-a014-6489e1b89539&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=22d2dfb1-44e1-45b4-86d1-3a2bcd1da22d&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1783421251675.215475384361739225&txn_id=obsvx&type=javascript&version=2.3.53)
 
-![Image 18](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+![Image 16](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 
 Original text
 
 Rate this translation
 
 Your feedback will be used to help improve Google Translate
+
+![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=8866d7b0-9872-45e0-a014-6489e1b89539&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=22d2dfb1-44e1-45b4-86d1-3a2bcd1da22d&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1783421251675.215475384361739225&txn_id=obsvx&type=javascript&version=2.3.53)
