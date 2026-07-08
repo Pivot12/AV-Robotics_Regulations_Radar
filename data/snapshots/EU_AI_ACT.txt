@@ -2,9 +2,21 @@ Title: AI Act
 
 URL Source: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 
-Published Time: Tue, 07 Jul 2026 10:02:29 GMT
+Published Time: Wed, 08 Jul 2026 09:07:44 GMT
 
 Markdown Content:
+The [AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689) (Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence) is the first-ever comprehensive legal framework on AI worldwide. The aim of the rules is to foster trustworthy AI in Europe. For any **questions on the AI Act**, check out the [**AI Act Single Information platform**](https://ai-act-service-desk.ec.europa.eu/en).
+
+The AI Act sets out a risk-based rules for AI developers and deployers regarding specific uses of AI. The AI Act is part of a wider package of policy measures to support the development of trustworthy AI, which also includes the [AI Continent Action Plan](https://digital-strategy.ec.europa.eu/en/factpages/ai-continent-action-plan), the [AI Innovation Package](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_383) and the launch of [AI Factories](https://digital-strategy.ec.europa.eu/en/policies/ai-factories). Together, these measures guarantee safety, fundamental rights and human-centric AI, and strengthen uptake, investment and innovation in AI across the EU.
+
+To facilitate the transition to the new regulatory framework, the Commission has launched the [AI Pact](https://digital-strategy.ec.europa.eu/en/policies/ai-pact), a voluntary initiative that seeks to support the future implementation, engage with stakeholders and invite AI providers and deployers from Europe and beyond to comply with the key obligations of the AI Act ahead of time. In parallel, the [AI Act Service Desk](https://ai-act-service-desk.ec.europa.eu/en) is also providing information and support for a smooth and effective implementation of the AI Act across the EU.
+
+The AI Act ensures that Europeans can trust what AI has to offer. While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes.
+
+For example, it is often not possible to find out why an AI system has made a decision or prediction and taken a particular action. So, it may become difficult to assess whether someone has been unfairly disadvantaged, such as in a hiring decision or in an application for a public benefit scheme.
+
+Although existing legislation provides some protection, it is insufficient to address the specific challenges AI systems may bring.
+
 ## A Risk-based Approach
 
 The AI Act defines 4 levels of risk for AI systems:
@@ -95,6 +107,10 @@ These support instruments are under preparation and will be published in the sec
 ## Governance and implementation
 
 The [European AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) and authorities of the Member States are responsible for implementing, supervising and enforcing the AI Act. The AI Board, the Scientific Panel and the Advisory Forum steer and advise the AI Act’s governance. Find out more details about the [Governance and enforcement of the AI Act](https://digital-strategy.ec.europa.eu/en/policies/ai-act-governance-and-enforcement).
+
+The July 2026 [action plan on Cybersecurity and AI](https://digital-strategy.ec.europa.eu/en/library/eu-action-plan-cybersecurity-and-artificial-intelligence) sets out a coordinated approach to help Member States, businesses and public authorities address cybersecurity and resilience challenges posed by the most advanced AI models. The Commission will launch a call to increase EU evaluation capacity of AI models, before they are placed in the EU market. Expected to be operational by 2027, this will strengthen third-party assessment of AI capabilities and risks and contribute to the regulatory function of the AI Office.
+
+The Commission and the [European Union Agency for Cybersecurity (ENISA)](https://www.enisa.europa.eu/) will also create a blueprint to secure access to advanced AI systems for cybersecurity purposes and establish a secure testing platform to help organisations in critical sectors - such as energy, transport, health, finance and public administration - safely test and deploy AI solutions.
 
 ## Application timeline
 
