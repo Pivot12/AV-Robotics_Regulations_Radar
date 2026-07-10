@@ -2,7 +2,7 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Thu, 09 Jul 2026 10:47:17 GMT
+Published Time: Fri, 10 Jul 2026 10:19:52 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/46706.html#content)
@@ -83,9 +83,9 @@ This committee contributes with 28 standards to the following [Sustainable Devel
 [1062](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/1/u/0/w/0/d/0)
 Published ISO standards*
 
-of which [27](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/1/u/0/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
+of which [26](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/1/u/0/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
 
-[226](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0)
+[225](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0)
 ISO standards under development*
 
 of which [2](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
@@ -203,7 +203,6 @@ ISO/TC 22 can access the documents of the committees below:
 
 | Date | Month | Location | TC/SC | Note |
 | --- | --- | --- | --- | --- |
-| 9 | July 2026 | Virtual () | [ISO/TC 22/SC 35](https://www.iso.org/contents/data/committee/53/83/5383897.html#meetings) |  |
 | 9 | October 2026 | Berlin (Germany) | [ISO/TC 22/SC 34](https://www.iso.org/contents/data/committee/53/83/5383858.html#meetings) |  |
 | 13-14 | October 2026 | Dong Li Qu (China) | [ISO/TC 22/SC 31](https://www.iso.org/contents/data/committee/53/83/5383568.html#meetings) |  |
 | 16 | October 2026 | Shinjuku City (Japan) | [ISO/TC 22/SC 38](https://www.iso.org/contents/data/committee/53/84/5384008.html#meetings) |  |
