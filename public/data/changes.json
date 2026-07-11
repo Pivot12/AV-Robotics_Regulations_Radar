@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRun": "2026-07-10T10:50:58.624Z",
+    "lastRun": "2026-07-11T09:26:04.291Z",
     "sourcesMonitored": 14
   },
   "sources": [
@@ -10,7 +10,7 @@
       "authority": "UNECE WP.29 GRVA",
       "region": "Autonomous Vehicles",
       "url": "https://unece.org/transport/vehicle-regulations-wp29/working-parties/grva",
-      "lastChecked": "2026-07-10T10:50:35.497Z",
+      "lastChecked": "2026-07-11T09:25:42.465Z",
       "status": "unchanged",
       "chars": 487,
       "delta": 0
@@ -21,7 +21,7 @@
       "authority": "NHTSA",
       "region": "Autonomous Vehicles",
       "url": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
-      "lastChecked": "2026-07-10T10:50:40.069Z",
+      "lastChecked": "2026-07-11T09:25:45.929Z",
       "status": "changed",
       "chars": 10928,
       "delta": 0
@@ -32,8 +32,8 @@
       "authority": "NHTSA",
       "region": "Autonomous Vehicles",
       "url": "https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting",
-      "lastChecked": "2026-07-10T10:50:41.552Z",
-      "status": "changed",
+      "lastChecked": "2026-07-11T09:25:47.357Z",
+      "status": "unchanged",
       "chars": 18915,
       "delta": 0
     },
@@ -43,10 +43,10 @@
       "authority": "California DMV",
       "region": "Autonomous Vehicles",
       "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/",
-      "lastChecked": "2026-07-10T10:50:42.969Z",
-      "status": "unchanged",
-      "chars": 20046,
-      "delta": 0
+      "lastChecked": "2026-07-11T09:25:48.989Z",
+      "status": "changed",
+      "chars": 19748,
+      "delta": -298
     },
     {
       "key": "CA_CPUC_AV",
@@ -54,7 +54,7 @@
       "authority": "California CPUC",
       "region": "Autonomous Vehicles",
       "url": "https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs",
-      "lastChecked": "2026-07-10T10:50:44.403Z",
+      "lastChecked": "2026-07-11T09:25:50.435Z",
       "status": "unchanged",
       "chars": 8414,
       "delta": 0
@@ -65,10 +65,10 @@
       "authority": "ISO/TC 299",
       "region": "Robotics & Machinery Safety",
       "url": "https://www.iso.org/committee/5915511.html",
-      "lastChecked": "2026-07-10T10:50:46.283Z",
+      "lastChecked": "2026-07-11T09:25:51.887Z",
       "status": "changed",
-      "chars": 29449,
-      "delta": 129
+      "chars": 29320,
+      "delta": -129
     },
     {
       "key": "A3_RIA",
@@ -76,10 +76,10 @@
       "authority": "A3 / RIA",
       "region": "Robotics & Machinery Safety",
       "url": "https://www.automate.org/robotics/standards",
-      "lastChecked": "2026-07-10T10:50:48.044Z",
+      "lastChecked": "2026-07-11T09:25:53.380Z",
       "status": "changed",
-      "chars": 26043,
-      "delta": -823
+      "chars": 26041,
+      "delta": -2
     },
     {
       "key": "OSHA_ROBOTICS",
@@ -87,7 +87,7 @@
       "authority": "OSHA",
       "region": "Robotics & Machinery Safety",
       "url": "https://www.osha.gov/robotics",
-      "lastChecked": "2026-07-10T10:50:49.547Z",
+      "lastChecked": "2026-07-11T09:25:54.869Z",
       "status": "changed",
       "chars": 17560,
       "delta": 0
@@ -98,7 +98,7 @@
       "authority": "European Commission",
       "region": "Robotics & Machinery Safety",
       "url": "https://single-market-economy.ec.europa.eu/sectors/mechanical-engineering/machinery_en",
-      "lastChecked": "2026-07-10T10:50:51.014Z",
+      "lastChecked": "2026-07-11T09:25:56.452Z",
       "status": "unchanged",
       "chars": 9357,
       "delta": 0
@@ -109,10 +109,10 @@
       "authority": "ISO/TC 22",
       "region": "Functional Safety",
       "url": "https://www.iso.org/committee/46706.html",
-      "lastChecked": "2026-07-10T10:50:52.684Z",
+      "lastChecked": "2026-07-11T09:25:58.034Z",
       "status": "changed",
-      "chars": 28147,
-      "delta": -127
+      "chars": 28086,
+      "delta": -61
     },
     {
       "key": "IEC_61508",
@@ -120,7 +120,7 @@
       "authority": "IEC",
       "region": "Functional Safety",
       "url": "https://www.iec.ch/functionalsafety",
-      "lastChecked": "2026-07-10T10:50:54.106Z",
+      "lastChecked": "2026-07-11T09:25:59.487Z",
       "status": "changed",
       "chars": 28159,
       "delta": 0
@@ -131,10 +131,10 @@
       "authority": "European Commission",
       "region": "AI Governance",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "lastChecked": "2026-07-10T10:50:55.522Z",
+      "lastChecked": "2026-07-11T09:26:00.905Z",
       "status": "changed",
       "chars": 13436,
-      "delta": -18293
+      "delta": 0
     },
     {
       "key": "NIST_AI_RMF",
@@ -142,10 +142,10 @@
       "authority": "NIST",
       "region": "AI Governance",
       "url": "https://www.nist.gov/itl/ai-risk-management-framework",
-      "lastChecked": "2026-07-10T10:50:57.063Z",
-      "status": "unchanged",
-      "chars": 6859,
-      "delta": 0
+      "lastChecked": "2026-07-11T09:26:02.353Z",
+      "status": "changed",
+      "chars": 6163,
+      "delta": -696
     },
     {
       "key": "FAA_UAS",
@@ -153,13 +153,83 @@
       "authority": "FAA",
       "region": "Drones / UAS",
       "url": "https://www.faa.gov/uas",
-      "lastChecked": "2026-07-10T10:50:58.391Z",
+      "lastChecked": "2026-07-11T09:26:03.799Z",
       "status": "changed",
       "chars": 19519,
       "delta": 0
     }
   ],
   "changes": [
+    {
+      "date": "2026-07-11T09:25:45.929Z",
+      "region": "Autonomous Vehicles",
+      "authority": "NHTSA",
+      "url": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+      "note": "Change detected (Δ +0 chars)"
+    },
+    {
+      "date": "2026-07-11T09:25:48.989Z",
+      "region": "Autonomous Vehicles",
+      "authority": "California DMV",
+      "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/",
+      "note": "Change detected (Δ -298 chars)"
+    },
+    {
+      "date": "2026-07-11T09:25:51.887Z",
+      "region": "Robotics & Machinery Safety",
+      "authority": "ISO/TC 299",
+      "url": "https://www.iso.org/committee/5915511.html",
+      "note": "Change detected (Δ -129 chars)"
+    },
+    {
+      "date": "2026-07-11T09:25:53.380Z",
+      "region": "Robotics & Machinery Safety",
+      "authority": "A3 / RIA",
+      "url": "https://www.automate.org/robotics/standards",
+      "note": "Change detected (Δ -2 chars)"
+    },
+    {
+      "date": "2026-07-11T09:25:54.869Z",
+      "region": "Robotics & Machinery Safety",
+      "authority": "OSHA",
+      "url": "https://www.osha.gov/robotics",
+      "note": "Change detected (Δ +0 chars)"
+    },
+    {
+      "date": "2026-07-11T09:25:58.034Z",
+      "region": "Functional Safety",
+      "authority": "ISO/TC 22",
+      "url": "https://www.iso.org/committee/46706.html",
+      "note": "Change detected (Δ -61 chars)"
+    },
+    {
+      "date": "2026-07-11T09:25:59.487Z",
+      "region": "Functional Safety",
+      "authority": "IEC",
+      "url": "https://www.iec.ch/functionalsafety",
+      "note": "Change detected (Δ +0 chars)"
+    },
+    {
+      "date": "2026-07-11T09:26:00.905Z",
+      "region": "AI Governance",
+      "authority": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "note": "Change detected (Δ +0 chars)"
+    },
+    {
+      "date": "2026-07-11T09:26:02.353Z",
+      "region": "AI Governance",
+      "authority": "NIST",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "note": "Change detected (Δ -696 chars)"
+    },
+    {
+      "date": "2026-07-11T09:26:03.799Z",
+      "region": "Drones / UAS",
+      "authority": "FAA",
+      "url": "https://www.faa.gov/uas",
+      "note": "Change detected (Δ +0 chars)"
+    },
     {
       "date": "2026-07-10T10:50:40.069Z",
       "region": "Autonomous Vehicles",
@@ -789,76 +859,6 @@
       "authority": "FAA",
       "url": "https://www.faa.gov/uas",
       "note": "Change detected (Δ +0 chars)"
-    },
-    {
-      "date": "2026-06-30T10:55:09.913Z",
-      "region": "Autonomous Vehicles",
-      "authority": "NHTSA",
-      "url": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
-      "note": "Change detected (Δ +0 chars)"
-    },
-    {
-      "date": "2026-06-30T10:55:11.348Z",
-      "region": "Autonomous Vehicles",
-      "authority": "NHTSA",
-      "url": "https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting",
-      "note": "Change detected (Δ +0 chars)"
-    },
-    {
-      "date": "2026-06-30T10:55:12.803Z",
-      "region": "Autonomous Vehicles",
-      "authority": "California DMV",
-      "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/",
-      "note": "Change detected (Δ -1802 chars)"
-    },
-    {
-      "date": "2026-06-30T10:55:15.770Z",
-      "region": "Robotics & Machinery Safety",
-      "authority": "ISO/TC 299",
-      "url": "https://www.iso.org/committee/5915511.html",
-      "note": "Change detected (Δ +61 chars)"
-    },
-    {
-      "date": "2026-06-30T10:55:17.243Z",
-      "region": "Robotics & Machinery Safety",
-      "authority": "A3 / RIA",
-      "url": "https://www.automate.org/robotics/standards",
-      "note": "Change detected (Δ -110 chars)"
-    },
-    {
-      "date": "2026-06-30T10:55:18.777Z",
-      "region": "Robotics & Machinery Safety",
-      "authority": "OSHA",
-      "url": "https://www.osha.gov/robotics",
-      "note": "Change detected (Δ +4 chars)"
-    },
-    {
-      "date": "2026-06-30T10:55:22.008Z",
-      "region": "Functional Safety",
-      "authority": "ISO/TC 22",
-      "url": "https://www.iso.org/committee/46706.html",
-      "note": "Change detected (Δ +4 chars)"
-    },
-    {
-      "date": "2026-06-30T10:55:23.694Z",
-      "region": "Functional Safety",
-      "authority": "IEC",
-      "url": "https://www.iec.ch/functionalsafety",
-      "note": "Change detected (Δ +0 chars)"
-    },
-    {
-      "date": "2026-06-30T10:55:25.225Z",
-      "region": "AI Governance",
-      "authority": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "note": "Change detected (Δ +47 chars)"
-    },
-    {
-      "date": "2026-06-30T10:55:26.838Z",
-      "region": "AI Governance",
-      "authority": "NIST",
-      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
-      "note": "Change detected (Δ -696 chars)"
     }
   ]
 }

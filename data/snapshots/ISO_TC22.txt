@@ -2,7 +2,7 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Fri, 10 Jul 2026 10:19:52 GMT
+Published Time: Sat, 11 Jul 2026 09:19:08 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/46706.html#content)
@@ -76,7 +76,7 @@ Browse documents made available by this group
 
 ![Image 2: Sustainable Development Goals](https://www.iso.org/files/live/sites/isoorg/files/data/sdg/en/sdg-logo.png)
 
-This committee contributes with 28 standards to the following [Sustainable Development Goals](https://www.iso.org/sdg):
+This committee contributes with 27 standards to the following [Sustainable Development Goals](https://www.iso.org/sdg):
 
 [3 Good Health and Well-being](https://www.iso.org/sdg/SDG03.html "Good Health and Well-being")[4 Quality Education](https://www.iso.org/sdg/SDG04.html "Quality Education")[9 Industry, Innovation and Infrastructure](https://www.iso.org/sdg/SDG09.html "Industry, Innovation and Infrastructure")[11 Sustainable Cities and Communities](https://www.iso.org/sdg/SDG11.html "Sustainable Cities and Communities")[12 Responsible Consumption and Production](https://www.iso.org/sdg/SDG12.html "Responsible Consumption and Production")[13 Climate Action](https://www.iso.org/sdg/SDG13.html "Climate Action")
 
@@ -85,7 +85,7 @@ Published ISO standards*
 
 of which [26](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/1/u/0/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
 
-[225](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0)
+[224](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0)
 ISO standards under development*
 
 of which [2](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
@@ -235,9 +235,9 @@ Email: [Standardization@afnor.org](mailto:Standardization@afnor.org "email")
 Web: [http://www.afnor.org](http://www.afnor.org/ "email")
 
 1.   [](https://www.iso.org/home.html "Home page")
-2.   [Taking part](https://www.iso.org/developing-standards.html)
-3.   [Who develops standards](https://www.iso.org/who-develops-standards.html)
-4.   [Technical Committees](https://www.iso.org/technical-committees.html)
+2.   [Store](https://www.iso.org/store.html)
+3.   [Store](https://www.iso.org/store.html)
+4.   [TC](https://www.iso.org/standards-catalogue/browse-by-tc.html)
 5.   ISO/TC 22
 
 [Sitemap](https://www.iso.org/committee/46706.html#collapseSitemap)
