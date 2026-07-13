@@ -2,7 +2,7 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Sun, 12 Jul 2026 08:44:19 GMT
+Published Time: Mon, 13 Jul 2026 07:28:43 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/46706.html#content)
@@ -10,9 +10,9 @@ Markdown Content:
 *   [Applications](https://login.iso.org/ "ISO's applications portal")
 *   [OBP](https://www.iso.org/obp/ui/en/ "Online Browsing Platform")
 *   [English](https://www.iso.org/committee/46706.html#)
-    *   [español](https://www.iso.org/es/contents/data/committee/04/67/46706.html)
-    *   [français](https://www.iso.org/fr/committee/46706.html)
-    *   [русский](https://www.iso.org/ru/committee/46706.html)
+    *   [español](https://www.iso.org/cms/live/live/es/sites/isoorg/contents/data/committee/04/67/46706.html)
+    *   [français](https://www.iso.org/cms/live/live/fr/sites/isoorg/contents/data/committee/04/67/46706.html)
+    *   [русский](https://www.iso.org/cms/live/live/ru/sites/isoorg/contents/data/committee/04/67/46706.html)
 
 [](https://www.iso.org/home.html "International Organization for Standardization")
 
@@ -235,9 +235,9 @@ Email: [Standardization@afnor.org](mailto:Standardization@afnor.org "email")
 Web: [http://www.afnor.org](http://www.afnor.org/ "email")
 
 1.   [](https://www.iso.org/home.html "Home page")
-2.   [Taking part](https://www.iso.org/developing-standards.html)
-3.   [Who develops standards](https://www.iso.org/who-develops-standards.html)
-4.   [Technical Committees](https://www.iso.org/technical-committees.html)
+2.   [Store](https://www.iso.org/store.html)
+3.   [Store](https://www.iso.org/store.html)
+4.   [TC](https://www.iso.org/standards-catalogue/browse-by-tc.html)
 5.   ISO/TC 22
 
 [Sitemap](https://www.iso.org/committee/46706.html#collapseSitemap)
