@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Mon, 13 Jul 2026 08:54:56 GMT
+Published Time: Tue, 14 Jul 2026 08:44:42 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
@@ -10,11 +10,11 @@ Markdown Content:
 *   [Applications](https://login.iso.org/ "ISO's applications portal")
 *   [OBP](https://www.iso.org/obp/ui/en/ "Online Browsing Platform")
 *   [English](https://www.iso.org/committee/5915511.html#)
-    *   [español](https://www.iso.org/cms/live/live/es/sites/isoorg/contents/data/committee/59/15/5915511.html)
-    *   [français](https://www.iso.org/cms/live/live/fr/sites/isoorg/contents/data/committee/59/15/5915511.html)
-    *   [русский](https://www.iso.org/cms/live/live/ru/sites/isoorg/contents/data/committee/59/15/5915511.html)
+    *   [español](https://www.iso.org/es/contents/data/committee/59/15/5915511.html)
+    *   [français](https://www.iso.org/fr/committee/5915511.html)
+    *   [русский](https://www.iso.org/ru/committee/5915511.html)
 
-[](https://www.iso.org/cms/live/live/en/sites/isoorg/home.html "International Organization for Standardization")
+[](https://www.iso.org/home.html "International Organization for Standardization")
 
 ![Image 1: ISO logo for print](https://www.iso.org/modules/isoorg-template/img/iso/iso-logo-print.gif)
 
@@ -38,7 +38,7 @@ Robotics
 
 ## About
 
-*   Secretariat: [SIS](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/member/00/21/2101.html "Swedish Institute for Standards (Sweden)")(Sweden) Committee Manager: [Ms Katarina Widström](mailto:katarina.widstrom@sis.se)  
+*   Secretariat: [SIS](https://www.iso.org/member/2101.html "Swedish Institute for Standards (Sweden)")(Sweden) Committee Manager: [Ms Katarina Widström](mailto:katarina.widstrom@sis.se)  
 *   Chairperson(until end 2027): Mr Tomas Lagerberg  
 *   ISO Technical Programme Manager [TPM]:  [Mme Mercè Ferrés Hernández](mailto:ferres@iso.org)  ISO Editorial Manager [EM]:  [Ms Lucy Kirk](mailto:kirk@iso.org)  
 *    Creation date: 2015
@@ -49,12 +49,9 @@ Standardization in the field of robotics, excluding toys and military applicatio
 
 ### Quick links
 
-*   ##### [Work programme](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0 "ISO/TC 299 Work programme")
+*   ##### [Work programme](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0 "ISO/TC 299 Work programme")
 
 Drafts and new work items  
-*   ##### [Business plans](https://www.iso.org/bp "Business plan")
-
-TC Business plans for public review  
 *   ##### [Working area](https://sd.iso.org/documents/ui/#!/browse/iso/iso-tc-299/ "Working area")
 
 Working documents (user account required)  
@@ -65,14 +62,14 @@ IT Tools that help support the standards development process
 
 ![Image 2: Sustainable Development Goals](https://www.iso.org/files/live/sites/isoorg/files/data/sdg/en/sdg-logo.png)
 
-This committee contributes with 58 standards to the following [Sustainable Development Goals](https://www.iso.org/cms/live/live/en/sites/isoorg/home/standards/sdg.html):
+This committee contributes with 58 standards to the following [Sustainable Development Goals](https://www.iso.org/sdg):
 
-[3 Good Health and Well-being](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/sdg/SDG03.html "Good Health and Well-being")[7 Affordable and Clean Energy](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/sdg/SDG07.html "Affordable and Clean Energy")[8 Decent Work and Economic Growth](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/sdg/SDG08.html "Decent Work and Economic Growth")[9 Industry, Innovation and Infrastructure](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/sdg/SDG09.html "Industry, Innovation and Infrastructure")[11 Sustainable Cities and Communities](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/sdg/SDG11.html "Sustainable Cities and Communities")[12 Responsible Consumption and Production](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/sdg/SDG12.html "Responsible Consumption and Production")[13 Climate Action](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/sdg/SDG13.html "Climate Action")
+[3 Good Health and Well-being](https://www.iso.org/sdg/SDG03.html "Good Health and Well-being")[7 Affordable and Clean Energy](https://www.iso.org/sdg/SDG07.html "Affordable and Clean Energy")[8 Decent Work and Economic Growth](https://www.iso.org/sdg/SDG08.html "Decent Work and Economic Growth")[9 Industry, Innovation and Infrastructure](https://www.iso.org/sdg/SDG09.html "Industry, Innovation and Infrastructure")[11 Sustainable Cities and Communities](https://www.iso.org/sdg/SDG11.html "Sustainable Cities and Communities")[12 Responsible Consumption and Production](https://www.iso.org/sdg/SDG12.html "Responsible Consumption and Production")[13 Climate Action](https://www.iso.org/sdg/SDG13.html "Climate Action")
 
-[34](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/59/15/5915511/x/catalogue/p/1/u/0/w/0/d/0)
+[34](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/1/u/0/w/0/d/0)
 Published ISO standards*
 
-[23](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0)
+[23](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0)
 ISO standards under development*
 
 [33](https://www.iso.org/committee/5915511.html?view=participation)
@@ -122,23 +119,23 @@ The committees below can access the documents of ISO/TC 299:
 | IEC/TC 61 | Safety of household and similar electrical appliances | IEC |
 | IEC/TC 116 | Safety of motor-operated electric tools | IEC |
 | IEC/TC 129 | Robotics for electricity generation, transmission and distribution systems | IEC |
-| [ISO/IEC JTC 1/SC 35](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/04/53/45382.html) | User interfaces | ISO/IEC |
-| [ISO/IEC JTC 1/SC 41](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/64/83/6483279.html) | Internet of things and digital twin | ISO/IEC |
-| [ISO/IEC JTC 1/SC 42](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/67/94/6794475.html) | Artificial intelligence | ISO/IEC |
-| [ISO/TC 8/SC 26](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/10/28/10281240.html) | Smart shipping | ISO |
-| [ISO/TC 20](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/04/64/46484.html) | Aircraft and space vehicles | ISO |
-| [ISO/TC 82/SC 8](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/69/10/6910144.html) | Automated and autonomous mining systems | ISO |
-| [ISO/TC 110/SC 2](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/16/51600.html) | Safety of powered industrial trucks | ISO |
-| [ISO/TC 159](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/33/53348.html) | Ergonomics | ISO |
-| [ISO/TC 159/SC 4](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/33/53372.html) | Ergonomics of human-system interaction | ISO |
-| [ISO/TC 173](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/37/53782.html) | Assistive products | ISO |
-| [ISO/TC 178](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/39/53970.html) | Lifts, escalators and moving walks | ISO |
-| [ISO/TC 184](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/41/54110.html) | Automation systems and integration | ISO |
-| [ISO/TC 184/SC 1](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/41/54124.html) | Industrial cyber and physical device control | ISO |
-| [ISO/TC 184/SC 5](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/41/54192.html) | Interoperability, integration, and architectures for enterprise systems and automation applications | ISO |
-| [ISO/TC 199](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/46/54604.html) | Safety of machinery | ISO |
-| [ISO/TC 204](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/47/54706.html) | Intelligent transport systems | ISO |
-| [ISO/TC 209](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/48/54874.html) | Cleanrooms and associated controlled environments | ISO |
+| [ISO/IEC JTC 1/SC 35](https://www.iso.org/committee/45382.html) | User interfaces | ISO/IEC |
+| [ISO/IEC JTC 1/SC 41](https://www.iso.org/committee/6483279.html) | Internet of things and digital twin | ISO/IEC |
+| [ISO/IEC JTC 1/SC 42](https://www.iso.org/committee/6794475.html) | Artificial intelligence | ISO/IEC |
+| [ISO/TC 8/SC 26](https://www.iso.org/committee/10281240.html) | Smart shipping | ISO |
+| [ISO/TC 20](https://www.iso.org/committee/46484.html) | Aircraft and space vehicles | ISO |
+| [ISO/TC 82/SC 8](https://www.iso.org/committee/6910144.html) | Automated and autonomous mining systems | ISO |
+| [ISO/TC 110/SC 2](https://www.iso.org/committee/51600.html) | Safety of powered industrial trucks | ISO |
+| [ISO/TC 159](https://www.iso.org/committee/53348.html) | Ergonomics | ISO |
+| [ISO/TC 159/SC 4](https://www.iso.org/committee/53372.html) | Ergonomics of human-system interaction | ISO |
+| [ISO/TC 173](https://www.iso.org/committee/53782.html) | Assistive products | ISO |
+| [ISO/TC 178](https://www.iso.org/committee/53970.html) | Lifts, escalators and moving walks | ISO |
+| [ISO/TC 184](https://www.iso.org/committee/54110.html) | Automation systems and integration | ISO |
+| [ISO/TC 184/SC 1](https://www.iso.org/committee/54124.html) | Industrial cyber and physical device control | ISO |
+| [ISO/TC 184/SC 5](https://www.iso.org/committee/54192.html) | Interoperability, integration, and architectures for enterprise systems and automation applications | ISO |
+| [ISO/TC 199](https://www.iso.org/committee/54604.html) | Safety of machinery | ISO |
+| [ISO/TC 204](https://www.iso.org/committee/54706.html) | Intelligent transport systems | ISO |
+| [ISO/TC 209](https://www.iso.org/committee/54874.html) | Cleanrooms and associated controlled environments | ISO |
 
 ### Liaison Committees from ISO/TC 299
 
@@ -155,22 +152,22 @@ ISO/TC 299 can access the documents of the committees below:
 | IEC/TC 61 | Safety of household and similar electrical appliances | IEC |
 | IEC/TC 108 | Safety of electronic equipment within the field of audio/video, information technology and communication technology | IEC |
 | IEC/TC 125 | e-Transporters | IEC |
-| [ISO/IEC JTC 1/SC 35](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/04/53/45382.html) | User interfaces | ISO/IEC |
-| [ISO/IEC JTC 1/SC 42](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/67/94/6794475.html) | Artificial intelligence | ISO/IEC |
-| [ISO/TC 110/SC 2](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/16/51600.html) | Safety of powered industrial trucks | ISO |
-| [ISO/TC 159/SC 4](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/33/53372.html) | Ergonomics of human-system interaction | ISO |
-| [ISO/TC 173](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/37/53782.html) | Assistive products | ISO |
-| [ISO/TC 184](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/41/54110.html) | Automation systems and integration | ISO |
-| [ISO/TC 199](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/committee/05/46/54604.html) | Safety of machinery | ISO |
+| [ISO/IEC JTC 1/SC 35](https://www.iso.org/committee/45382.html) | User interfaces | ISO/IEC |
+| [ISO/IEC JTC 1/SC 42](https://www.iso.org/committee/6794475.html) | Artificial intelligence | ISO/IEC |
+| [ISO/TC 110/SC 2](https://www.iso.org/committee/51600.html) | Safety of powered industrial trucks | ISO |
+| [ISO/TC 159/SC 4](https://www.iso.org/committee/53372.html) | Ergonomics of human-system interaction | ISO |
+| [ISO/TC 173](https://www.iso.org/committee/53782.html) | Assistive products | ISO |
+| [ISO/TC 184](https://www.iso.org/committee/54110.html) | Automation systems and integration | ISO |
+| [ISO/TC 199](https://www.iso.org/committee/54604.html) | Safety of machinery | ISO |
 
 ### Organizations in liaison (Category A and B)
 
 | Acronym | Title | Category |
 | --- | --- | --- |
-| [euRobotics AISBL](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/organization/84/98/8498110.html) | euRobotics AISBL | A |
-| [IEEE](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/organization/01/13/11326.html) | Institute of Electrical and Electronics Engineers, Inc | A |
-| [IFR](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/organization/00/93/9374.html) | International Federation of Robotics | A |
-| [WFEO](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/organization/51/22/5122877.html) | World Federation of Engineering Organizations | A |
+| [euRobotics AISBL](https://www.iso.org/organization/8498110.html) | euRobotics AISBL | A |
+| [IEEE](https://www.iso.org/organization/11326.html) | Institute of Electrical and Electronics Engineers, Inc | A |
+| [IFR](https://www.iso.org/organization/9374.html) | International Federation of Robotics | A |
+| [WFEO](https://www.iso.org/organization/5122877.html) | World Federation of Engineering Organizations | A |
 
 | Date | Month | Location | TC/SC | Note |
 | --- | --- | --- | --- | --- |
@@ -184,7 +181,7 @@ ISO/TC 299 can access the documents of the committees below:
 
 ## ISO/TC 299 - Secretariat
 
-### [SIS](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/member/00/21/2101.html "Swedish Institute for Standards (Sweden)") (Sweden)
+### [SIS](https://www.iso.org/member/2101.html "Swedish Institute for Standards (Sweden)") (Sweden)
 
 Swedish Institute for Standards
 
