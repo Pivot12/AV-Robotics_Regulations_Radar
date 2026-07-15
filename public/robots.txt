@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://av-robotics-standards-radar.vercel.app/sitemap.xml
