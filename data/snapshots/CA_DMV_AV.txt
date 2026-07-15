@@ -2,6 +2,8 @@ Title: Autonomous Vehicles - California DMV
 
 URL Source: https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/
 
+Published Time: Wed, 15 Jul 2026 09:52:08 GMT
+
 Markdown Content:
 Ask DMV
 
@@ -402,3 +404,5 @@ Original text
 Rate this translation
 
 Your feedback will be used to help improve Google Translate
+
+Feedback
