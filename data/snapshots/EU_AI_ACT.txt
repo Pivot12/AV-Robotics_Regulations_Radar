@@ -2,7 +2,7 @@ Title: AI Act
 
 URL Source: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 
-Published Time: Wed, 15 Jul 2026 09:00:57 GMT
+Published Time: Thu, 16 Jul 2026 09:53:59 GMT
 
 Markdown Content:
 [Skip to main content](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai#main-content)
@@ -286,9 +286,9 @@ DIGIBYTE | 08 June 2026
 
 ## Report / Study
 
+*   15-07-2026 [AI Office publishes frontier AI expert findings on EU competitiveness, sovereignty and security](https://digital-strategy.ec.europa.eu/en/library/ai-office-publishes-frontier-ai-expert-findings-eu-competitiveness-sovereignty-and-security)
 *   13-07-2026 [New feasibility study for introducing an EU-level registry of Text and Data Mining opt-out](https://digital-strategy.ec.europa.eu/en/library/new-feasibility-study-introducing-eu-level-registry-text-and-data-mining-opt-out)
 *   19-05-2026 [European Commission and OECD collaborate on monitoring national AI strategies and AI investments](https://digital-strategy.ec.europa.eu/en/library/european-commission-and-oecd-collaborate-monitoring-national-ai-strategies-and-ai-investments)
-*   08-05-2026 [Three studies on various aspects of article 5 of the AI Act](https://digital-strategy.ec.europa.eu/en/library/three-studies-various-aspects-article-5-ai-act)
 
 [More](https://digital-strategy.ec.europa.eu/en/related-content?topic=119&type=28)
 
