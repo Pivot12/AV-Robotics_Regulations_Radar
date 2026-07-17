@@ -2,7 +2,7 @@ Title: AI Act
 
 URL Source: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 
-Published Time: Thu, 16 Jul 2026 09:53:59 GMT
+Published Time: Fri, 17 Jul 2026 09:28:13 GMT
 
 Markdown Content:
 [Skip to main content](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai#main-content)
@@ -354,6 +354,7 @@ Directorate-General for Communications Networks, Content and Technology
 *   [Copyright notice](https://digital-strategy.ec.europa.eu/en/pages/legal-notice#ecl-inpage-km0gezfs)
 *   [About Directorate-General CONNECT](https://ec.europa.eu/info/departments/communications-networks-content-and-technology_en)
 *   [Language Policy](https://digital-strategy.ec.europa.eu/en/pages/legal-notice#ecl-inpage-kyoexp6k)
+*   [Accessibility statement](https://digital-strategy.ec.europa.eu/en/pages/accessibility)
 
 [![Image 11: European Commission logo](https://digital-strategy.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/negative/logo-ec--en.svg)](https://commission.europa.eu/index_en)
 
