@@ -11,7 +11,7 @@ Markdown Content:
 
 We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners.To learn more about our privacy practices, review our [Privacy Policy](https://www.automate.org/a3/privacy-policy).
 
-I understand
+Customize I understand
 
 [](https://www.ketch.com/?utm_campaign=customer%20banner&utm_source=ketchcookiebanner&utm_medium=banner&org=amplify_industrial_marketing___guidance)
 
@@ -34,11 +34,11 @@ Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader 
 *   [A3 Press Center](https://www.automate.org/a3/press-center)
 *   [Advertise With Us](https://www.automate.org/a3/advertising)
 
-[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)
+[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess&__hstc=44652667.904ba3408206c2f8e6321ddd7665492c.1784366198316.1784366198316.1784366198316.1&__hssc=44652667.1.1784366198316&__hsfp=73afc4238c2e7b6a0f864e1cff05c9eb)
 
-[My Account](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)|[Logout](https://www.automate.org/sso-process?logout)
+[My Account](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess&__hstc=44652667.904ba3408206c2f8e6321ddd7665492c.1784366198316.1784366198316.1784366198316.1&__hssc=44652667.1.1784366198316&__hsfp=73afc4238c2e7b6a0f864e1cff05c9eb)|[Logout](https://www.automate.org/sso-process?logout)
 
-[MEMBER](https://www.automate.org/membership/a3-membership-upgrade-form)[JOIN A3](https://www.automate.org/membership/join)[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)
+[MEMBER](https://www.automate.org/membership/a3-membership-upgrade-form)[JOIN A3](https://www.automate.org/membership/join)[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess&__hstc=44652667.904ba3408206c2f8e6321ddd7665492c.1784366198316.1784366198316.1784366198316.1&__hssc=44652667.1.1784366198316&__hsfp=73afc4238c2e7b6a0f864e1cff05c9eb)
 
 *   [Getting Started with Automation](https://www.automate.org/automation/getting-started-with-automation)
 
@@ -246,7 +246,7 @@ Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader 
 
     *   MOST POPULAR LINKS
     *   [A3 Training Hub](https://www.automate.org/training)
-    *   [Automate Show](https://www.automateshow.com/)
+    *   [Automate Show](https://www.automateshow.com/?__hstc=44652667.904ba3408206c2f8e6321ddd7665492c.1784366198316.1784366198316.1784366198316.1&__hssc=44652667.1.1784366198316&__hsfp=73afc4238c2e7b6a0f864e1cff05c9eb)
     *   [Automation Webinars](https://www.automate.org/webinars)
     *   [A3 Events Calendar](https://www.automate.org/calendar)
 
@@ -255,7 +255,7 @@ Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader 
     *   [Advanced Vision & AI Conference](https://www.automate.org/events/advanced-vision-and-ai-conference)
     *   [International Robot Safety Conference](https://www.automate.org/events/international-robot-safety-conference)
     *   [A3 Business Forum](https://www.automate.org/events/business-forum)
-    *   [Automate Show](https://www.automateshow.com/)
+    *   [Automate Show](https://www.automateshow.com/?__hstc=44652667.904ba3408206c2f8e6321ddd7665492c.1784366198316.1784366198316.1784366198316.1&__hssc=44652667.1.1784366198316&__hsfp=73afc4238c2e7b6a0f864e1cff05c9eb)
 
     *   [Training](https://www.automate.org/training)
     *   [Introduction to Industrial Robotics](https://www.automate.org/robotics/introduction-to-industrial-robotics)
@@ -352,6 +352,8 @@ Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader 
 
 * * *
 
+![Image 10](https://www.google.com/images/cleardot.gif)[Select Language![Image 11](https://www.google.com/images/cleardot.gif)​![Image 12](https://www.google.com/images/cleardot.gif)▼](https://www.automate.org/#)
+
 Copyright © 2026 Association for Advancing Automation
 
 900 Victors Way, Suite 140, Ann Arbor, Michigan, USA 48108
@@ -362,10 +364,18 @@ T: [(734) 994-6088](tel:1-734-994-6088) - F: (734) 994-3338
 
 [Privacy Policy](https://www.automate.org/a3/privacy-policy)
 
-[![Image 10: Privacy Settings](https://www.automate.org/images/privacyoptions.png?v1) Privacy Settings](javascript:do.Nothing())
+[![Image 13: Privacy Settings](https://www.automate.org/images/privacyoptions.png?v1) Privacy Settings](javascript:do.Nothing())
 
 [Site Map](https://www.automate.org/site-map)
 
 [Website Design & Development by Amplify Industrial Marketing + Guidance.](https://www.aimg.com/)
 
-![Image 12](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=88a65741-b69f-4e7a-a260-1ef1177f28fe&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=d0e17fa6-83f9-448b-b982-b0427da5660c&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1784281732683.217191388800461584&txn_id=obsvx&type=javascript&version=2.3.53)![Image 13](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=88a65741-b69f-4e7a-a260-1ef1177f28fe&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=d0e17fa6-83f9-448b-b982-b0427da5660c&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1784281732683.217191388800461584&txn_id=obsvx&type=javascript&version=2.3.53)
+![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=14fb86c3-f738-447b-9e1e-02734a4a922f&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=82d91ee3-9845-4675-b483-453e635c5a75&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1784366197644.14401724247057063&txn_id=obsvx&type=javascript&version=2.3.54)![Image 16](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=14fb86c3-f738-447b-9e1e-02734a4a922f&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=82d91ee3-9845-4675-b483-453e635c5a75&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1784366197644.14401724247057063&txn_id=obsvx&type=javascript&version=2.3.54)
+
+![Image 17](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+
+Original text
+
+Rate this translation
+
+Your feedback will be used to help improve Google Translate

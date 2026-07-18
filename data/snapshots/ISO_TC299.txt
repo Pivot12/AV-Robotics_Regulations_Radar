@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Fri, 17 Jul 2026 09:25:36 GMT
+Published Time: Sat, 18 Jul 2026 05:45:02 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
@@ -19,18 +19,18 @@ Markdown Content:
 ![Image 1: ISO logo for print](https://www.iso.org/modules/isoorg-template/img/iso/iso-logo-print.gif)
 
 Menu
-*   [Standards](https://www.iso.org/cms/live/live/en/sites/isoorg/home/standards.html "Covering almost every product, process or service imaginable, ISO makes standards used everywhere.")
-*   [Sectors](https://www.iso.org/committee/5915511.html)[Health](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/health.html "(including medicine and laboratory equipment)") [IT & related technologies](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/it-technologies.html "(including communication technology, graphics and photography)") [Management & services](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/management-services.html "(Business management, financial and professional services)") [Security, safety & risk](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/security-safety-risk.html) [Transport](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/transport.html "(including vehicles, parts and infrastructure, freight, packaging and distribution)") [Energy](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/energy.html "(including power generation and transport, fuels)") [Diversity & inclusion](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/diversity-inclusion.html) [Environmental sustainability](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/sustainability-environment.html "Explore our Environmental sustainability sector.") [Food & agriculture](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/food-agriculture.html) [Materials](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/materials.html "(Ores and metals, non-metallic materials, chemicals)") [Building & construction](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/building-construction.html) [Engineering](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/engineering.html "(Mechanical engineering and special technologies such as robotics, optics, biotechnology, etc)")    
-*   [About ISO](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso.html "ISO brings together global experts to develop International Standards that help solve problems and drive innovation.")
-*   [Insights & news](https://www.iso.org/committee/5915511.html)[Insights](https://www.iso.org/committee/5915511.html)[All insights](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/insights/all-insights.html) [Healthcare](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/insights/healthcare.html) [Artificial intelligence](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/insights/artificial-intelligence.html) [Climate change](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/insights/climate-change.html) [Transport](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/insights/transport.html)   [](https://www.iso.org/committee/5915511.html)[Cybersecurity](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/navigation-menu-hidden/cybersecurity.html) [Quality management](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/navigation-menu-hidden/quality-management.html) [Renewable energy](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/navigation-menu-hidden/energy-management.html) [Occupational health and safety](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/navigation-menu-hidden/occupational-health-and-safety.html) [Quantum computing](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/navigation-menu-hidden/quantum-computing.html)   [News](https://www.iso.org/committee/5915511.html)[Expert talk](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/news/expert-talk.html) [Standards world](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/news/standards-world.html) [Media kit](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/news/dossier-medias.html)   [Resources](https://www.iso.org/committee/5915511.html)[ISO 22000 explained](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/resources/iso-22000-explained.html "ISO 22000 is the International Standard for food safety management systems. It helps organizations identify hazards, manage risks and demonstrate their ability to provide safe food consistently.") [ISO 9001 explained](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/resources/iso-9001-explained.html "ISO 9001:2015 is the International Standard for quality management systems. It provides a framework that helps organizations deliver consistent products and services, improve efficiency and meet customer and regulatory expectations.") [ISO 14001 explained](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/resources/iso-14001-explained.html "ISO 14001:2015 is the International Standard for environmental management systems. It helps organizations manage their environmental impacts, comply with applicable legal requirements, prevent pollution and improve environmental performance over time.") [ISO 42001 explained](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/resources/iso-42001-explained-what-it-is.html "ISO/IEC 42001 is the International Standard for AI management systems. It provides requirements and guidance for organizations that develop, provide or use AI systems. ") [ISO 45001 explained](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/resources/iso-45001-explained-what-it-is.html "ISO 45001:2018 is the International Standard for occupational health and safety management systems. It helps organizations provide safe and healthy workplaces by preventing work-related injury and ill health, managing risks, and continually improving OHS performance.")      
-*   [Taking part](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards.html "Find out how the ISO process bring together global experts to create standards that are chosen the world over.")
-*   [Store](https://www.iso.org/cms/live/live/en/sites/isoorg/home/store.html "Are you looking to buy International Standards, guidelines, collections and checklists? They're all right here, in the ISO Store.")
+*   [Standards](https://www.iso.org/standards.html "Covering almost every product, process or service imaginable, ISO makes standards used everywhere.")
+*   [Sectors](https://www.iso.org/committee/5915511.html)[Health](https://www.iso.org/sectors/health "(including medicine and laboratory equipment)") [IT & related technologies](https://www.iso.org/sectors/it-technologies "(including communication technology, graphics and photography)") [Management & services](https://www.iso.org/sectors/management-services "(Business management, financial and professional services)") [Security, safety & risk](https://www.iso.org/sectors/security-safety-risk) [Transport](https://www.iso.org/sectors/transport "(including vehicles, parts and infrastructure, freight, packaging and distribution)") [Energy](https://www.iso.org/sectors/energy "(including power generation and transport, fuels)") [Diversity & inclusion](https://www.iso.org/sectors/diversity-inclusion) [Environmental sustainability](https://www.iso.org/sectors/environment "Explore our Environmental sustainability sector.") [Food & agriculture](https://www.iso.org/sectors/food-agriculture) [Materials](https://www.iso.org/sectors/materials "(Ores and metals, non-metallic materials, chemicals)") [Building & construction](https://www.iso.org/sectors/building-construction) [Engineering](https://www.iso.org/sectors/engineering "(Mechanical engineering and special technologies such as robotics, optics, biotechnology, etc)")    
+*   [About ISO](https://www.iso.org/about "ISO brings together global experts to develop International Standards that help solve problems and drive innovation.")
+*   [Insights & news](https://www.iso.org/committee/5915511.html)[Insights](https://www.iso.org/committee/5915511.html)[All insights](https://www.iso.org/insights) [Healthcare](https://www.iso.org/insights/filtered-list-healthcare) [Artificial intelligence](https://www.iso.org/insights/filtered-list-artificial-intelligence) [Climate change](https://www.iso.org/insights/filtered-list-climate-change) [Transport](https://www.iso.org/insights/filtered-list-transport)   [](https://www.iso.org/committee/5915511.html)[Cybersecurity](https://www.iso.org/insights/filtered-list-information-security) [Quality management](https://www.iso.org/insights/filtered-list-quality-management) [Renewable energy](https://www.iso.org/insights/filtered-list-renewable-energy) [Occupational health and safety](https://www.iso.org/insights/filtered-list-occupational-health-and-safety) [Quantum computing](https://www.iso.org/insights/filtered-list-quantum-computing)   [News](https://www.iso.org/committee/5915511.html)[Expert talk](https://www.iso.org/insights/thought-leadership) [Standards world](https://www.iso.org/insights/standards-world) [Media kit](https://www.iso.org/home/insights-news/news/dossier-medias.html)   [Resources](https://www.iso.org/committee/5915511.html)[ISO 22000 explained](https://www.iso.org/home/insights-news/resources/iso-22000-explained.html "ISO 22000 is the International Standard for food safety management systems. It helps organizations identify hazards, manage risks and demonstrate their ability to provide safe food consistently.") [ISO 9001 explained](https://www.iso.org/home/insights-news/resources/iso-9001-explained.html "ISO 9001:2015 is the International Standard for quality management systems. It provides a framework that helps organizations deliver consistent products and services, improve efficiency and meet customer and regulatory expectations.") [ISO 14001 explained](https://www.iso.org/home/insights-news/resources/iso-14001-explained.html "ISO 14001:2015 is the International Standard for environmental management systems. It helps organizations manage their environmental impacts, comply with applicable legal requirements, prevent pollution and improve environmental performance over time.") [ISO 42001 explained](https://www.iso.org/home/insights-news/resources/iso-42001-explained-what-it-is.html "ISO/IEC 42001 is the International Standard for AI management systems. It provides requirements and guidance for organizations that develop, provide or use AI systems. ") [ISO 45001 explained](https://www.iso.org/home/insights-news/resources/iso-45001-explained-what-it-is.html "ISO 45001:2018 is the International Standard for occupational health and safety management systems. It helps organizations provide safe and healthy workplaces by preventing work-related injury and ill health, managing risks, and continually improving OHS performance.")      
+*   [Taking part](https://www.iso.org/developing-standards.html "Find out how the ISO process bring together global experts to create standards that are chosen the world over.")
+*   [Store](https://www.iso.org/store.html "Are you looking to buy International Standards, guidelines, collections and checklists? They're all right here, in the ISO Store.")
 
 Search
 
 [Cart](https://www.iso.org/webstore/checkout?memberId=ISO&guilang=en&continue_shopping=https%3A%2F%2Fwww.iso.org%2Fcommittee%2F5915511.html "Shopping cart")
 
-[Technical Committees](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/who-develops-standards/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
+[Technical Committees](https://www.iso.org/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
 
 # ISO/TC 299
 
@@ -199,83 +199,83 @@ Email: [info@sis.se](mailto:info@sis.se "email")
 
 Web: [http://www.sis.se/](http://www.sis.se/ "email")
 
-1.   [](https://www.iso.org/cms/live/live/en/sites/isoorg/home.html "Home page")
-2.   [Store](https://www.iso.org/cms/live/live/en/sites/isoorg/home/store.html)
-3.   [Store](https://www.iso.org/cms/live/live/en/sites/isoorg/home/store.html)
-4.   [TC](https://www.iso.org/cms/live/live/en/sites/isoorg/home/store/standards-catalogue/browse-by-tc.html)
+1.   [](https://www.iso.org/home.html "Home page")
+2.   [Taking part](https://www.iso.org/developing-standards.html)
+3.   [Who develops standards](https://www.iso.org/who-develops-standards.html)
+4.   [Technical Committees](https://www.iso.org/technical-committees.html)
 5.   ISO/TC 299
 
 [Sitemap](https://www.iso.org/committee/5915511.html#collapseSitemap)
 
-*   [Standards](https://www.iso.org/cms/live/live/en/sites/isoorg/home/standards.html "Covering almost every product, process or service imaginable, ISO makes standards used everywhere.")
-    *   [Benefits](https://www.iso.org/cms/live/live/en/sites/isoorg/home/standards/benefits-of-standards.html "Whether you run a business, work for a company or government, or you are a consumer looking for goods and services that meet customer expectations: Find out what standards can do for you.")
-    *   [Popular standards](https://www.iso.org/cms/live/live/en/sites/isoorg/home/standards/popular-standards.html "Here you can discover some of the best-known and most widely-used standards, as well as those that address recently emerged challenges affecting us all.
+*   [Standards](https://www.iso.org/standards.html "Covering almost every product, process or service imaginable, ISO makes standards used everywhere.")
+    *   [Benefits](https://www.iso.org/benefits-of-standards.html "Whether you run a business, work for a company or government, or you are a consumer looking for goods and services that meet customer expectations: Find out what standards can do for you.")
+    *   [Popular standards](https://www.iso.org/popular-standards.html "Here you can discover some of the best-known and most widely-used standards, as well as those that address recently emerged challenges affecting us all.
 
 ")
-    *   [Conformity assessment](https://www.iso.org/cms/live/live/en/sites/isoorg/home/standards/committee-for-conformity-assessm.html "A set of processes that show your product, service or system meets the requirements of a standard.")
-    *   [SDGs](https://www.iso.org/cms/live/live/en/sites/isoorg/home/standards/sdg.html "Organizations and companies looking to contribute to the SDGs will find that International Standards provide effective tools to help them rise to the challenge.")
+    *   [Conformity assessment](https://www.iso.org/conformity-assessment.html "A set of processes that show your product, service or system meets the requirements of a standard.")
+    *   [SDGs](https://www.iso.org/sdg "Organizations and companies looking to contribute to the SDGs will find that International Standards provide effective tools to help them rise to the challenge.")
 
 *   [Sectors](https://www.iso.org/committee/5915511.html)
-    *   [Health](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/health.html "(including medicine and laboratory equipment)")
-    *   [IT & related technologies](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/it-technologies.html "(including communication technology, graphics and photography)")
-    *   [Management & services](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/management-services.html "(Business management, financial and professional services)")
-    *   [Security, safety & risk](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/security-safety-risk.html)
-    *   [Transport](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/transport.html "(including vehicles, parts and infrastructure, freight, packaging and distribution)")
-    *   [Energy](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/energy.html "(including power generation and transport, fuels)")
-    *   [Environmental sustainability](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/sustainability-environment.html "Explore our Environmental sustainability sector.")
-    *   [Materials](https://www.iso.org/cms/live/live/en/sites/isoorg/home/sectors/materials.html "(Ores and metals, non-metallic materials, chemicals)")
+    *   [Health](https://www.iso.org/sectors/health "(including medicine and laboratory equipment)")
+    *   [IT & related technologies](https://www.iso.org/sectors/it-technologies "(including communication technology, graphics and photography)")
+    *   [Management & services](https://www.iso.org/sectors/management-services "(Business management, financial and professional services)")
+    *   [Security, safety & risk](https://www.iso.org/sectors/security-safety-risk)
+    *   [Transport](https://www.iso.org/sectors/transport "(including vehicles, parts and infrastructure, freight, packaging and distribution)")
+    *   [Energy](https://www.iso.org/sectors/energy "(including power generation and transport, fuels)")
+    *   [Environmental sustainability](https://www.iso.org/sectors/environment "Explore our Environmental sustainability sector.")
+    *   [Materials](https://www.iso.org/sectors/materials "(Ores and metals, non-metallic materials, chemicals)")
 
-*   [About ISO](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso.html "ISO brings together global experts to develop International Standards that help solve problems and drive innovation.")
-    *   [What we do](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/what-we-do.html "Find out how we develop and publish international standards by bringing together more than 160 members and more than 45,000 experts")
-    *   [Structure](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/structure.html)
-    *   [Members](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/members.html "The members of the International Organization for Standardization are 175 national standards bodies, each representing ISO in their country.")
-    *   [Events](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/events.html "Find out what's coming up and what you might have missed.")
-    *   [Strategy](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/strategy-2030.html "Making lives easier, safer and better. Our Strategy outlines our vision and our mission for the next 10 years and a set of goals and priorities to help us get there.")
+*   [About ISO](https://www.iso.org/about "ISO brings together global experts to develop International Standards that help solve problems and drive innovation.")
+    *   [What we do](https://www.iso.org/what-we-do.html "Find out how we develop and publish international standards by bringing together more than 160 members and more than 45,000 experts")
+    *   [Structure](https://www.iso.org/structure.html)
+    *   [Members](https://www.iso.org/about/members "The members of the International Organization for Standardization are 175 national standards bodies, each representing ISO in their country.")
+    *   [Events](https://www.iso.org/events.html "Find out what's coming up and what you might have missed.")
+    *   [Strategy](https://www.iso.org/strategy2030.html "Making lives easier, safer and better. Our Strategy outlines our vision and our mission for the next 10 years and a set of goals and priorities to help us get there.")
 
 *   [Insights & news](https://www.iso.org/committee/5915511.html)
     *   [Insights](https://www.iso.org/committee/5915511.html)
-        *   [All insights](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/insights/all-insights.html)
-        *   [Healthcare](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/insights/healthcare.html)
-        *   [Artificial intelligence](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/insights/artificial-intelligence.html)
-        *   [Climate change](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/insights/climate-change.html)
-        *   [Transport](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/insights/transport.html)
+        *   [All insights](https://www.iso.org/insights)
+        *   [Healthcare](https://www.iso.org/insights/filtered-list-healthcare)
+        *   [Artificial intelligence](https://www.iso.org/insights/filtered-list-artificial-intelligence)
+        *   [Climate change](https://www.iso.org/insights/filtered-list-climate-change)
+        *   [Transport](https://www.iso.org/insights/filtered-list-transport)
 
     *   [News](https://www.iso.org/committee/5915511.html)
-        *   [Expert talk](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/news/expert-talk.html)
-        *   [Standards world](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/news/standards-world.html)
-        *   [Media kit](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/news/dossier-medias.html)
+        *   [Expert talk](https://www.iso.org/insights/thought-leadership)
+        *   [Standards world](https://www.iso.org/insights/standards-world)
+        *   [Media kit](https://www.iso.org/home/insights-news/news/dossier-medias.html)
 
     *   [Resources](https://www.iso.org/committee/5915511.html)
-        *   [ISO 22000 explained](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/resources/iso-22000-explained.html "ISO 22000 is the International Standard for food safety management systems. It helps organizations identify hazards, manage risks and demonstrate their ability to provide safe food consistently.")
-        *   [ISO 9001 explained](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/resources/iso-9001-explained.html "ISO 9001:2015 is the International Standard for quality management systems. It provides a framework that helps organizations deliver consistent products and services, improve efficiency and meet customer and regulatory expectations.")
-        *   [ISO 14001 explained](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/resources/iso-14001-explained.html "ISO 14001:2015 is the International Standard for environmental management systems. It helps organizations manage their environmental impacts, comply with applicable legal requirements, prevent pollution and improve environmental performance over time.")
-        *   [ISO 42001 explained](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/resources/iso-42001-explained-what-it-is.html "ISO/IEC 42001 is the International Standard for AI management systems. It provides requirements and guidance for organizations that develop, provide or use AI systems. ")
-        *   [ISO 45001 explained](https://www.iso.org/cms/live/live/en/sites/isoorg/home/insights-news/resources/iso-45001-explained-what-it-is.html "ISO 45001:2018 is the International Standard for occupational health and safety management systems. It helps organizations provide safe and healthy workplaces by preventing work-related injury and ill health, managing risks, and continually improving OHS performance.")
+        *   [ISO 22000 explained](https://www.iso.org/home/insights-news/resources/iso-22000-explained.html "ISO 22000 is the International Standard for food safety management systems. It helps organizations identify hazards, manage risks and demonstrate their ability to provide safe food consistently.")
+        *   [ISO 9001 explained](https://www.iso.org/home/insights-news/resources/iso-9001-explained.html "ISO 9001:2015 is the International Standard for quality management systems. It provides a framework that helps organizations deliver consistent products and services, improve efficiency and meet customer and regulatory expectations.")
+        *   [ISO 14001 explained](https://www.iso.org/home/insights-news/resources/iso-14001-explained.html "ISO 14001:2015 is the International Standard for environmental management systems. It helps organizations manage their environmental impacts, comply with applicable legal requirements, prevent pollution and improve environmental performance over time.")
+        *   [ISO 42001 explained](https://www.iso.org/home/insights-news/resources/iso-42001-explained-what-it-is.html "ISO/IEC 42001 is the International Standard for AI management systems. It provides requirements and guidance for organizations that develop, provide or use AI systems. ")
+        *   [ISO 45001 explained](https://www.iso.org/home/insights-news/resources/iso-45001-explained-what-it-is.html "ISO 45001:2018 is the International Standard for occupational health and safety management systems. It helps organizations provide safe and healthy workplaces by preventing work-related injury and ill health, managing risks, and continually improving OHS performance.")
 
-*   [Taking part](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards.html "Find out how the ISO process bring together global experts to create standards that are chosen the world over.")
-    *   [Who develops standards](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/who-develops-standards.html "ISO has put together groups of experts that represent every sector imaginable from soaps to spacecraft, MP3 to coffee. In fact there are more than 250 technical committees. You can find out what they do here.")
-    *   [Deliverables](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/deliverables-all.html "The different types of ISO publications.")
-    *   [Get involved](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/get-involved.html)
-    *   [Collaborating to accelerate effective climate action](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/collaborating-climate.html "The ISO Climate Action Kit is a collection of case studies from around the world on how standards can be effectively used as a tool for sustainability.")
-    *   [Resources](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/resources.html "Resources to support the work of individuals involved in standards development. ")
-        *   [Directives and Policies](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/resources/directives-and-policies.html)
-        *   [Drafting standards](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/resources/drafting-standards.html)
+*   [Taking part](https://www.iso.org/developing-standards.html "Find out how the ISO process bring together global experts to create standards that are chosen the world over.")
+    *   [Who develops standards](https://www.iso.org/who-develops-standards.html "ISO has put together groups of experts that represent every sector imaginable from soaps to spacecraft, MP3 to coffee. In fact there are more than 250 technical committees. You can find out what they do here.")
+    *   [Deliverables](https://www.iso.org/deliverables-all.html "The different types of ISO publications.")
+    *   [Get involved](https://www.iso.org/get-involved.html)
+    *   [Collaborating to accelerate effective climate action](https://www.iso.org/ClimateAction.html "The ISO Climate Action Kit is a collection of case studies from around the world on how standards can be effectively used as a tool for sustainability.")
+    *   [Resources](https://www.iso.org/resources.html "Resources to support the work of individuals involved in standards development. ")
+        *   [Directives and Policies](https://www.iso.org/directives-and-policies.html)
+        *   [Drafting standards](https://www.iso.org/drafting-standards.html)
 
-*   [Store](https://www.iso.org/cms/live/live/en/sites/isoorg/home/store.html "Are you looking to buy International Standards, guidelines, collections and checklists? They're all right here, in the ISO Store.")
-    *   [Store](https://www.iso.org/cms/live/live/en/sites/isoorg/home/store.html)
-    *   [Publications and products](https://www.iso.org/cms/live/live/en/sites/isoorg/home/store/publication-list.html "ISO publications give insights and guidance into specific applications and show how standards add value.")
+*   [Store](https://www.iso.org/store.html "Are you looking to buy International Standards, guidelines, collections and checklists? They're all right here, in the ISO Store.")
+    *   [Store](https://www.iso.org/store.html)
+    *   [Publications and products](https://www.iso.org/publication-list.html "ISO publications give insights and guidance into specific applications and show how standards add value.")
 
-*   [ISO name and logo](https://www.iso.org/cms/live/live/en/sites/isoorg/footer-links/iso-name-and-logo.html)
-*   [Privacy Notice](https://www.iso.org/cms/live/live/en/sites/isoorg/footer-links/privacy-and-copyright.html)
-*   [Copyright](https://www.iso.org/cms/live/live/en/sites/isoorg/footer-links/copyright.html)
-*   [Cookie policy](https://www.iso.org/cms/live/live/en/sites/isoorg/footer-links/cookies.html)
-*   [Media kit](https://www.iso.org/cms/live/live/en/sites/isoorg/footer-links/dossier-medias.html)
-*   [Jobs](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/working-with-iso.html)
-*   [Help and support](https://www.iso.org/cms/live/live/en/sites/isoorg/footer-links/help-support.html)
+*   [ISO name and logo](https://www.iso.org/iso-name-and-logo.html)
+*   [Privacy Notice](https://www.iso.org/privacy.html)
+*   [Copyright](https://www.iso.org/copyright.html)
+*   [Cookie policy](https://www.iso.org/cookies.html)
+*   [Media kit](https://www.iso.org/media-kit.html)
+*   [Jobs](https://www.iso.org/working-with-iso.html)
+*   [Help and support](https://www.iso.org/contact-iso.html)
 
 Making lives**_easier_**,**_safer_**and**_better_**.
 
-[Sign up](https://www.iso.org/cms/live/live/en/sites/isoorg/mailing/iso-insights-subscription.html)
+[Sign up](https://www.iso.org/insights/subscribe)
 
 for email updates
 

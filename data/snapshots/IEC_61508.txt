@@ -2,7 +2,7 @@ Title: Safety and functional safety
 
 URL Source: https://www.iec.ch/functionalsafety
 
-Published Time: Fri, 17 Jul 2026 09:37:15 GMT
+Published Time: Sat, 18 Jul 2026 09:16:55 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iec.ch/functionalsafety#main-content)[Technical Committee 150](https://www.iec.ch/tc150)
@@ -24,7 +24,7 @@ My IEC
 
 [Login](https://www.iec.ch/iec/openid/authenticate?url_from=https%3A%2F%2Fwww.iec.ch%2Ffunctional-safety)[Forgot password ?](https://login.iec.ch/auth/realms/iecsso/login-actions/reset-credentials?client_id=myiec)
 
-[![Image 3: Home](https://www.iec.ch/themes/custom/iec/images/iec-logo-mobile.svg)](https://www.iec.ch/ "Home")[![Image 4: Home](https://www.iec.ch/themes/custom/iec/images/IEC_logo.jpg)](https://www.iec.ch/ "Home")
+[![Image 2: Home](https://www.iec.ch/themes/custom/iec/images/iec-logo-mobile.svg)](https://www.iec.ch/ "Home")[![Image 3: Home](https://www.iec.ch/themes/custom/iec/images/IEC_logo.jpg)](https://www.iec.ch/ "Home")
 
 *   [Standards development](https://www.iec.ch/standards-development)[Standards development](https://www.iec.ch/standards-development) 
     *   [About standards](https://www.iec.ch/about-standards)
@@ -228,7 +228,7 @@ My IEC
 
 Toggle navigation
 
-[![Image 5: Home](https://www.iec.ch/themes/custom/iec/images/iec-logo-mobile.svg)](https://www.iec.ch/ "Home")[![Image 6: Home](https://www.iec.ch/themes/custom/iec/images/IEC_logo.jpg)](https://www.iec.ch/ "Home")
+[![Image 4: Home](https://www.iec.ch/themes/custom/iec/images/iec-logo-mobile.svg)](https://www.iec.ch/ "Home")[![Image 5: Home](https://www.iec.ch/themes/custom/iec/images/IEC_logo.jpg)](https://www.iec.ch/ "Home")
 ## Main navigation
 
 *   [Standards development](https://www.iec.ch/standards-development)[Standards development](https://www.iec.ch/standards-development) 
@@ -384,7 +384,7 @@ Electricity is inherently dangerous and electrotechnical equipment represents ma
 
 With the expansion of intelligent systems such as robotics, the internet of things or artificial intelligence, new and complex safety requirements are emerging. The increasing presence of machines in factories, logistics, mobility or healthcare, require safety procedures to protect the people interacting with them.
 
-![Image 7: Safety in the future](https://www.iec.ch/system/files/styles/original_image/private/2020-12/IEC_WP_Safety_in_the_future_En_LR-1.jpg?itok=LmY3BlXz)
+![Image 6: Safety in the future](https://www.iec.ch/system/files/styles/original_image/private/2020-12/IEC_WP_Safety_in_the_future_En_LR-1.jpg?itok=LmY3BlXz)
 
 ### Safety in the future
 
@@ -402,23 +402,11 @@ The sensors in automatic doors ensure that they open fast enough and close safel
 
 The[IEC 61508](https://webstore.iec.ch/publication/22273)series provides functional safety standards for the lifecycle of electrical, electronic or programmable electronic (E/E/PE) systems and products. It addresses those parts of a device or system that perform automated safety functions including, for example, sensors, control logic, actuators and micro-processors.
 
-Image
-
-![Image 8: Safety and functional safety infographic](https://www.iec.ch/system/files/2019-11/content/media/image/infographsafety2.png)
-
 IEC 61508 allows for the development of a uniform technical approach that can be applied to all safety systems in electronics and related software. It is a horizontal standard applicable across a wide range of sectors.
 
 The standard requires the analysis of the potential risks or hazards of a given system or device. It provides categories to determine the level of likelihood of a potential hazard and the consequences should it occur. IEC 61508 defines four safety integration levels (SIL) to indicate the degree to which a system will meet its specified safety functions.
 
 [Functional safety FAQ](https://www.iec.ch/functional-safety/faq)
-
-![Image 9: functional_safety-cover.jpg](https://www.iec.ch/system/files/styles/original_image/private/2019-11/content/media/image/functional_safety-cover.jpg?itok=Up5tPbKM)
-
-### Functional safety
-
- An introduction to Functional safety and the IEC 61508 series. 
-
-[Read more](https://www.iec.ch/basecamp/functional-safety-essential-overall-safety)
 
 ## Hazard based safety engineering
 
