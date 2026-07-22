@@ -11,7 +11,7 @@ Markdown Content:
 
 We and our vendors use technology that collects data about your use of our site so we can improve and personalize our products and services, for analytics and marketing, and to fulfill your requests. We may also share this information with marketing vendors, social media companies, and analytics partners.To learn more about our privacy practices, review our [Privacy Policy](https://www.automate.org/a3/privacy-policy).
 
-I understand
+Customize I understand
 
 [](https://www.ketch.com/?utm_campaign=customer%20banner&utm_source=ketchcookiebanner&utm_medium=banner&org=amplify_industrial_marketing___guidance)
 
@@ -370,7 +370,7 @@ T: [(734) 994-6088](tel:1-734-994-6088) - F: (734) 994-3338
 
 [Website Design & Development by Amplify Industrial Marketing + Guidance.](https://www.aimg.com/)
 
-![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=01fb881c-f8dd-4b26-ac71-2a66ac8f1439&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=7e923df7-0d48-4520-bf9d-eb03345b3be3&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1784628993208.26598808810778789&txn_id=obsvx&type=javascript&version=2.3.54)
+![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=b689327f-3ba9-44e9-86ff-40d72352bfcc&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=0bcc8e7b-c6be-422f-93ad-6612a2b3ad65&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1784715415984.227644605112735879&txn_id=obsvx&type=javascript&version=2.3.54)
 
 ![Image 16](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 
@@ -380,4 +380,4 @@ Rate this translation
 
 Your feedback will be used to help improve Google Translate
 
-![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=01fb881c-f8dd-4b26-ac71-2a66ac8f1439&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=7e923df7-0d48-4520-bf9d-eb03345b3be3&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1784628993208.26598808810778789&txn_id=obsvx&type=javascript&version=2.3.54)
+![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=b689327f-3ba9-44e9-86ff-40d72352bfcc&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=0bcc8e7b-c6be-422f-93ad-6612a2b3ad65&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1784715415984.227644605112735879&txn_id=obsvx&type=javascript&version=2.3.54)

@@ -42,3 +42,7 @@ To view public comments received on the previous drafts of the AI RMF and Reques
 *   [Brief summary](https://www.nist.gov/document/summary-analysis-responses-nist-artificial-intelligence-risk-management-framework-ai-rmf "Summary Analysis of Responses to the NIST Artificial Intelligence Risk Management Framework (AI RMF) - Request for Information (RFI) National Institute of Standards and Technology (NIST)")of[responses](https://www.nist.gov/itl/ai-risk-management-framework/comments-received-rfi-artificial-intelligence-risk-management "Comments Received for RFI on Artificial Intelligence Risk Management Framework") to the July 29, 2021, RFI (October 15, 2021)
 *   [Draft -Taxonomy of AI Risk](https://www.nist.gov/document/draft-taxonomy-ai-risk-october-15-2021 "Draft -Taxonomy of AI Risk - October 15, 2021")(October 15, 2021)
 *   [AI Risk Management Framework Request for Information](https://www.federalregister.gov/documents/2021/07/29/2021-16176/artificial-intelligence-risk-management-framework)(July 29, 2021)
+
+## Contact Us
+
+aiframework [at] nist.gov (aiframework[at]nist[dot]gov)
