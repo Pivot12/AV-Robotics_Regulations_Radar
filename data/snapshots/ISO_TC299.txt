@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Wed, 22 Jul 2026 06:18:24 GMT
+Published Time: Thu, 23 Jul 2026 10:12:41 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
@@ -10,9 +10,9 @@ Markdown Content:
 *   [Applications](https://login.iso.org/ "ISO's applications portal")
 *   [OBP](https://www.iso.org/obp/ui/en/ "Online Browsing Platform")
 *   [English](https://www.iso.org/committee/5915511.html#)
-    *   [español](https://www.iso.org/cms/live/live/es/sites/isoorg/contents/data/committee/59/15/5915511.html)
-    *   [français](https://www.iso.org/cms/live/live/fr/sites/isoorg/contents/data/committee/59/15/5915511.html)
-    *   [русский](https://www.iso.org/cms/live/live/ru/sites/isoorg/contents/data/committee/59/15/5915511.html)
+    *   [español](https://www.iso.org/es/contents/data/committee/59/15/5915511.html)
+    *   [français](https://www.iso.org/fr/committee/5915511.html)
+    *   [русский](https://www.iso.org/ru/committee/5915511.html)
 
 [](https://www.iso.org/home.html "International Organization for Standardization")
 
@@ -30,7 +30,7 @@ Search
 
 [Cart](https://www.iso.org/webstore/checkout?memberId=ISO&guilang=en&continue_shopping=https%3A%2F%2Fwww.iso.org%2Fcommittee%2F5915511.html "Shopping cart")
 
-[Technical Committees](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/who-develops-standards/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
+[Technical Committees](https://www.iso.org/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
 
 # ISO/TC 299
 
@@ -228,7 +228,7 @@ Web: [http://www.sis.se/](http://www.sis.se/ "email")
 *   [About ISO](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso.html "ISO brings together global experts to develop International Standards that help solve problems and drive innovation.")
     *   [What we do](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/what-we-do.html "Find out how we develop and publish international standards by bringing together more than 160 members and more than 45,000 experts")
     *   [Structure](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/structure.html)
-    *   [Members](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/members.html "The members of the International Organization for Standardization are 175 national standards bodies, each representing ISO in their country.")
+    *   [Members](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/members.html "The members of the International Organization for Standardization are 176 national standards bodies, each representing ISO in their country.")
     *   [Events](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/events.html "Find out what's coming up and what you might have missed.")
     *   [Strategy](https://www.iso.org/cms/live/live/en/sites/isoorg/home/about-iso/strategy-2030.html "Making lives easier, safer and better. Our Strategy outlines our vision and our mission for the next 10 years and a set of goals and priorities to help us get there.")
 
