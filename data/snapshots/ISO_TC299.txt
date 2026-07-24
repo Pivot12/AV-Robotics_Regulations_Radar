@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Thu, 23 Jul 2026 10:12:41 GMT
+Published Time: Fri, 24 Jul 2026 07:39:32 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
@@ -66,10 +66,10 @@ This committee contributes with 58 standards to the following [Sustainable Devel
 
 [3 Good Health and Well-being](https://www.iso.org/sdg/SDG03.html "Good Health and Well-being")[7 Affordable and Clean Energy](https://www.iso.org/sdg/SDG07.html "Affordable and Clean Energy")[8 Decent Work and Economic Growth](https://www.iso.org/sdg/SDG08.html "Decent Work and Economic Growth")[9 Industry, Innovation and Infrastructure](https://www.iso.org/sdg/SDG09.html "Industry, Innovation and Infrastructure")[11 Sustainable Cities and Communities](https://www.iso.org/sdg/SDG11.html "Sustainable Cities and Communities")[12 Responsible Consumption and Production](https://www.iso.org/sdg/SDG12.html "Responsible Consumption and Production")[13 Climate Action](https://www.iso.org/sdg/SDG13.html "Climate Action")
 
-[34](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/1/u/0/w/0/d/0)
+[35](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/1/u/0/w/0/d/0)
 Published ISO standards*
 
-[23](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0)
+[22](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0)
 ISO standards under development*
 
 [33](https://www.iso.org/committee/5915511.html?view=participation)
