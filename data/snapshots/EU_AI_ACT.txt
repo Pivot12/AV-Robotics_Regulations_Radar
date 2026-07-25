@@ -2,7 +2,7 @@ Title: AI Act
 
 URL Source: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 
-Published Time: Fri, 24 Jul 2026 10:04:04 GMT
+Published Time: Sat, 25 Jul 2026 09:02:08 GMT
 
 Markdown Content:
 ## A Risk-based Approach
@@ -110,7 +110,7 @@ The AI Act entered into force on 1 August 2024, and will be fully applicable 2 y
 
 ## How the Commission is simplifying the AI Act implementation?
 
-The [Digital Package on Simplification](https://digital-strategy.ec.europa.eu/en/policies/digital-rulebook) proposed amendments to simplify the AI Act implementation and ensure the rules remain clear, simple, and innovation-friendly. This legislative proposal (dubbed as the '[AI omnibus](https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal)') has been adopted on 19 November 2025 and a [political agreement](https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens) was reached on 7 May 2026.
+The [Digital Package on Simplification](https://digital-strategy.ec.europa.eu/en/policies/digital-rulebook) proposed amendments to simplify the AI Act implementation and ensure the rules remain clear, simple, and innovation-friendly. This legislative proposal (dubbed as the '[AI omnibus](https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal)') has been adopted on 19 November 2025 and a [political agreement](https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens) was reached on 7 May 2026. The final text of the [AI Omnibus Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601744) entered into force in July 2026.
 
 Following the political agreement, a **clear implementation timeline** is set for the rules governing**high-risk AI systems**:
 
