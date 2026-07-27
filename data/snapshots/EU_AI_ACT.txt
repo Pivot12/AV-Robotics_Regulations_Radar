@@ -2,7 +2,7 @@ Title: AI Act
 
 URL Source: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 
-Published Time: Sun, 26 Jul 2026 09:01:48 GMT
+Published Time: Mon, 27 Jul 2026 10:15:05 GMT
 
 Markdown Content:
 ## A Risk-based Approach
@@ -13,7 +13,7 @@ The AI Act defines 4 levels of risk for AI systems:
 
 ### Unacceptable risk
 
-All AI systems considered a clear threat to the safety, livelihoods and rights of people are banned. The **AI Act prohibits eight practices**, namely:
+All AI systems considered a clear threat to the safety, livelihoods and rights of people are banned. The **AI Act prohibits nine practices**, namely:
 
 1.   harmful AI-based manipulation and deception
 2.   harmful AI-based exploitation of vulnerabilities
@@ -23,11 +23,14 @@ All AI systems considered a clear threat to the safety, livelihoods and rights o
 6.   emotion recognition in workplaces and education institutions
 7.   biometric categorisation to deduce certain protected characteristics
 8.   real-time remote biometric identification for law enforcement purposes in publicly accessible spaces
+9.   AI systems that generate non-consensual sexually explicit and intimate content or child sexual abuse (CSAM) material, such as AI ‘nudification' apps
 
-The prohibitions became effective in February 2025. The Commission published 2 key documents to support the practical application of the prohibited practices:
+Prohibitions 1-8 became effective in February 2025. The Commission published 2 key documents to support the practical application of the prohibited practices:
 
 *   The [guidelines on prohibited AI practices under the AI Act](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act), which offer legal explanations and practical examples to help stakeholders understand and comply with the prohibitions.
 *   The [guidelines on the AI system definition of the AI Act](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application), to assist stakeholders in determining the scope of the AI Act
+
+Prohibition 9 comes into effect in December 2026 and was introduced as a part of the AI Omnibus package.
 
 ### High risk
 
@@ -43,7 +46,7 @@ AI use cases that can pose serious risks to health, safety or fundamental rights
 *   AI use-cases in migration, asylum and border control management (e.g. automated examination of visa applications)
 *   AI solutions used in the administration of justice and democratic processes (e.g. AI solutions to prepare court rulings)
 
-**High-risk AI systems** are subject to **strict obligations** before they can be put on the market:
+Starting on 2 December 2027,**high-risk AI systems** will be subject to **strict obligations** before they can be put on the market:
 
 *   adequate risk assessment and mitigation systems
 *   high-quality of the datasets feeding the system to minimise risks of discriminatory outcomes
@@ -106,11 +109,11 @@ The AI Act entered into force on 1 August 2024, and will be fully applicable 2 y
 
 *   prohibited AI practices and AI literacy obligations entered into application from 2 February 2025
 *   the governance rules and the obligations for GPAI models became applicable on 2 August 2025
-*   the rules for high-risk AI systems - embedded into regulated products - have an extended transition period until 2 August 2028 (as a result of the political agreement on the proposal to simplify the AI Act – '[AI omnibus](https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal)')
+*   the rules for high-risk AI systems embedded into regulated products (Annex I) have an extended transition period until 2 August 2028 and the rules for high-risk use cases in certain sensitive areas (Annex III) have been extended to 2 December 2027 as a result of the political agreement on the proposal to simplify the AI Act – '[AI Omnibus](https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal)'
 
-## How the Commission is simplifying the AI Act implementation?
+## How has the Commission simplified the implementation of the AI Act?
 
-The [Digital Package on Simplification](https://digital-strategy.ec.europa.eu/en/policies/digital-rulebook) proposed amendments to simplify the AI Act implementation and ensure the rules remain clear, simple, and innovation-friendly. This legislative proposal (dubbed as the '[AI omnibus](https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal)') has been adopted on 19 November 2025 and a [political agreement](https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens) was reached on 7 May 2026. The final text of the [AI Omnibus Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601744) entered into force in July 2026.
+The [Digital Package on Simplification](https://digital-strategy.ec.europa.eu/en/policies/digital-rulebook) proposed amendments to simplify the AI Act implementation and ensure the rules remain clear, simple, and innovation-friendly. This legislative proposal (dubbed as the '[AI Omnibus](https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal)') was adopted on 19 November 2025 and a [political agreement](https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens) was reached on 7 May 2026. The final text of the [AI Omnibus Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601744) entered into force in July 2026.
 
 Following the political agreement, a **clear implementation timeline** is set for the rules governing**high-risk AI systems**:
 
