@@ -1,22 +1,11 @@
-Title: Automated Vehicles for Safety | NHTSA
+Title: Automated Vehicle Safety | NHTSA
 
 URL Source: https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety
 
 Published Time: Fri, 20 Feb 2026 02:26:23 GMT
 
 Markdown Content:
-Automated Vehicles for Safety[The Topic](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic)[NHTSA In Action](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#nhtsa-in-action)
-
-Automated Vehicles for Safety
-
-*   The Topic
-    *   [Today's Tech](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic-todays-tech)
-    *   [Safety Timeline](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic-safety-timeline)
-    *   [Road to Full Automation](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic-road-to-full-automation)
-    *   [Benefits](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic-benefits)
-    *   [Frequently Asked Questions](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic-frequently-asked-questions)
-
-*   [NHTSA In Action](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#nhtsa-in-action)
+Automated Vehicle Safety[The Topic](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic)[NHTSA In Action](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#nhtsa-in-action)
 
 The Topic
 
@@ -131,17 +120,3 @@ A vehicle that is fully automated will be capable of controlling all aspects of 
 Some older Americans and people with disabilities are able to drive today by adapting or modifying their vehicles to meet their specific needs. Vehicles with partial and full automation could offer new mobility options to many more people, helping them to live independently or to better connect them to jobs, education and training, and other opportunities.
 
 When discussing types of vehicles where a traditional driver would no longer be needed, NHTSA refers to them as automated driving systems. These types of vehicles have also been referred to as automated vehicles. NHTSA follows industry standards in not using the term "self-driving" to describe higher levels of automation, as this describes a vehicle's state of operation but not necessarily its capabilities and too often is falsely associated with how today's drivers need to interact with a vehicle.
-
-NHTSA In Action
-
-## NHTSA is dedicated to advancing the lifesaving potential of new vehicle technologies
-
-NHTSA demonstrates its dedication to saving lives on our nation’s roads and highways through its approach to the safe development, testing, and deployment of new and advanced vehicle technologies that have enormous potential for improving safety and mobility for all Americans.
-
-NHTSA supports the Safe System Approach, a data-driven and holistic method to roadway safety that fully integrates the needs of all users. As part of this approach, vehicle safety technologies offer unique opportunities to reduce traffic deaths, injuries, and harm.
-
-In 2025, USDOT unveiled [new automated vehicle framework](https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-automated-vehicle-framework), which included NHTSA’s release of an [amendment to the agency’s Standing General Order](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting) for automated driving systems and Level 2 advanced driver assistance systems, and [domestic exemptions](https://www.nhtsa.gov/document/automated-vehicle-exemption-program-domestic-exemptions) for NHTSA’s automated vehicle exemption program.
-
-In 2020, NHTSA launched [Automated Vehicle Transparency and Engagement for Safe Testing](https://www.nhtsa.gov/node/101531). As part of the AV TEST initiative, states and companies can voluntarily submit information about testing of automated driving systems to NHTSA, and the public can view the information using NHTSA’s interactive tool.
-
-In 2016, NHTSA and the U.S. Department of Transportation issued the Federal Automated Vehicles Policy, which sets forth a proactive approach to providing safety assurance and facilitating innovation. Building on that policy and incorporating feedback received through public comments, stakeholder meetings, and Congressional hearings the agency issued [_Automated Driving Systems: A Vision for Safety_](https://www.nhtsa.gov/node/36026).
