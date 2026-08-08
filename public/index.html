@@ -274,6 +274,10 @@
 
   /* ---- Print styles ---- */
   @media print {
+    @page{size:A4 landscape;margin:10mm}
+    .tablescroll,.chartbox,.panel,main,section,div{overflow:visible !important;max-height:none !important}
+    table{width:100% !important;table-layout:auto;font-size:10.5px !important}
+    thead{display:table-header-group}tr,img,svg{break-inside:avoid;page-break-inside:avoid}
     html, body { background: #FFFFFF !important; }
     .bg-layer, header.site, .hero-cta, .attribution-badge,
     .btn, .chip, .date-reset, .search-wrap, .card-form, #signup,
@@ -327,7 +331,7 @@
     <a class="navlink" href="#feed">Feed</a>
     <a class="navlink" href="#sources">Sources</a>
     <a class="navlink" href="#coverage">Coverage</a>
-    <a class="btn btn-primary" href="#signup">Get the digest</a>
+    <a class="btn btn-primary" href="#signup">Get notified</a>
   </div>
 </header>
 
@@ -349,7 +353,7 @@
       <h1>Know the moment a rule or safety standard <span class="accent">changes</span> across AV &amp; robotics.</h1>
       <p class="lede">AV &amp; Robotics Standards Radar watches the official regulators and standards bodies governing autonomous vehicles and robotics, and surfaces every detected change in one clean feed. No more refreshing a dozen agency sites.</p>
       <div class="hero-cta">
-        <a class="btn btn-primary" href="#signup">Get the email digest</a>
+        <a class="btn btn-primary" href="#signup">Get notified</a>
         <a class="btn btn-ghost" href="#feed">See detected changes</a>
       </div>
       <div class="stat-row">
@@ -434,8 +438,8 @@
     <div class="wrap">
       <div class="forms-grid">
         <div class="card-form signup">
-          <h3>Get the email digest</h3>
-          <p class="sub">One clean email when a rule or standard moves. No noise, no spam.</p>
+          <h3>Get notified</h3>
+          <p class="sub">Leave your email and I'll let you know when something material moves. No schedule, no spam.</p>
           <form id="signup-form" novalidate>
             <div class="field">
               <label for="su-name">Name</label>
@@ -445,14 +449,14 @@
               <label for="su-email">Email</label>
               <input id="su-email" name="email" type="email" autocomplete="email" required placeholder="you@company.com" />
             </div>
-            <button type="submit" class="btn btn-primary">Join the list</button>
+            <button type="submit" class="btn btn-primary">Notify me</button>
             <div class="form-msg" id="signup-msg" role="status" aria-live="polite"></div>
           </form>
         </div>
 
         <div class="card-form" id="contact">
-          <h3>Contact us</h3>
-          <p class="sub">Questions, a source we should add, or feedback? Send a note.</p>
+          <h3>Contact me</h3>
+          <p class="sub">Questions, a source I should add, or feedback? Send me a note.</p>
           <form id="contact-form" novalidate>
             <div class="field">
               <label for="c-name">Name</label>
