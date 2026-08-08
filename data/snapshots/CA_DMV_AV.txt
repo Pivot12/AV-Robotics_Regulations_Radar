@@ -257,31 +257,31 @@ Since autonomous vehicle (AV) technology first began raising regulatory consider
 
 Learn how to report autonomous vehicle incidents and fulfill required reporting obligations. Find reporting requirements, submission instructions, and resources for permit holders to help ensure compliance with California DMV regulations.
 
-[Learn how to report an incident](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicles-incident-reporting/)
+[Learn How to Report an Incident](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicles-incident-reporting/)
 
 ### Testing Permit Holders
 
 The California DMV authorizes manufacturers to test and deploy autonomous vehicles under three permit categories: testing with a safety driver, driverless testing, and deployment. Each category has specific approved locations, operating conditions, and speed limits.
 
-[See current permit holders](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/)
+[See Current Permit Holders](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/)
 
 ### Permit Resources
 
 The program provides resources for autonomous vehicle (AV) permit holders, including regulations, application guides, and required reporting templates.
 
-[View permit resources](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicles-program-permit-resources/)
+[View Permit Resources](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicles-program-permit-resources/)
 
 ### Collision Reports
 
 Manufacturers testing autonomous vehicles need to report every collision involving one of their vehicles that results in property damage, bodily injury, or death.
 
-[View collision reports](https://tims.berkeley.edu/tools/avsafety.php)
+[View Collision Reports](https://tims.berkeley.edu/tools/avsafety.php)
 
 ### Law Enforcement Resources
 
 The program provides resources for Law Enforcement, including training materials and form ordering instructions.
 
-[See law enforcement resources](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/law-enforcement-resources/)
+[See Law Enforcement Resources](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/law-enforcement-resources/)
 
 ## News Bulletins
 
@@ -333,19 +333,19 @@ See news bulletins relating to autonomous vehicles.
 
 Public hearings and workshops about the testing and deployment of autonomous vehicles were recorded and made available for those who were unable to attend.
 
-[View public hearings and workshops](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/autonomous-vehicle-public-hearings-and-workshops/)
+[View Public Hearings and Workshops](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/autonomous-vehicle-public-hearings-and-workshops/)
 
 ### Autonomous Vehicle Milestones
 
 Learn more about the history of autonomous vehicles in California, including the development of driverless testing programs and deployment regulations.
 
-[Explore milestones](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/autonomous-vehicle-milestones/)
+[Explore Milestones](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/california-autonomous-vehicle-regulations/autonomous-vehicle-milestones/)
 
 ### Questions?
 
 Email us if you have any questions about autonomous vehicles in California. We are here to help!
 
-[Email us](mailto:autonomousvehicles@dmv.ca.gov)
+[Email Us](mailto:autonomousvehicles@dmv.ca.gov)
 
 Was this page helpful?
 

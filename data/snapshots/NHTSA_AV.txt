@@ -2,8 +2,6 @@ Title: Automated Vehicle Safety | NHTSA
 
 URL Source: https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety
 
-Published Time: Fri, 20 Feb 2026 02:26:23 GMT
-
 Markdown Content:
 Automated Vehicle Safety[The Topic](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#the-topic)[NHTSA In Action](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety#nhtsa-in-action)
 
