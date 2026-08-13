@@ -2,21 +2,9 @@ Title: AI Act
 
 URL Source: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 
-Published Time: Wed, 12 Aug 2026 09:01:04 GMT
+Published Time: Thu, 13 Aug 2026 08:50:57 GMT
 
 Markdown Content:
-The [AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689) (Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence) is the first-ever comprehensive legal framework on AI worldwide. The aim of the rules is to foster trustworthy AI in Europe. For any **questions on the AI Act**, check out the [**AI Act Single Information platform**](https://ai-act-service-desk.ec.europa.eu/en).
-
-The AI Act sets out a risk-based rules for AI developers and deployers regarding specific uses of AI. It is part of a wider package of policy measures to support the development of trustworthy AI, which includes the [AI Continent Action Plan](https://digital-strategy.ec.europa.eu/en/factpages/ai-continent-action-plan), the [AI Innovation Package](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_383) and the launch of [AI Factories](https://digital-strategy.ec.europa.eu/en/policies/ai-factories). Together, these measures guarantee safety, fundamental rights and human-centric AI, and strengthen uptake, investment and innovation in AI across the EU.
-
-To facilitate the transition to the new regulatory framework, the Commission has launched the [AI Pact](https://digital-strategy.ec.europa.eu/en/policies/ai-pact), a voluntary initiative that seeks to support the future implementation, engage with stakeholders and invite AI providers and deployers from Europe and beyond to comply with the key obligations of the AI Act. In parallel, the [AI Act Service Desk](https://ai-act-service-desk.ec.europa.eu/en) is also providing information and support for a smooth and effective implementation of the AI Act across the EU.
-
-The AI Act ensures that Europeans can trust what AI has to offer. While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes.
-
-For example, it is often not possible to find out why an AI system has made a decision or prediction and taken a particular action. So, it may become difficult to assess whether someone has been unfairly disadvantaged, such as in a hiring decision or in an application for a public benefit scheme.
-
-Although existing legislation provides some protection, it is insufficient to address the specific challenges AI systems may bring.
-
 ## A Risk-based Approach
 
 The AI Act defines 4 levels of risk for AI systems:

@@ -9,11 +9,11 @@ On April 7, 2026, NIST released a concept note for an **AI RMF Profile on Trustw
 
 The AI RMF 1.0 is being revised.
 
-## Quick Links
+## Quick Links[![Image 1: permalink](https://www.nist.gov/libraries/nist-component-library/dist/img/link.svg)](https://www.nist.gov/itl/ai-risk-management-framework#quick-links "Permalink to this item")
 
 [Download the AI RMF 1.0](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)[View the AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/)[Visit the AI Resource Center](https://airc.nist.gov/)
 
-## Overview of the AI RMF
+## Overview of the AI RMF[![Image 2: permalink](https://www.nist.gov/libraries/nist-component-library/dist/img/link.svg)](https://www.nist.gov/itl/ai-risk-management-framework#overview-of-the-ai-rmf "Permalink to this item")
 
 Led by the Information Technology Laboratory (ITL) AI Program, and in collaboration with the private and public sectors, NIST has developed a framework to better manage risks to individuals, organizations, and society associated with artificial intelligence (AI). The [NIST AI Risk Management Framework (AI RMF)](https://doi.org/10.6028/NIST.AI.100-1) is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems.
 
@@ -29,12 +29,12 @@ On April 7, 2026, NIST released a [concept note for an AI RMF Profile on Trustwo
 
 To view public comments received on the previous drafts of the AI RMF and Requests for Information, see the[AI RMF Development](https://www.nist.gov/itl/ai-risk-management-framework/ai-rmf-development "https://www.nist.gov/itl/ai-risk-management-framework/ai-rmf-development")page.
 
-## [Translations](https://www.nist.gov/itl/ai-risk-management-framework)
+## [Translations](https://www.nist.gov/itl/ai-risk-management-framework)[![Image 3: permalink](https://www.nist.gov/libraries/nist-component-library/dist/img/link.svg)](https://www.nist.gov/itl/ai-risk-management-framework#translations "Permalink to this item")
 
 *   [NIST AI Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.ara.pdf) (Arabic)
 *   [NIST AI Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.jpn.pdf)(Japanese)
 
-## **Prior Documents**
+## **Prior Documents**[![Image 4: permalink](https://www.nist.gov/libraries/nist-component-library/dist/img/link.svg)](https://www.nist.gov/itl/ai-risk-management-framework#prior-documents "Permalink to this item")
 
 *   [Second draft of the AI Risk Management Framework](https://www.nist.gov/document/ai-risk-management-framework-2nd-draft "AI Risk Management Framework 2nd Draft") (August 18, 2022)
 *   [Initial draft of the AI Risk Management Framework](https://www.nist.gov/document/ai-risk-management-framework-initial-draft "AI Risk Management Framework: Initial Draft")(March 17, 2022)
@@ -42,7 +42,3 @@ To view public comments received on the previous drafts of the AI RMF and Reques
 *   [Brief summary](https://www.nist.gov/document/summary-analysis-responses-nist-artificial-intelligence-risk-management-framework-ai-rmf "Summary Analysis of Responses to the NIST Artificial Intelligence Risk Management Framework (AI RMF) - Request for Information (RFI) National Institute of Standards and Technology (NIST)")of[responses](https://www.nist.gov/itl/ai-risk-management-framework/comments-received-rfi-artificial-intelligence-risk-management "Comments Received for RFI on Artificial Intelligence Risk Management Framework") to the July 29, 2021, RFI (October 15, 2021)
 *   [Draft -Taxonomy of AI Risk](https://www.nist.gov/document/draft-taxonomy-ai-risk-october-15-2021 "Draft -Taxonomy of AI Risk - October 15, 2021")(October 15, 2021)
 *   [AI Risk Management Framework Request for Information](https://www.federalregister.gov/documents/2021/07/29/2021-16176/artificial-intelligence-risk-management-framework)(July 29, 2021)
-
-## Contact Us
-
-aiframework [at] nist.gov (aiframework[at]nist[dot]gov)
