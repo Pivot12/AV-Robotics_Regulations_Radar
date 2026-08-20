@@ -2,6 +2,8 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
+Published Time: Thu, 20 Aug 2026 08:27:24 GMT
+
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/46706.html#content)
 
@@ -28,7 +30,7 @@ Search
 
 [Cart](https://www.iso.org/webstore/checkout?memberId=ISO&guilang=en&continue_shopping=https%3A%2F%2Fwww.iso.org%2Fcommittee%2F46706.html "Shopping cart")
 
-[Technical Committees](https://www.iso.org/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
+[Technical Committees](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/who-develops-standards/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
 
 # ISO/TC 22
 
@@ -80,7 +82,7 @@ Published ISO standards*
 
 of which [26](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/1/u/0/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
 
-[231](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0)
+[232](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0)
 ISO standards under development*
 
 of which [2](https://www.iso.org/contents/data/committee/04/67/46706/x/catalogue/p/0/u/1/w/0/d/0#projects) under the direct responsibility of ISO/TC 22
