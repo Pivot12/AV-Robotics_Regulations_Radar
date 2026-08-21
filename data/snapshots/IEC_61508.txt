@@ -2,7 +2,7 @@ Title: Safety and functional safety
 
 URL Source: https://www.iec.ch/functionalsafety
 
-Published Time: Thu, 20 Aug 2026 08:27:31 GMT
+Published Time: Fri, 21 Aug 2026 08:18:15 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iec.ch/functionalsafety#main-content)[Technical Committee 150](https://www.iec.ch/tc150)
@@ -182,24 +182,20 @@ My IEC
     *   [Basecamp](https://www.iec.ch/basecamp)
 
 *   [Programmes & initiatives](https://www.iec.ch/programmes-initiatives)[Programmes & initiatives](https://www.iec.ch/programmes-initiatives) 
-    *   [Feedback form](https://www.iec.ch/digital-transformation-hub/feedback)
     *   [Academy & Capacity Building](https://www.iec.ch/academy)
     *   [Affiliate Country Programme](https://www.iec.ch/acp)
     *   [Young Professionals](https://www.iec.ch/young-professionals)
     *   [IEC Impact Alliance](https://www.iec.ch/impact-alliance)
     *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
-    *   [Digital transformation hub](https://www.iec.ch/digital-transformation-hub)
     *   [Global partnerships](https://www.iec.ch/global-partnerships)
     *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
     *   [Online standards development (OSD)](https://www.iec.ch/online-standards-development)
 
-    *   [Feedback form](https://www.iec.ch/digital-transformation-hub/feedback)
     *   [Academy & Capacity Building](https://www.iec.ch/academy)
     *   [Affiliate Country Programme](https://www.iec.ch/acp)
     *   [Young Professionals](https://www.iec.ch/young-professionals)
     *   [IEC Impact Alliance](https://www.iec.ch/impact-alliance)
     *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
-    *   [Digital transformation hub](https://www.iec.ch/digital-transformation-hub)
     *   [Global partnerships](https://www.iec.ch/global-partnerships)
     *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
     *   [Online standards development (OSD)](https://www.iec.ch/online-standards-development)
@@ -331,24 +327,20 @@ Toggle navigation
     *   [Basecamp](https://www.iec.ch/basecamp)
 
 *   [Programmes & initiatives](https://www.iec.ch/programmes-initiatives)[Programmes & initiatives](https://www.iec.ch/programmes-initiatives) 
-    *   [Feedback form](https://www.iec.ch/digital-transformation-hub/feedback)
     *   [Academy & Capacity Building](https://www.iec.ch/academy)
     *   [Affiliate Country Programme](https://www.iec.ch/acp)
     *   [Young Professionals](https://www.iec.ch/young-professionals)
     *   [IEC Impact Alliance](https://www.iec.ch/impact-alliance)
     *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
-    *   [Digital transformation hub](https://www.iec.ch/digital-transformation-hub)
     *   [Global partnerships](https://www.iec.ch/global-partnerships)
     *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
     *   [Online standards development (OSD)](https://www.iec.ch/online-standards-development)
 
-    *   [Feedback form](https://www.iec.ch/digital-transformation-hub/feedback)
     *   [Academy & Capacity Building](https://www.iec.ch/academy)
     *   [Affiliate Country Programme](https://www.iec.ch/acp)
     *   [Young Professionals](https://www.iec.ch/young-professionals)
     *   [IEC Impact Alliance](https://www.iec.ch/impact-alliance)
     *   [Inclusive standards](https://www.iec.ch/inclusive-standards)
-    *   [Digital transformation hub](https://www.iec.ch/digital-transformation-hub)
     *   [Global partnerships](https://www.iec.ch/global-partnerships)
     *   [Mentoring programme](https://www.iec.ch/mentoring-programme)
     *   [Online standards development (OSD)](https://www.iec.ch/online-standards-development)
