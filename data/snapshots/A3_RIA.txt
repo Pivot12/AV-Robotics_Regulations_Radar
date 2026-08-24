@@ -372,7 +372,7 @@ T: [(734) 994-6088](tel:1-734-994-6088) - F: (734) 994-3338
 
 [Website Design & Development by Amplify Industrial Marketing + Guidance.](https://www.aimg.com/)
 
-![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%269%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=ebbdb1b4-718a-4a61-bacd-b5c4b4528a56&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=ecf86f73-a6b1-46dc-8d08-3e71588a9f64&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1787473191712.269622840968188114&txn_id=obsvx&type=javascript&version=2.4.1)
+![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=d4be2dbc-8108-462b-8451-ffe16c35f95c&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=5644f96a-0e97-43bd-a4c5-90d7f7cd554b&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1787560666678.433923350446756532&txn_id=obsvx&type=javascript&version=2.4.1)
 
 ![Image 16](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 
@@ -382,4 +382,4 @@ Rate this translation
 
 Your feedback will be used to help improve Google Translate
 
-![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%269%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=ebbdb1b4-718a-4a61-bacd-b5c4b4528a56&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=ecf86f73-a6b1-46dc-8d08-3e71588a9f64&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1787473191712.269622840968188114&txn_id=obsvx&type=javascript&version=2.4.1)
+![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=d4be2dbc-8108-462b-8451-ffe16c35f95c&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=5644f96a-0e97-43bd-a4c5-90d7f7cd554b&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1787560666678.433923350446756532&txn_id=obsvx&type=javascript&version=2.4.1)
