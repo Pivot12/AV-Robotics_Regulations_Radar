@@ -2,7 +2,7 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Thu, 27 Aug 2026 15:25:49 GMT
+Published Time: Fri, 28 Aug 2026 19:48:15 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/46706.html#content)
@@ -10,9 +10,9 @@ Markdown Content:
 *   [Applications](https://login.iso.org/ "ISO's applications portal")
 *   [OBP](https://www.iso.org/obp/ui/en/ "Online Browsing Platform")
 *   [English](https://www.iso.org/committee/46706.html#)
-    *   [español](https://www.iso.org/cms/live/live/es/sites/isoorg/contents/data/committee/04/67/46706.html)
-    *   [français](https://www.iso.org/cms/live/live/fr/sites/isoorg/contents/data/committee/04/67/46706.html)
-    *   [русский](https://www.iso.org/cms/live/live/ru/sites/isoorg/contents/data/committee/04/67/46706.html)
+    *   [español](https://www.iso.org/es/contents/data/committee/04/67/46706.html)
+    *   [français](https://www.iso.org/fr/committee/46706.html)
+    *   [русский](https://www.iso.org/ru/committee/46706.html)
 
 [](https://www.iso.org/home.html "International Organization for Standardization")
 
@@ -126,6 +126,7 @@ Participating members
 | Reference | Title |
 | --- | --- |
 | ISO/TC 43/SC 1/WG 27 | Joint ISO/TC 43/SC 1 - ISO/TC 22 WG: Effect of temperature on tyre/road noise testing |
+| ISO/TC 43/SC 1/WG 33 | Joint TC 43/SC 1-TC 22 WG : Measuring method for comparing traffic noise on different road surfaces |
 | ISO/TC 43/SC 1/WG 42 | Joint ISO/TC 43/SC 1 - ISO/TC 22 WG: Measurement of noise emission (external) from road vehicles |
 | ISO/TC 43/SC 1/WG 57 | Joint ISO/TC 43/SC 1 - ISO/TC 22 WG: In-situ measurements of blocked forces |
 | ISO/TC 146/SC 6/WG 13 | Joint ISO/TC 146/SC 6 - ISO/TC 22 WG: Determination of volatile organic compounds in car interiors |
