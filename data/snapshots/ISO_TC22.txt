@@ -2,7 +2,7 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Mon, 31 Aug 2026 15:42:18 GMT
+Published Time: Tue, 01 Sep 2026 12:54:23 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/46706.html#content)
@@ -30,7 +30,7 @@ Search
 
 [Cart](https://www.iso.org/webstore/checkout?memberId=ISO&guilang=en&continue_shopping=https%3A%2F%2Fwww.iso.org%2Fcommittee%2F46706.html "Shopping cart")
 
-[Technical Committees](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/who-develops-standards/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
+[Technical Committees](https://www.iso.org/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
 
 # ISO/TC 22
 
@@ -125,8 +125,8 @@ Participating members
 
 | Reference | Title |
 | --- | --- |
+| ISO/TC 43/SC 1/JWG 33 | Joint TC 43/SC 1-TC 22 WG : Measuring method for comparing traffic noise on different road surfaces |
 | ISO/TC 43/SC 1/WG 27 | Joint ISO/TC 43/SC 1 - ISO/TC 22 WG: Effect of temperature on tyre/road noise testing |
-| ISO/TC 43/SC 1/WG 33 | Joint TC 43/SC 1-TC 22 WG : Measuring method for comparing traffic noise on different road surfaces |
 | ISO/TC 43/SC 1/WG 42 | Joint ISO/TC 43/SC 1 - ISO/TC 22 WG: Measurement of noise emission (external) from road vehicles |
 | ISO/TC 43/SC 1/WG 57 | Joint ISO/TC 43/SC 1 - ISO/TC 22 WG: In-situ measurements of blocked forces |
 | ISO/TC 146/SC 6/WG 13 | Joint ISO/TC 146/SC 6 - ISO/TC 22 WG: Determination of volatile organic compounds in car interiors |
