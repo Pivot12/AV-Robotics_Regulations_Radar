@@ -34,11 +34,11 @@ Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader 
 *   [A3 Press Center](https://www.automate.org/a3/press-center)
 *   [Advertise With Us](https://www.automate.org/a3/advertising)
 
-[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess&__hstc=44652667.50a89424528c4b5b398dd3c05c2daaf6.1788267250338.1788267250338.1788267250338.1&__hssc=44652667.1.1788267250338&__hsfp=ce50024f660a0c50a043b8157c3ea4c7)
+[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)
 
-[My Account](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess&__hstc=44652667.50a89424528c4b5b398dd3c05c2daaf6.1788267250338.1788267250338.1788267250338.1&__hssc=44652667.1.1788267250338&__hsfp=ce50024f660a0c50a043b8157c3ea4c7)|[Logout](https://www.automate.org/sso-process?logout)
+[My Account](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)|[Logout](https://www.automate.org/sso-process?logout)
 
-[MEMBER](https://www.automate.org/membership/a3-membership-upgrade-form)[JOIN A3](https://www.automate.org/membership/join)[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess&__hstc=44652667.50a89424528c4b5b398dd3c05c2daaf6.1788267250338.1788267250338.1788267250338.1&__hssc=44652667.1.1788267250338&__hsfp=ce50024f660a0c50a043b8157c3ea4c7)
+[MEMBER](https://www.automate.org/membership/a3-membership-upgrade-form)[JOIN A3](https://www.automate.org/membership/join)[LOGIN](https://a3.a3automate.org/sso/sso.aspx?returl=https%3A%2F%2Fwww%2Eautomate%2Eorg%2Fsso%2Dprocess)
 
 *   [Getting Started with Automation](https://www.automate.org/automation/getting-started-with-automation)
 
@@ -248,7 +248,7 @@ Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader 
     *   MOST POPULAR LINKS
     *   [Ohio Training](https://www.automate.org/training/ohio-training)
     *   [A3 Training Hub](https://www.automate.org/training)
-    *   [Automate Show](https://www.automateshow.com/?__hstc=44652667.50a89424528c4b5b398dd3c05c2daaf6.1788267250338.1788267250338.1788267250338.1&__hssc=44652667.1.1788267250338&__hsfp=ce50024f660a0c50a043b8157c3ea4c7)
+    *   [Automate Show](https://www.automateshow.com/)
     *   [Automation Webinars](https://www.automate.org/webinars)
     *   [A3 Events Calendar](https://www.automate.org/calendar)
 
@@ -257,7 +257,7 @@ Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader 
     *   [Advanced Vision & AI Conference](https://www.automate.org/events/advanced-vision-and-ai-conference)
     *   [International Robot Safety Conference](https://www.automate.org/events/international-robot-safety-conference)
     *   [A3 Business Forum](https://www.automate.org/events/business-forum)
-    *   [Automate Show](https://www.automateshow.com/?__hstc=44652667.50a89424528c4b5b398dd3c05c2daaf6.1788267250338.1788267250338.1788267250338.1&__hssc=44652667.1.1788267250338&__hsfp=ce50024f660a0c50a043b8157c3ea4c7)
+    *   [Automate Show](https://www.automateshow.com/)
 
     *   [Training](https://www.automate.org/training)
     *   [Introduction to Industrial Robotics](https://www.automate.org/robotics/introduction-to-industrial-robotics)
@@ -375,7 +375,7 @@ T: [(734) 994-6088](tel:1-734-994-6088) - F: (734) 994-3338
 
 [Website Design & Development by Amplify Industrial Marketing + Guidance.](https://www.aimg.com/)
 
-![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=542e2f37-6fd3-4a20-a537-b1dabd76948a&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=bd18ab42-24b3-4ea6-bc5c-8822d15201ff&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1788267249713-862882620&tw_session_start=1&twpid=tw.1788267249712.258150431189588022&txn_id=obsvx&type=javascript&version=2.4.2)
+![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%269%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=cc8d53de-e05d-4c00-87bf-e31a9930818a&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=09b847ac-0c9d-46d7-bbb1-0644129966a4&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1788351898309-735578350&tw_session_start=1&twpid=tw.1788351898309.54926012540835436&txn_id=obsvx&type=javascript&version=2.4.2)
 
 ![Image 16](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 
@@ -385,4 +385,4 @@ Rate this translation
 
 Your feedback will be used to help improve Google Translate
 
-![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=542e2f37-6fd3-4a20-a537-b1dabd76948a&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=bd18ab42-24b3-4ea6-bc5c-8822d15201ff&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1788267249713-862882620&tw_session_start=1&twpid=tw.1788267249712.258150431189588022&txn_id=obsvx&type=javascript&version=2.4.2)
+![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%269%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=cc8d53de-e05d-4c00-87bf-e31a9930818a&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=09b847ac-0c9d-46d7-bbb1-0644129966a4&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1788351898309-735578350&tw_session_start=1&twpid=tw.1788351898309.54926012540835436&txn_id=obsvx&type=javascript&version=2.4.2)
