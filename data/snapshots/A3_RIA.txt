@@ -375,7 +375,7 @@ T: [(734) 994-6088](tel:1-734-994-6088) - F: (734) 994-3338
 
 [Website Design & Development by Amplify Industrial Marketing + Guidance.](https://www.aimg.com/)
 
-![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%269%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=cc8d53de-e05d-4c00-87bf-e31a9930818a&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=09b847ac-0c9d-46d7-bbb1-0644129966a4&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1788351898309-735578350&tw_session_start=1&twpid=tw.1788351898309.54926012540835436&txn_id=obsvx&type=javascript&version=2.4.2)
+![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%269%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=0ce41452-1afc-411c-bd3f-da822ce3266a&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=a17c0f69-123e-49c3-a232-a89c03200d2c&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1788438185758.372705709713899455&txn_id=obsvx&type=javascript&version=2.4.4)
 
 ![Image 16](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 
@@ -385,4 +385,4 @@ Rate this translation
 
 Your feedback will be used to help improve Google Translate
 
-![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%269%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=cc8d53de-e05d-4c00-87bf-e31a9930818a&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=09b847ac-0c9d-46d7-bbb1-0644129966a4&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1788351898309-735578350&tw_session_start=1&twpid=tw.1788351898309.54926012540835436&txn_id=obsvx&type=javascript&version=2.4.2)
+![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%269%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=0ce41452-1afc-411c-bd3f-da822ce3266a&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=a17c0f69-123e-49c3-a232-a89c03200d2c&pt=404%20-%20Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1788438185758.372705709713899455&txn_id=obsvx&type=javascript&version=2.4.4)
