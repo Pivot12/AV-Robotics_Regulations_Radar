@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Thu, 03 Sep 2026 12:23:01 GMT
+Published Time: Fri, 04 Sep 2026 12:23:24 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
@@ -252,6 +252,7 @@ Web: [http://www.sis.se/](http://www.sis.se/ "email")
         *   [ISO/IEC 42001 explained](https://www.iso.org/home/insights-news/resources/iso-42001-explained-what-it-is.html "ISO/IEC 42001 is the International Standard for AI management systems. ")
         *   [ISO 45001 explained](https://www.iso.org/home/insights-news/resources/iso-45001-explained-what-it-is.html "ISO 45001:2018 is the International Standard for occupational health and safety management systems. It helps organizations provide safe and healthy workplaces by preventing work-related injury and ill health, managing risks, and continually improving OHS performance.")
         *   [ISO 22000 explained](https://www.iso.org/home/insights-news/resources/iso-22000-explained.html "ISO 22000 is the International Standard for food safety management systems. ")
+        *   [ISO/IEC 27090 explained](https://www.iso.org/home/insights-news/resources/ISO-27090-explained.html "ISO/IEC 27090 addresses security threats and compromises specific to AI systems. ")
 
 *   [Taking part](https://www.iso.org/developing-standards.html "Find out how the ISO process bring together global experts to create standards that are chosen the world over.")
     *   [Who develops standards](https://www.iso.org/who-develops-standards.html "ISO has put together groups of experts that represent every sector imaginable from soaps to spacecraft, MP3 to coffee. In fact there are more than 250 technical committees. You can find out what they do here.")
