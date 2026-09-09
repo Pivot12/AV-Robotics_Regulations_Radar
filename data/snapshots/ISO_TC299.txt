@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Tue, 08 Sep 2026 11:06:39 GMT
+Published Time: Wed, 09 Sep 2026 10:57:33 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
