@@ -155,11 +155,11 @@ Sub Menu Toggle[Locations & Hours](https://www.dmv.ca.gov/portal/locations/)
 
         *   [Locations & Hours](https://www.dmv.ca.gov/portal/locations/)
 
-Sub Menu Toggle[Get in Line Now](https://mt-cadmvoas.us.qmatic.cloud/branches)
+Sub Menu Toggle[Get in Line Now](https://mt-cadmvoas-secondary.us.qmatic.cloud/)
 
 ## Get in Line Now
 
-        *   [Get in Line Now](https://mt-cadmvoas.us.qmatic.cloud/branches)
+        *   [Get in Line Now](https://mt-cadmvoas-secondary.us.qmatic.cloud/)
 
 Sub Menu Toggle[Schedule Appointment](https://www.dmv.ca.gov/portal/appointments/)
 
