@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Fri, 11 Sep 2026 11:22:56 GMT
+Published Time: Sat, 12 Sep 2026 09:32:51 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
@@ -39,7 +39,7 @@ Robotics
 ## About
 
 *   Secretariat: [SIS](https://www.iso.org/member/2101.html "Swedish Institute for Standards (Sweden)")(Sweden) Committee Manager: [Ms Katarina Widström](mailto:katarina.widstrom@sis.se)  
-*   Chairperson(until end 2029): Mr Björn Lundén  
+*   Chairperson(until end 2029): Dr Björn Lundén  
 *   ISO Technical Programme Manager [TPM]:  [Mme Mercè Ferrés Hernández](mailto:ferres@iso.org)  ISO Editorial Manager [EM]:  [Ms Lucy Kirk](mailto:kirk@iso.org)  
 *    Creation date: 2015
 
@@ -277,7 +277,7 @@ Web: [http://www.sis.se/](http://www.sis.se/ "email")
 
 Making lives**_easier_**,**_safer_**and**_better_**.
 
-[Sign up](https://www.iso.org/insights/subscribe)
+[Sign up](https://www.iso.org/cms/live/live/en/sites/isoorg/mailing/iso-insights-subscription.html)
 
 for email updates
 
