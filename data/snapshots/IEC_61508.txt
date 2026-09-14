@@ -2,7 +2,7 @@ Title: Safety and functional safety
 
 URL Source: https://www.iec.ch/functionalsafety
 
-Published Time: Sun, 13 Sep 2026 12:58:45 GMT
+Published Time: Mon, 14 Sep 2026 14:35:36 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iec.ch/functionalsafety#main-content)[Technical Committee 150](https://www.iec.ch/tc150)
@@ -12,7 +12,6 @@ Markdown Content:
 *   [Advanced search](https://advsearch.iec.ch/)
 *   [Webstore](https://webstore.iec.ch/)
 *   [IEC PSP](https://products.iec.ch/)
-*   [e-tech](https://etech.iec.ch/)
 *   [Online learning](https://www.iec.ch/academy/online-learning-platform "Capacity building")
 *   [Contact us](https://www.iec.ch/contact "Contact")
 
@@ -161,9 +160,9 @@ My IEC
     *   [How to get involved](https://www.iec.ch/how-get-involved)
 
 *   [News & resources](https://www.iec.ch/news-resources)[News & resources](https://www.iec.ch/news-resources) 
-    *   [News and opinion](https://www.iec.ch/news-opinion)
+    *   [News and opinion](https://www.iec.ch/blog)
     *   [Press releases](https://www.iec.ch/press-releases)
-    *   [Newsletters](https://www.iec.ch/subscribe)
+    *   [e-tech](https://etech.iec.ch/)
     *   [Events](https://www.iec.ch/events)
     *   [Committee meetings](https://www.iec.ch/committee-meetings)
     *   [Reference material](https://www.iec.ch/news-resources/reference-material)
@@ -171,9 +170,9 @@ My IEC
     *   [Resource area](https://www.iec.ch/resource-area)
     *   [Basecamp](https://www.iec.ch/basecamp)
 
-    *   [News and opinion](https://www.iec.ch/news-opinion)
+    *   [News and opinion](https://www.iec.ch/blog)
     *   [Press releases](https://www.iec.ch/press-releases)
-    *   [Newsletters](https://www.iec.ch/subscribe)
+    *   [e-tech](https://etech.iec.ch/)
     *   [Events](https://www.iec.ch/events)
     *   [Committee meetings](https://www.iec.ch/committee-meetings)
     *   [Reference material](https://www.iec.ch/news-resources/reference-material)
@@ -220,7 +219,6 @@ My IEC
 *   [Advanced search](https://advsearch.iec.ch/)
 *   [Webstore](https://webstore.iec.ch/)
 *   [IEC PSP](https://products.iec.ch/)
-*   [e-tech](https://etech.iec.ch/)
 *   [Online learning](https://www.iec.ch/academy/online-learning-platform "Capacity building")
 *   [Contact us](https://www.iec.ch/contact "Contact")
 
@@ -306,9 +304,9 @@ Toggle navigation
     *   [How to get involved](https://www.iec.ch/how-get-involved)
 
 *   [News & resources](https://www.iec.ch/news-resources)[News & resources](https://www.iec.ch/news-resources) 
-    *   [News and opinion](https://www.iec.ch/news-opinion)
+    *   [News and opinion](https://www.iec.ch/blog)
     *   [Press releases](https://www.iec.ch/press-releases)
-    *   [Newsletters](https://www.iec.ch/subscribe)
+    *   [e-tech](https://etech.iec.ch/)
     *   [Events](https://www.iec.ch/events)
     *   [Committee meetings](https://www.iec.ch/committee-meetings)
     *   [Reference material](https://www.iec.ch/news-resources/reference-material)
@@ -316,9 +314,9 @@ Toggle navigation
     *   [Resource area](https://www.iec.ch/resource-area)
     *   [Basecamp](https://www.iec.ch/basecamp)
 
-    *   [News and opinion](https://www.iec.ch/news-opinion)
+    *   [News and opinion](https://www.iec.ch/blog)
     *   [Press releases](https://www.iec.ch/press-releases)
-    *   [Newsletters](https://www.iec.ch/subscribe)
+    *   [e-tech](https://etech.iec.ch/)
     *   [Events](https://www.iec.ch/events)
     *   [Committee meetings](https://www.iec.ch/committee-meetings)
     *   [Reference material](https://www.iec.ch/news-resources/reference-material)
