@@ -2,7 +2,7 @@ Title: Unmanned Aircraft Systems (UAS)
 
 URL Source: https://www.faa.gov/uas
 
-Published Time: Mon, 14 Sep 2026 14:31:47 GMT
+Published Time: Tue, 15 Sep 2026 12:41:12 GMT
 
 Markdown Content:
 [Skip to feedback](https://www.faa.gov/uas#fba-button)[Skip to main content](https://www.faa.gov/uas#main)
@@ -15,14 +15,12 @@ An official website of the United States government
 
 ![Image 2: Official US Government Icon](https://www.faa.gov/themes/custom/dot_cms/images/assets/icon-dot-gov.svg)
 
-**Official websites use .gov**
-
+**Official websites use .gov**  
 A **.gov** website belongs to an official government organization in the United States.
 
 ![Image 3: Secure Site Icon](https://www.faa.gov/themes/custom/dot_cms/images/assets/icon-https.svg)
 
-**Secure .gov websites use HTTPS**
-
+**Secure .gov websites use HTTPS**  
  A **lock** (  ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
 [![Image 4: Home](https://www.faa.gov/themes/custom/faa/images/logo-faa.svg)](https://www.faa.gov/ "Home")
@@ -350,14 +348,10 @@ Do you have a noise complaint? [Visit our Noise Portal](https://www.faa.gov/nois
 
 * * *
 
- OMB Control No. 3090-0321 (Expires 11/30/2028) 
-
- Estimated time to complete: 3 minutes 
-
- All responses are voluntary 
-
- Please do not include any personally identifiable information (PII) 
-
+ OMB Control No. 3090-0321 (Expires 11/30/2028)   
+ Estimated time to complete: 3 minutes   
+ All responses are voluntary   
+ Please do not include any personally identifiable information (PII)   
  Send comments about this survey to [webmanagement@faa.gov](mailto:webmanagement@faa.gov)
 
 A red asterisk (*) indicates a required field.

@@ -27,10 +27,8 @@ Download NHTSA’s voluntary guidance, technical documentation, and additional r
 
 Safety/Convenience Features
 
-Cruise Control
-
- Seat Belts
-
+Cruise Control  
+ Seat Belts  
  Antilock Brakes
 
 ![Image 2](https://www.nhtsa.gov/sites/nhtsa.gov/files/icons/icon-time-progress-2.png)
@@ -39,12 +37,9 @@ Cruise Control
 
 Advanced Safety Features
 
-Electronic Stability Control
-
- Blind Spot Detection
-
- Forward Collision Warning
-
+Electronic Stability Control  
+ Blind Spot Detection  
+ Forward Collision Warning  
  Lane Departure Warning
 
 ![Image 3](https://www.nhtsa.gov/sites/nhtsa.gov/files/icons/icon-time-progress-3.png)
@@ -53,16 +48,11 @@ Electronic Stability Control
 
 Advanced Driver Assistance Features
 
-Rearview Video Systems
-
- Automatic Emergency Braking
-
- Pedestrian Automatic Emergency Braking
-
- Rear Automatic Emergency Braking
-
- Rear Cross Traffic Alert
-
+Rearview Video Systems  
+ Automatic Emergency Braking  
+ Pedestrian Automatic Emergency Braking  
+ Rear Automatic Emergency Braking  
+ Rear Cross Traffic Alert  
  Lane Centering Assist
 
 ![Image 4](https://www.nhtsa.gov/sites/nhtsa.gov/files/icons/icon-time-progress-4.png)
@@ -71,10 +61,8 @@ Rearview Video Systems
 
 Partially Automated Safety Features
 
-Lane Keeping Assist
-
- Adaptive Cruise Control
-
+Lane Keeping Assist  
+ Adaptive Cruise Control  
  Traffic Jam Assist
 
 The Topic

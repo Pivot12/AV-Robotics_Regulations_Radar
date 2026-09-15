@@ -32,7 +32,7 @@ On November 20, 2020, pursuant to Decision 20-11-046 ([Text of Decision](https:/
     *   **[Workshop recording](https://www.youtube.com/watch?v=sLUyEpV7dT0)**
     *   **Post-workshop comments** may be filed by all parties no later than _June 27, 2023_.
 
-*   **October 22, 2019:** Autonomous Vehicle Pilot Program Workshop
+*   **October 22, 2019:** Autonomous Vehicle Pilot Program Workshop  
 
     *   [Agenda](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/av-pilot-workshop-agenda-10-22-2019---agenda.pdf "April 6, 2018: CPUC Press Release for CPUC Proposal of Autonomous Vehicle Pilot")
     *   [Webex Session Recording](https://www.youtube.com/watch?v=d61At69QcjU&feature=youtu.be "Webex Session Recording")
@@ -58,10 +58,7 @@ On November 20, 2020, pursuant to Decision 20-11-046 ([Text of Decision](https:/
 
 ## Contact Us
 
-Email:[AVPrograms@cpuc.ca.gov](mailto:AVPrograms@cpuc.ca.gov)
-
- Mail: CPUC Transportation License Section
-
- 505 Van Ness Avenue
-
+Email:[AVPrograms@cpuc.ca.gov](mailto:AVPrograms@cpuc.ca.gov)  
+ Mail: CPUC Transportation License Section  
+ 505 Van Ness Avenue  
  San Francisco, CA 94102

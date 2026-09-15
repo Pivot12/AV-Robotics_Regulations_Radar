@@ -2,7 +2,7 @@ Title: Robotics - Overview | Occupational Safety and Health Administration
 
 URL Source: https://www.osha.gov/robotics
 
-Published Time: Sun, 13 Sep 2026 14:57:42 GMT
+Published Time: Tue, 15 Sep 2026 06:23:34 GMT
 
 Markdown Content:
 [Skip to main content](https://www.osha.gov/robotics#main-content "Click here to skip to main content")
@@ -17,14 +17,12 @@ Here’s how you know
 
 ![Image 2: Dot gov](https://www.osha.gov/themes/contrib/ddp_dol_theme/build/img/icon-dot-gov.svg)
 
-**The .gov means it’s official.**
-
+**The .gov means it’s official.**  
  Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
 
 ![Image 3: Https](https://www.osha.gov/themes/contrib/ddp_dol_theme/build/img/icon-https.svg)
 
-**The site is secure.**
-
+**The site is secure.**  
  The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
 [![Image 4: United States Department of Labor](https://www.osha.gov/themes/contrib/ddp_dol_theme/img/Agency_DOL_Logo_dark.svg) U.S. Department of Labor](https://www.dol.gov/ "U.S. Department of Labor - Home")
@@ -232,16 +230,11 @@ Provides references that aid in recognizing hazards related to robotics in the w
 
 U.S. Department of Labor
 
-Occupational Safety and Health Administration
-
-200 Constitution Ave NW 
-
- Washington, DC 20210 
-
-[1-800-321-OSHA](tel:800-321-6742 "Call the Occupational Safety and Health Administration")
-
-[1-800-321-6742](tel:800-321-6742 "Call the Occupational Safety and Health Administration")
-
+Occupational Safety and Health Administration  
+200 Constitution Ave NW   
+ Washington, DC 20210   
+[1-800-321-OSHA](tel:800-321-6742 "Call the Occupational Safety and Health Administration")  
+[1-800-321-6742](tel:800-321-6742 "Call the Occupational Safety and Health Administration")  
 [www.osha.gov](https://www.osha.gov/ "Occupational Safety and Health Administration")
 
 Federal Government 
