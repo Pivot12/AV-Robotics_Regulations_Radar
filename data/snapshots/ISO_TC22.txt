@@ -2,7 +2,7 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Sun, 20 Sep 2026 12:46:30 GMT
+Published Time: Mon, 21 Sep 2026 12:07:43 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/46706.html#content)
@@ -30,7 +30,9 @@ Search
 
 [Cart](https://www.iso.org/webstore/checkout?memberId=ISO&guilang=en&continue_shopping=https%3A%2F%2Fwww.iso.org%2Fcommittee%2F46706.html "Shopping cart")
 
-[Technical Committees](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/who-develops-standards/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
+[**Just released**: the new edition of ISO 9001:2026](https://www.iso.org/standard/9001 "ISO 9001:2026 - Quality management systems — Requirements")
+
+[Technical Committees](https://www.iso.org/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
 
 # ISO/TC 22
 
@@ -233,9 +235,9 @@ Email: [Standardization@afnor.org](mailto:Standardization@afnor.org "email")
 Web: [http://www.afnor.org](http://www.afnor.org/ "email")
 
 1.   [](https://www.iso.org/home.html "Home page")
-2.   [Store](https://www.iso.org/store.html)
-3.   [Store](https://www.iso.org/store.html)
-4.   [TC](https://www.iso.org/standards-catalogue/browse-by-tc.html)
+2.   [Taking part](https://www.iso.org/developing-standards.html)
+3.   [Who develops standards](https://www.iso.org/who-develops-standards.html)
+4.   [Technical Committees](https://www.iso.org/technical-committees.html)
 5.   ISO/TC 22
 
 [Sitemap](https://www.iso.org/committee/46706.html#collapseSitemap)
