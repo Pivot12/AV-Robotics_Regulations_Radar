@@ -283,13 +283,14 @@ Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader 
 
     *   MOST POPULAR LINKS
     *   [Explore A3 Market Intelligence](https://www.automate.org/market-intelligence)
-    *   [Free Market Intelligence Reports](https://www.automate.org/automation/manufacturing-industry-output-reports-public)
+    *   [Free Signal Reports](https://www.automate.org/market-intelligence/signal)
 
     *   [MI-Plus](https://www.automate.org/market-intelligence/mi-plus)
     *   [Automation Statistics](https://www.automate.org/market-intelligence/automation-statistics)
     *   [Market Intelligence News & Insights](https://www.automate.org/market-intelligence/insights)
     *   [Industry Reports](https://www.automate.org/market-intelligence/industry-reports)
 
+    *   [Free Signal Reports](https://www.automate.org/market-intelligence/signal)
     *   [Business of Automation Podcast](https://www.automate.org/business-of-automation)
 
 *   [Who We Are](https://www.automate.org/a3/who-we-are)
@@ -374,12 +375,14 @@ T: [(734) 994-6088](tel:1-734-994-6088) - F: (734) 994-3338
 
 [Website Design & Development by Amplify Industrial Marketing + Guidance.](https://www.aimg.com/)
 
-![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=16031940-f477-47e8-9dee-07ccd8b03020&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=044c3472-0150-46df-9c2d-fc31d7226688&tw_ch_fvl=Chromium%2F154.0.8037.57%2CGoogle%20Chrome%2F154.0.8037.57%2CNot%20A(Brand%2F99.0.0.0&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1790168924996-322644650&tw_session_start=1&twpid=tw.1790168924996.97569413785875166&txn_id=obsvx&type=javascript&version=2.4.11)![Image 16](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=16031940-f477-47e8-9dee-07ccd8b03020&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=044c3472-0150-46df-9c2d-fc31d7226688&tw_ch_fvl=Chromium%2F154.0.8037.57%2CGoogle%20Chrome%2F154.0.8037.57%2CNot%20A(Brand%2F99.0.0.0&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1790168924996-322644650&tw_session_start=1&twpid=tw.1790168924996.97569413785875166&txn_id=obsvx&type=javascript&version=2.4.11)
+![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=590cb18a-80bf-49ce-a26b-66f443cb7032&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=dde7f249-e533-4f23-bb76-5a1f1479d262&tw_ch_fvl=Chromium%2F154.0.8037.57%2CGoogle%20Chrome%2F154.0.8037.57%2CNot%20A(Brand%2F99.0.0.0&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1790254952775-270367567&tw_session_start=1&twpid=tw.1790254952775.42103207542933344&txn_id=obsvx&type=javascript&version=2.4.11)
 
-![Image 17](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+![Image 16](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 
 Original text
 
 Rate this translation
 
 Your feedback will be used to help improve Google Translate
+
+![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=590cb18a-80bf-49ce-a26b-66f443cb7032&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=dde7f249-e533-4f23-bb76-5a1f1479d262&tw_ch_fvl=Chromium%2F154.0.8037.57%2CGoogle%20Chrome%2F154.0.8037.57%2CNot%20A(Brand%2F99.0.0.0&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1790254952775-270367567&tw_session_start=1&twpid=tw.1790254952775.42103207542933344&txn_id=obsvx&type=javascript&version=2.4.11)
