@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Fri, 02 Oct 2026 14:19:49 GMT
+Published Time: Sat, 03 Oct 2026 09:33:55 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
@@ -91,7 +91,7 @@ Participating members
 | Reference | Title | Type |
 | --- | --- | --- |
 | ISO/TC 299/CAG [](javascript:void(0)) | Chair's Advisory Group | Working group |
-| ISO/TC 299/JWG 5 [](javascript:void(0)) | Joint ISO/TC 299 - IEC/SC 62A - IEC/SC 62D WG: Medical robotics | Working group |
+| ISO/TC 299/JWG 5 [](javascript:void(0)) | Joint ISO/TC 299 - IEC/SC 62A - IEC/SC 62D WG: Medical equipment, software, and systems using degree of autonomy | Working group |
 | ISO/TC 299/WG 1 [](javascript:void(0)) | Vocabulary and characteristics | Working group |
 | ISO/TC 299/WG 2 [](javascript:void(0)) | Service robot safety | Working group |
 | ISO/TC 299/WG 3 [](javascript:void(0)) | Industrial safety | Working group |
