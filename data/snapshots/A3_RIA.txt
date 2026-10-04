@@ -5,8 +5,6 @@ URL Source: https://www.automate.org/robotics/standards
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window](https://accessibe.com/blog/knowledgebase/screen-reader-guide)
-
 ![Image 1: header-logo](https://global.ketchcdn.com/web/v2/assetsv1/orgs/amplify_industrial_marketing___guidance/1760638678756/test/logomark-a3.png)
 
 ### Your Privacy Choices
@@ -16,6 +14,8 @@ We and our vendors use technology that collects data about your use of our site 
 Customize I understand
 
 [](https://www.ketch.com/?utm_campaign=customer%20banner&utm_source=ketchcookiebanner&utm_medium=banner&org=amplify_industrial_marketing___guidance)
+
+Press Alt+1 for screen-reader mode, Alt+0 to cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window](https://accessibe.com/blog/knowledgebase/screen-reader-guide)
 
 [![Image 2: A3](https://www.automate.org/images/logo-a3-tagline.svg)](https://www.automate.org/)
 
@@ -374,9 +374,7 @@ T: [(734) 994-6088](tel:1-734-994-6088) - F: (734) 994-3338
 
 [Website Design & Development by Amplify Industrial Marketing + Guidance.](https://www.aimg.com/)
 
-![Image 15](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=0bf11d2d-46f7-4a76-9e4a-33337e10bffc&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=04cd5de3-a224-4c3b-8f37-de3cc12abd9f&tw_ch_fvl=Chromium%2F154.0.8037.92%2CGoogle%20Chrome%2F154.0.8037.92%2CNot%20A(Brand%2F99.0.0.0&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791031995795-41358169&tw_session_start=1&twpid=tw.1791031995795.303359385828212092&txn_id=obsvx&type=javascript&version=2.4.11)
-
-![Image 16](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+![Image 15](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 
 Original text
 
@@ -384,4 +382,4 @@ Rate this translation
 
 Your feedback will be used to help improve Google Translate
 
-![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=0bf11d2d-46f7-4a76-9e4a-33337e10bffc&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=04cd5de3-a224-4c3b-8f37-de3cc12abd9f&tw_ch_fvl=Chromium%2F154.0.8037.92%2CGoogle%20Chrome%2F154.0.8037.92%2CNot%20A(Brand%2F99.0.0.0&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791031995795-41358169&tw_session_start=1&twpid=tw.1791031995795.303359385828212092&txn_id=obsvx&type=javascript&version=2.4.11)
+![Image 16](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=890c5b9a-0c6b-4dd3-b3bf-996d9e272f52&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=74abcf8b-7442-477b-b30e-28b7b8184201&tw_ch_fvl=Chromium%2F154.0.8037.92%2CGoogle%20Chrome%2F154.0.8037.92%2CNot%20A(Brand%2F99.0.0.0&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791120906694-249427940&tw_session_start=1&twpid=tw.1791120906694.744333796319983130&txn_id=obsvx&type=javascript&version=2.4.11)![Image 17](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=890c5b9a-0c6b-4dd3-b3bf-996d9e272f52&integration=gtm-base&p_id=Twitter&p_user_id=0&pl_id=74abcf8b-7442-477b-b30e-28b7b8184201&tw_ch_fvl=Chromium%2F154.0.8037.92%2CGoogle%20Chrome%2F154.0.8037.92%2CNot%20A(Brand%2F99.0.0.0&tw_document_href=https%3A%2F%2Fwww.automate.org%2Frobotics%2Fstandards&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791120906694-249427940&tw_session_start=1&twpid=tw.1791120906694.744333796319983130&txn_id=obsvx&type=javascript&version=2.4.11)
