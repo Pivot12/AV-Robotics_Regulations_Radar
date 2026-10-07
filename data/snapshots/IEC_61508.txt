@@ -2,7 +2,7 @@ Title: Safety and functional safety
 
 URL Source: https://www.iec.ch/functionalsafety
 
-Published Time: Tue, 06 Oct 2026 14:17:16 GMT
+Published Time: Wed, 07 Oct 2026 14:19:50 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iec.ch/functionalsafety#main-content)[Technical Committee 150](https://www.iec.ch/tc150)
