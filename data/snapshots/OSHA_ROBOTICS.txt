@@ -2,7 +2,7 @@ Title: Robotics - Overview | Occupational Safety and Health Administration
 
 URL Source: https://www.osha.gov/robotics
 
-Published Time: Fri, 09 Oct 2026 13:34:38 GMT
+Published Time: Sat, 10 Oct 2026 11:03:55 GMT
 
 Markdown Content:
 [Skip to main content](https://www.osha.gov/robotics#main-content "Click here to skip to main content")
@@ -89,7 +89,6 @@ Search
         *   [Workers Memorial](https://www.osha.gov/workers-memorial "Workers Memorial")
         *   [Fall Prevention](https://www.osha.gov/stop-falls "OSHA's Fall Prevention Campaign")
         *   [Hazard Communication](https://www.osha.gov/hazcom "Hazard Communication")
-        *   [Heat](https://www.osha.gov/heat "Heat Illness Prevention Campaign")
         *   [Personal Protective Equipment](https://www.osha.gov/personal-protective-equipment "Personal Protective Equipment")
         *   [Suicide Prevention](https://www.osha.gov/preventingsuicides "Preventing Suicides")
         *   [Trenching and Excavation](https://www.osha.gov/trenching-excavation "Trenching and Excavation")
