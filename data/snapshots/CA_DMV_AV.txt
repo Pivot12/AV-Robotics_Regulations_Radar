@@ -388,6 +388,8 @@ The following pages provided on the DMV website cannot be translated using Googl
 *   Field Office Locations
 *   Online Applications
 
+Powered by [![Image 5: Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
+
 * * *
 
  Ok 
@@ -398,5 +400,13 @@ The following pages provided on the DMV website cannot be translated using Googl
 Google Translate is not support in your browser. To translate this page, please [install the Google Toolbar (opens in new window)](https://support.google.com/toolbar/answer/81376).
 
 Close Form Filler
+
+![Image 6](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+
+Original text
+
+Rate this translation
+
+Your feedback will be used to help improve Google Translate
 
 Feedback
