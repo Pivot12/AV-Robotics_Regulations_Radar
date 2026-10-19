@@ -2,10 +2,12 @@ Title: ISO/TC 22 - Road vehicles
 
 URL Source: https://www.iso.org/committee/46706.html
 
-Published Time: Sun, 18 Oct 2026 12:18:33 GMT
+Published Time: Mon, 19 Oct 2026 15:10:02 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/46706.html#content)
+
+[**Just released**: the new edition of ISO 9001](https://www.iso.org/standard/9001?utm_source=hellobar&utm_medium=isoorg&utm_campaign=ISO9001launch20261007 "ISO 9001:2026 - Quality management systems — Requirements")
 
 *   [Applications](https://login.iso.org/ "ISO's applications portal")
 *   [OBP](https://www.iso.org/obp/ui/en/ "Online Browsing Platform")
@@ -30,9 +32,7 @@ Search
 
 [Cart](https://www.iso.org/webstore/checkout?memberId=ISO&guilang=en&continue_shopping=https%3A%2F%2Fwww.iso.org%2Fcommittee%2F46706.html "Shopping cart")
 
-[**Just released**: the new edition of ISO 9001](https://www.iso.org/standard/9001?utm_source=hellobar&utm_medium=isoorg&utm_campaign=ISO9001launch20261007 "ISO 9001:2026 - Quality management systems — Requirements")
-
-[Technical Committees](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/who-develops-standards/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
+[Technical Committees](https://www.iso.org/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
 
 # ISO/TC 22
 
@@ -205,7 +205,6 @@ ISO/TC 22 can access the documents of the committees below:
 
 | Date | Month | Location | TC/SC | Note |
 | --- | --- | --- | --- | --- |
-| 16 | October 2026 | Shinjuku City (Japan) | [ISO/TC 22/SC 38](https://www.iso.org/contents/data/committee/53/84/5384008.html#meetings) |  |
 | 19-20 | October 2026 | Da Xing Qu (China) | [ISO/TC 22/SC 33](https://www.iso.org/contents/data/committee/53/83/5383785.html#meetings) |  |
 | 9-11 | December 2026 | (Italy) | [ISO/TC 22/SC 41](https://www.iso.org/contents/data/committee/53/91/5391370.html#meetings) |  |
 
