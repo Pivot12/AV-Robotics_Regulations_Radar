@@ -2,10 +2,12 @@ Title: Safety and functional safety
 
 URL Source: https://www.iec.ch/functionalsafety
 
-Published Time: Thu, 29 Oct 2026 14:48:58 GMT
+Final URL: https://www.iec.ch/functional-safety
+
+Published Time: Fri, 30 Oct 2026 14:43:13 GMT
 
 Markdown Content:
-[Skip to main content](https://www.iec.ch/functionalsafety#main-content)[Technical Committee 150](https://www.iec.ch/tc150)
+[Skip to main content](https://www.iec.ch/functional-safety#main-content)[Technical Committee 150](https://www.iec.ch/tc150)
 
 ## Top Menu
 
@@ -17,7 +19,7 @@ Markdown Content:
 
 *   My IEC [Login](https://www.iec.ch/iec/openid/authenticate?url_from=https%3A%2F%2Fwww.iec.ch%2Ffunctional-safety)[Forgot password ?](https://www.iec.ch/iec/passwordrecovery)  
 
-[](https://www.iec.ch/functionalsafety)[](https://webstore.iec.ch/)
+[](https://www.iec.ch/functional-safety)[](https://webstore.iec.ch/)
 
 My IEC 
 
@@ -366,7 +368,7 @@ Toggle navigation
 4.   Safety
 5.   Safety and functional safety
 
-[](https://www.iec.ch/functionalsafety)
+[](https://www.iec.ch/functional-safety)
 
 # Safety and functional safety
 

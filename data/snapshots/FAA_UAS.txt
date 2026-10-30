@@ -2,10 +2,10 @@ Title: Unmanned Aircraft Systems (UAS)
 
 URL Source: https://www.faa.gov/uas
 
-Published Time: Thu, 29 Oct 2026 13:26:36 GMT
+Published Time: Fri, 30 Oct 2026 14:37:47 GMT
 
 Markdown Content:
-[Skip to main content](https://www.faa.gov/uas#main)
+[Skip to feedback](https://www.faa.gov/uas#fba-button)[Skip to main content](https://www.faa.gov/uas#main)
 
 ## USA Banner
 
@@ -338,3 +338,24 @@ The future of aviation is here. The FAA collaborates with industry and communiti
 [](https://www.faa.gov/uas)
 
 All drone pilots, new or experienced, benefit from rules and safety tips to help you fly safe. More importantly, drone safety is the law. Find relevant resources below according to how you use your drone. Whether you’re a [public safety drone operator](https://www.faa.gov/uas/public_safety_gov), [certificated remote pilot](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot/), [model aircraft flyer](https://www.faa.gov/uas/recreational_flyers), or a[drone racer](https://www.faa.gov/uas/recreational_flyers), you’re in the right place to learn about integrating these new entrants into our national airspace system.
+
+![Image 5: Federal Aviation Administration logo](https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/3068/logo_square_FAA_Logo_w_white_cushion__1_.png)
+
+## FAA.gov Feedback Survey
+
+ Thank you for visiting FAA.gov. Please take a few minutes to share your experience using FAA.gov. Your feedback helps us make improvements and provide the best online experience possible. 
+Do you have a noise complaint? [Visit our Noise Portal](https://www.faa.gov/noise)
+
+* * *
+
+ OMB Control No. 3090-0321 (Expires 11/30/2028)   
+ Estimated time to complete: 3 minutes   
+ All responses are voluntary   
+ Please do not include any personally identifiable information (PII)   
+ Send comments about this survey to [webmanagement@faa.gov](mailto:webmanagement@faa.gov)
+
+A red asterisk (*) indicates a required field.
+
+### Error
+
+alert message
