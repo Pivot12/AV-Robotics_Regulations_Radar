@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Sat, 07 Nov 2026 10:44:27 GMT
+Published Time: Sun, 08 Nov 2026 14:39:48 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
@@ -28,7 +28,7 @@ Menu
 
 Search
 
-[Cart](https://www.iso.org/webstore/checkout?memberId=ISO&guilang=en&continue_shopping=https%3A%2F%2Fwww.iso.org%2Fcommittee%2F5915511.html "Shopping cart")
+[Cart](https://www.iso.org/webstore/checkout?memberId=ISO&guilang=en "Shopping cart")
 
 [Technical Committees](https://www.iso.org/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
 
@@ -278,7 +278,7 @@ Web: [http://www.sis.se/](http://www.sis.se/ "email")
 
 Making lives**_easier_**,**_safer_**and**_better_**.
 
-[Sign up](https://www.iso.org/insights/subscribe)
+[Sign up](https://www.iso.org/cms/live/live/en/sites/isoorg/mailing/iso-insights-subscription.html)
 
 for email updates
 
