@@ -53,14 +53,18 @@ The Guide to the application of the Machinery Directive 2006/42/EC is available 
 
 This document above guides you through applying ergonomic essential health and safety requirements mentioned in section 1.1.6 of Annexe I to the Machinery Directive and the corresponding harmonised standards.
 
+The Guide to the application of the Machinery Regulation (EU) 2023/1230 is currently under development and expected to be fully finalised in the course of 2028. To provide stakeholders with guidance sections that have already been approved by its Editorial Group and that have subsequently been endorsed by the Expert Group on Machinery, the temporary and partial guidance sections are made available below.
+
+[Temporary and partial Machinery Regulation application guide](https://single-market-economy.ec.europa.eu/document/download/c36aa81c-0328-4b27-8702-d79fec52194e_en?filename=Temporary%20and%20Partial%20edition%20of%20the%20MR%20Guide%20v1.00.pdf)
+
 ## Market surveillance
 
 Market surveillance ensures that products on the EU market do not endanger EU workers and citizens. It also ensures the protection of other public interests, such as the environment, security and fairness in trade.
 
 See the lists of national market surveillance authorities linked below.
 
-*   [contact points by sector (09. Machinery)](https://ec.europa.eu/docsroom/documents/59677)
-*   [contacts by EU country](https://ec.europa.eu/docsroom/documents/59679)
+*   [contact points by sector (09. Machinery)](https://single-market-economy.ec.europa.eu/document/download/209337a2-bded-4711-8143-096515e56d5d_en?filename=R-MSA_by_SECTOR%281%29.pdf)
+*   [contacts by EU country](https://single-market-economy.ec.europa.eu/document/download/6fc4ff54-46c7-4549-af1b-5b09dc7b5841_en?filename=R-MSA_by_COUNTRY.pdf)
 
 European cooperation on market surveillance takes place through informal groups of market surveillance authorities, called Administrative Cooperation groups (AdCos). The Commission supports these groups. The AdCo on machinery generally meets twice per year, either in Brussels or in another European location. The group works autonomously to a great extent.
 
