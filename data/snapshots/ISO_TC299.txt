@@ -2,7 +2,7 @@ Title: ISO/TC 299 - Robotics
 
 URL Source: https://www.iso.org/committee/5915511.html
 
-Published Time: Tue, 10 Nov 2026 15:57:32 GMT
+Published Time: Wed, 11 Nov 2026 12:42:13 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iso.org/committee/5915511.html#content)
@@ -30,7 +30,7 @@ Search
 
 [Cart](https://www.iso.org/webstore/checkout?memberId=ISO&guilang=en&continue_shopping=https%3A%2F%2Fwww.iso.org%2Fcommittee%2F5915511.html "Shopping cart")
 
-[Technical Committees](https://www.iso.org/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
+[Technical Committees](https://www.iso.org/cms/live/live/en/sites/isoorg/home/developing-standards/who-develops-standards/technical-committees.html "There are more than 300 ISO technical committees developing standards covering almost every sector imaginable.")
 
 # ISO/TC 299
 
@@ -69,7 +69,7 @@ This committee contributes with 59 standards to the following [Sustainable Devel
 [37](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/1/u/0/w/0/d/0)
 Published ISO standards*
 
-[21](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0)
+[22](https://www.iso.org/contents/data/committee/59/15/5915511/x/catalogue/p/0/u/1/w/0/d/0)
 ISO standards under development*
 
 [33](https://www.iso.org/committee/5915511.html?view=participation)
