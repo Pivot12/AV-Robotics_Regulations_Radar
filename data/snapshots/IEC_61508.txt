@@ -4,7 +4,7 @@ URL Source: https://www.iec.ch/functionalsafety
 
 Final URL: https://www.iec.ch/functional-safety
 
-Published Time: Thu, 12 Nov 2026 16:28:08 GMT
+Published Time: Fri, 13 Nov 2026 15:48:32 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iec.ch/functional-safety#main-content)[Technical Committee 150](https://www.iec.ch/tc150)
@@ -202,17 +202,15 @@ My IEC
     *   [Online standards development (OSD)](https://www.iec.ch/online-standards-development)
 
 *   [Who we are](https://www.iec.ch/who-we-are)[Who we are](https://www.iec.ch/who-we-are) 
-    *   [What we do](https://www.iec.ch/what-we-do)
     *   [About us](https://www.iec.ch/about-us)
-    *   [Vision and Mission](https://www.iec.ch/what-we-do/vision-mission)
+    *   [Vision and Mission](https://www.iec.ch/who-we-are/vision-and-mission)
     *   [Our members](https://www.iec.ch/national-committees)
     *   [Our affiliates](https://www.iec.ch/acp)
     *   [IEC leadership](https://www.iec.ch/leadership)
     *   [Management structure](https://www.iec.ch/management-structure)
 
-    *   [What we do](https://www.iec.ch/what-we-do)
     *   [About us](https://www.iec.ch/about-us)
-    *   [Vision and Mission](https://www.iec.ch/what-we-do/vision-mission)
+    *   [Vision and Mission](https://www.iec.ch/who-we-are/vision-and-mission)
     *   [Our members](https://www.iec.ch/national-committees)
     *   [Our affiliates](https://www.iec.ch/acp)
     *   [IEC leadership](https://www.iec.ch/leadership)
@@ -346,17 +344,15 @@ Toggle navigation
     *   [Online standards development (OSD)](https://www.iec.ch/online-standards-development)
 
 *   [Who we are](https://www.iec.ch/who-we-are)[Who we are](https://www.iec.ch/who-we-are) 
-    *   [What we do](https://www.iec.ch/what-we-do)
     *   [About us](https://www.iec.ch/about-us)
-    *   [Vision and Mission](https://www.iec.ch/what-we-do/vision-mission)
+    *   [Vision and Mission](https://www.iec.ch/who-we-are/vision-and-mission)
     *   [Our members](https://www.iec.ch/national-committees)
     *   [Our affiliates](https://www.iec.ch/acp)
     *   [IEC leadership](https://www.iec.ch/leadership)
     *   [Management structure](https://www.iec.ch/management-structure)
 
-    *   [What we do](https://www.iec.ch/what-we-do)
     *   [About us](https://www.iec.ch/about-us)
-    *   [Vision and Mission](https://www.iec.ch/what-we-do/vision-mission)
+    *   [Vision and Mission](https://www.iec.ch/who-we-are/vision-and-mission)
     *   [Our members](https://www.iec.ch/national-committees)
     *   [Our affiliates](https://www.iec.ch/acp)
     *   [IEC leadership](https://www.iec.ch/leadership)
