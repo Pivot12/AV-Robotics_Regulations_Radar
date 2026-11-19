@@ -4,7 +4,7 @@ URL Source: https://www.iec.ch/functionalsafety
 
 Final URL: https://www.iec.ch/functional-safety
 
-Published Time: Wed, 18 Nov 2026 16:50:20 GMT
+Published Time: Thu, 19 Nov 2026 16:15:24 GMT
 
 Markdown Content:
 [Skip to main content](https://www.iec.ch/functional-safety#main-content)[Technical Committee 150](https://www.iec.ch/tc150)
