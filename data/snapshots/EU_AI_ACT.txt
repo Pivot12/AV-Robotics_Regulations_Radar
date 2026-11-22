@@ -2,7 +2,7 @@ Title: AI Act
 
 URL Source: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 
-Published Time: Sat, 21 Nov 2026 15:16:53 GMT
+Published Time: Sun, 22 Nov 2026 15:31:30 GMT
 
 Markdown Content:
 ## A Risk-based Approach
