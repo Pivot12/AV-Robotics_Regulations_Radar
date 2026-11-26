@@ -2,8 +2,6 @@ Title: Robotics - Overview | Occupational Safety and Health Administration
 
 URL Source: https://www.osha.gov/robotics
 
-Published Time: Wed, 25 Nov 2026 08:50:37 GMT
-
 Markdown Content:
 [Skip to main content](https://www.osha.gov/robotics#main-content "Click here to skip to main content")
 
